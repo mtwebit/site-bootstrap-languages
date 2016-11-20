@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "71eaa2b13692809e39c2f0c36e7f1d7f": {
+            "text": "Jel\u00f6lje ki az export\u00e1lni k\u00edv\u00e1nt mez\u0151ket"
+        },
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "N\u00c9V"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "FELIRAT"
+        },
+        "948495146facadfe8859789036313d79": {
+            "text": "T\u00cdPUS"
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Adatok export\u00e1l\u00e1sa"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "M\u00e1solja a v\u00e1g\u00f3lapra, \u00e9s illessze be egy m\u00e1sik telep\u00edt\u00e9s \"Import\u00e1l\u00e1s\" mez\u0151j\u00e9be."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Illessze be az adatokat egy export\u00e1l\u00e1sb\u00f3l."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "M\u00e1solja a v\u00e1g\u00f3lapra az export\u00e1l\u00e1si adatokat egy m\u00e1sik telep\u00edt\u00e9sb\u0151l, majd a CTRL-V vagy a CMD-V le\u00fct\u00e9s\u00e9vel illessze be a fenti mez\u0151be."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "El\u0151n\u00e9zet"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "\u00faj"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "M\u00f3dos\u00edt\u00e1sok"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Tulajdons\u00e1g"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "R\u00e9gi \u00e9rt\u00e9k"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "\u00daj \u00e9rt\u00e9k"
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Nincsenek f\u00fcgg\u0151ben l\u00e9v\u0151 m\u00f3dos\u00edt\u00e1sok"
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "M\u00f3dos\u00edtja ezt a mez\u0151t?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "L\u00e9trehozza ezt a mez\u0151t?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "kattintson ide a m\u00f3dos\u00edt\u00e1sok megjelen\u00edt\u00e9s\u00e9hez"
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "M\u00f3dos\u00edt\u00e1sok v\u00e9gleges\u00edt\u00e9se"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Megt\u00f6rt\u00e9nt a v\u00e1ltoztat\u00e1sok alkalmaz\u00e1sa!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Nem tal\u00e1lhat\u00f3k v\u00e1ltoz\u00e1sok"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Mentve:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "Hozz\u00e1adott mez\u0151"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "M\u00f3dos\u00edtott mez\u0151"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Export\u00e1l\u00e1s"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "OK"
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Import\u00e1l\u00e1s"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Igen"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Nem"
+        },
+        "c3005b0d579421afe9654e94b7f60c41": {
+            "text": "%d hiba"
+        },
+        "2169b4627df97333ed94d1e30a9b8148": {
+            "text": "%d hiba"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "%d alkalmazand\u00f3 tulajdons\u00e1g tal\u00e1lhat\u00f3."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "%d alkalmazand\u00f3 tulajdons\u00e1g tal\u00e1lhat\u00f3."
+        },
+        "9e06b5dbfb31f1828888bca905c2e88e": {
+            "text": "Hib\u00e1k tal\u00e1lhat\u00f3k %d mez\u0151ben"
+        },
+        "68949530f08adb8c1a98b2a452c25604": {
+            "text": "Hib\u00e1k tal\u00e1lhat\u00f3k %d mez\u0151ben"
+        },
+        "98e916ede6d185f77336fd8e0c08bfe0": {
+            "text": "%d \u00faj, hozz\u00e1adand\u00f3 mez\u0151 tal\u00e1lhat\u00f3"
+        },
+        "9bdf5048d07cd31f11ccd839cc2d077a": {
+            "text": "%d \u00faj, hozz\u00e1adand\u00f3 mez\u0151 tal\u00e1lhat\u00f3"
+        },
+        "927d189873b1f34075deb20406d33644": {
+            "text": "%d megl\u00e9v\u0151, friss\u00edtend\u0151 mez\u0151 tal\u00e1lhat\u00f3"
+        },
+        "5cc06b731a19a2b34a1e3a0e79e35690": {
+            "text": "%d megl\u00e9v\u0151, friss\u00edtend\u0151 mez\u0151 tal\u00e1lhat\u00f3"
+        },
+        "99dc52a2961a9de2d42d6dbd498b0103": {
+            "text": "A(z) %d mez\u0151 hozz\u00e1adva"
+        },
+        "46b6c6eede6b98b8ac580770f6215f35": {
+            "text": "A(z) %d mez\u0151 hozz\u00e1adva"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "A(z) %d mez\u0151 m\u00f3dos\u00edtva"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "A(z) %d mez\u0151 m\u00f3dos\u00edtva"
+        },
+        "c9185726324b2953e521ff596b287f25": {
+            "text": "A(z) %d mez\u0151 kihagyva"
+        },
+        "0cf5f939a615a083962e96f06b8ed6ea": {
+            "text": "A(z) %d mez\u0151 kihagyva"
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Tekintse \u00e1t az al\u00e1bbi v\u00e1ltoztat\u00e1sokat, \u00e9s v\u00e9gleges\u00edtse \u0151ket. ha k\u00e9sz van. Ha b\u00e1rmilyen olyan v\u00e1ltoztat\u00e1s van, melyet nem akar alkalmazni, t\u00f6r\u00f6lje azokat a jel\u00f6l\u0151n\u00e9gyzeteket."
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+Kattint\u00e1s: T\u00f6bb kijel\u00f6l\u00e9se egym\u00e1s ut\u00e1n, Ctrl+Kattint\u00e1s (vagy Cmd+Kattint\u00e1s): T\u00f6bb kijel\u00f6l\u00e9se egyenk\u00e9nt, Ctrl+A (vagy Cmd+A): Az \u00f6sszes kijel\u00f6l\u00e9se."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Kattintson b\u00e1rhov\u00e1 a mez\u0151ben az \u00f6sszes export\u00e1l\u00e1si adat kijel\u00f6l\u00e9s\u00e9hez. A kijel\u00f6l\u00e9s ut\u00e1n a CTRL-C vagy a CMD-C billenty\u0171paranccsal m\u00e1solja a v\u00e1g\u00f3lapra az adatokat."
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "Javasoljuk, hogy k\u00e9zzel v\u00e1ltoztassa meg ennek a mez\u0151nek a t\u00edpus\u00e1t \"%s\" t\u00edpusra, majd tov\u00e1bbi m\u00f3dos\u00edt\u00e1sok alkalmaz\u00e1s\u00e1hoz t\u00e9rjen vissza ide."
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "N\u00e9ha k\u00e9t v\u00e9gleges\u00edt\u00e9s kell az \u00f6sszes v\u00e1ltoztat\u00e1s alkalmaz\u00e1sa el\u0151tt. Tekintse \u00e1t al\u00e1bb a f\u00fcgg\u0151ben l\u00e9v\u0151 m\u00f3dos\u00edt\u00e1sokat, majd sz\u00fcks\u00e9g szerint v\u00e9gleges\u00edtse \u0151ket."
+        }
+    }
+}

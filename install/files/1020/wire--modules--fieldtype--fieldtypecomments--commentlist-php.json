@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentList.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentlist-php",
+    "translations": {
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Hozz\u00e1sz\u00f3l\u00e1sok"
+        },
+        "4f7ba099c8cd7a8301cf1a8e81cb5e3c": {
+            "text": "y.m.d. g:ia"
+        },
+        "25d8df6e580905091a0d5ef5b9e05bf0": {
+            "text": "V\u00e1lasz"
+        }
+    }
+}

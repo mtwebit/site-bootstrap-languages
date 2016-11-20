@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFloat.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefloat-module",
+    "translations": {
+        "211efcb1aa9b0567969d0ce5a18d850c": {
+            "text": "A kerek\u00edtend\u0151 tizedesjegyek sz\u00e1ma:"
+        },
+        "22ae0e2b89e5e3d477f988cc36d3272b": {
+            "text": "Lebeg\u0151pontos sz\u00e1m"
+        },
+        "ba16f38e77b1ed0fffd53a9ba0a63aab": {
+            "text": "Lebeg\u0151pontos (decim\u00e1lis) sz\u00e1mot t\u00e1rol\u00f3 mez\u0151"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeText.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetext-module",
+    "translations": {
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Sz\u00f6vegform\u00e1z\u00f3k"
+        },
+        "965a2e6ce23bd9e9ca5122fb9862be60": {
+            "text": "Ha valamilyen automatikus form\u00e1z\u00e1st akar alkalmazni a mez\u0151n, amikor el\u0151 van k\u00e9sz\u00edtve kivitelre, akkor v\u00e1lasszon ki al\u00e1bb egy vagy t\u00f6bb sz\u00f6vegform\u00e1z\u00f3t. Ha t\u00f6bbet v\u00e1laszt ki, akkor h\u00fazza \u0151ket az alkalmaz\u00e1suk szerinti sorrendbe."
+        }
+    }
+}

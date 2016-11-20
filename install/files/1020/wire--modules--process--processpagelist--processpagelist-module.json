@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--Process--ProcessPageList--ProcessPageList-module",
+    "translations": {
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "M\u00f3dos\u00edt\u00e1s"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "M\u00e9gse"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "V\u00e1laszt\u00e1s"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Kijel\u00f6l\u00e9s t\u00f6rl\u00e9se"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "T\u00f6bb"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Szerkeszt"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Megn\u00e9z"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "\u00daj"
+        },
+        "6bc362dbf494c61ea117fe3c71ca48a5": {
+            "text": "\u00c1thelyez"
+        },
+        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
+            "text": "Ki\u00fcr\u00edt"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "A kuka nyitva: H\u00fazza ez al\u00e1 a kuk\u00e1ba dobni k\u00edv\u00e1nt lapokat"
+        },
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 A lap nem tal\u00e1lhat\u00f3"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Adminisztr\u00e1ci\u00f3"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Kuka"
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "A megjelen\u00edtend\u0151 lapmez\u0151 neve"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Anim\u00e1ci\u00f3 sebess\u00e9ge (ms)"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Kattintson \u00e9s h\u00faz\u00e1ssal helyezze \u00e1t"
+        },
+        "ae9945c00ae261445f0277fbae516179": {
+            "text": "A laplist\u00e1ban minden lap felirattal ker\u00fcl beazonos\u00edt\u00e1sra, \u00e1ltal\u00e1ban a c\u00edm vagy a f\u0151c\u00edm mez\u0151vel. Megadhatja, hogy melyik mez\u0151t haszn\u00e1lja itt. T\u00f6bb mez\u0151t a mez\u0151nevek sz\u00f3k\u00f6zzel val\u00f3 elv\u00e1laszt\u00e1s\u00e1val adhat meg. Ha a mez\u0151 objektumra old fel (mint egy m\u00e1sik lap), akkor adja meg egy ponttal a tulajdons\u00e1got, pl. masiklap.title. Ha a megadott mez\u0151 \u00fcres \u00e9rt\u00e9kre old fel, akkor a ProcessWire a lap \"n\u00e9v\" mez\u0151j\u00e9t fogja haszn\u00e1lni."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Ezt a be\u00e1ll\u00edt\u00e1st sz\u00fcks\u00e9g eset\u00e9n az egyes sablonok \"Speci\u00e1lis\" be\u00e1ll\u00edt\u00e1saiban sablononk\u00e9nti alapon b\u00edr\u00e1lhatja fel\u00fcl."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "A lapoz\u00f3s\u00e1v el\u0151tt kijelezend\u0151 lapok sz\u00e1ma"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Ez az a sebess\u00e9g, melyen minden \u00e1g a lapf\u00e1ban fel vagy le anim\u00e1l. A kisebb sz\u00e1mok gyorsabbak, viszont kev\u00e9sb\u00e9 l\u00e1that\u00f3k. Az anim\u00e1ci\u00f3 0 megad\u00e1s\u00e1val tilthat\u00f3 le."
+        }
+    }
+}

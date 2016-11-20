@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldHidden.module",
+    "textdomain": "wire--modules--inputfield--inputfieldhidden-module",
+    "translations": {
+        "689202409e48743b914713f96d93947c": {
+            "text": "\u00c9rt\u00e9k"
+        },
+        "1758cb96bcb06c04bd244697d51ed7dd": {
+            "text": "Kit\u00f6ltend\u0151 \u00e9rt\u00e9k ebben a rejtett mez\u0151ben."
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Rejtett"
+        },
+        "82a84988fe9847b174ab13ccd822f53c": {
+            "text": "Rejtett \u00e9rt\u00e9k egy \u0171rlapban"
+        }
+    }
+}

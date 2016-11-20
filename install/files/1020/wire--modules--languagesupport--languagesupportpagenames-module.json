@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Akt\u00edv?"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "A lapoz\u00f3s\u00e1v lapsz\u00e1m el\u0151tagja"
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "Az alap\u00e9rtelmezett nyelv f\u0151lapj\u00e1nak URL-c\u00edme azonos a gy\u00f6k\u00e9r URL-c\u00edmmel?"
+        },
+        "6119a76d8e8915737cda0e4151922c06": {
+            "text": "A lapsz\u00e1m enn\u00e9l a nyelvn\u00e9l ehhez a sz\u00f3hoz ker\u00fcl hozz\u00e1f\u0171z\u00e9sre a lapsz\u00e1mozott URL-c\u00edmekben. Ha kihagyja, akkor a(z) \"%s\" sz\u00f3 fog felhaszn\u00e1l\u00e1sra ker\u00fclni."
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Az **Igen** lehet\u0151s\u00e9get akkor v\u00e1lassza, ha azt akarja, hogy az alap\u00e9rtelmezett nyelv f\u0151lapj\u00e1t a **\/** gy\u00f6k\u00e9r URL-c\u00edm szolg\u00e1lja ki (aj\u00e1nlott). A **Nem** lehet\u0151s\u00e9get akkor v\u00e1lassza, ha azt akarja, hogy a gy\u00f6k\u00e9r URL-c\u00edm a **\/nev\/** c\u00edmre v\u00e9gezzen \u00e1tir\u00e1ny\u00edt\u00e1st (ahol \/nev\/ a f\u0151lap alap\u00e9rtelmezett nyelve)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Ez a be\u00e1ll\u00edt\u00e1s csak a f\u0151lap viselked\u00e9s\u00e9re van hat\u00e1ssal. A Nem v\u00e1laszt\u00e1sakor azt is ellen\u0151riznie kell, hogy a f\u0151lapnak van-e az alap\u00e9rtelmezett nyelv sz\u00e1m\u00e1ra meghat\u00e1rozott neve."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Igen - A gy\u00f6k\u00e9r URL-c\u00edm az alap\u00e9rtelmezett nyelv\u0171 f\u0151lapot szolg\u00e1lja ki (aj\u00e1nlott)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "Nem - A gy\u00f6k\u00e9r URL-c\u00edm \u00e1tir\u00e1ny\u00edt\u00e1s v\u00e9gez a k\u00f6vetkez\u0151re: \/nev\/"
+        }
+    }
+}

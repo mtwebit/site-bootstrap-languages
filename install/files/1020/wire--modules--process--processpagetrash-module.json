@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageTrash.module",
+    "textdomain": "wire--modules--process--processpagetrash-module",
+    "translations": {
+        "90e829a463f2e23bdd11a7d8dddabe7e": {
+            "text": "A kuka ki\u00fcr\u00edt\u00e9se megt\u00f6rt\u00e9nt"
+        },
+        "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
+            "text": "A kuka \u00fcres"
+        },
+        "b93325ff37316801eaf36f95c25a75e3": {
+            "text": "A k\u00f6vetkez\u0151 lapok vannak a kuk\u00e1ban"
+        },
+        "206c3d86254559ad3cd3b88e8e002113": {
+            "text": "A kuka ki\u00fcr\u00edt\u00e9se"
+        },
+        "80a9994143f3ef28a7ba4fd1dd67436a": {
+            "text": "Er\u0151s\u00edtse meg, hogy ki akarja \u00fcr\u00edteni a lapkuk\u00e1t."
+        },
+        "1012544490a2eae7e9782116062941b6": {
+            "text": "Ha t\u00fal sok elem van a kuk\u00e1ban, akkor lehet, hogy t\u00f6bbsz\u00f6r kell ki\u00fcr\u00edtenie."
+        },
+        "76c155bf8de0fe17853a8d8c231f72b0": {
+            "text": "Lapkuka"
+        },
+        "920202a83e840023ebf5ac6e31ccfbf3": {
+            "text": "A lapkuka ki\u00fcr\u00edt\u00e9s\u00e9t kezeli"
+        }
+    }
+}

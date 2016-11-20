@@ -1,0 +1,102 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPage\/InputfieldPage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
+    "translations": {
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "\u00daj l\u00e9trehoz\u00e1sa"
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "A(z) %s lap hozz\u00e1ad\u00e1sa megt\u00f6rt\u00e9nt"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Hiba a(z) \"%s\" lap hozz\u00e1ad\u00e1sakor"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "P\u00e9lda:"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(alap\u00e9rtelmezett)"
+        },
+        "962f1366aaa6f1c636d3214e12322362": {
+            "text": "V\u00e1laszthat\u00f3 lapok"
+        },
+        "21348aafc8733099a5b3c20e4a90e7b4": {
+            "text": "A v\u00e1laszthat\u00f3 lap(ok) sz\u00fcl\u0151je"
+        },
+        "dceea0994df5640514b906a18a43810f": {
+            "text": "A v\u00e1laszthat\u00f3 lap(ok) sablonja"
+        },
+        "881b1a7b97bc4d70099cc59a53e8a8e5": {
+            "text": "Beviteli mez\u0151 t\u00edpusa"
+        },
+        "4349c31cba02549f2043d69b9eb0d66e": {
+            "text": "(visszavonva)"
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Adja meg a hozz\u00e1adni k\u00edv\u00e1nt elem c\u00edm\u00e9t. A lap ment\u00e9sekor kijel\u00f6ltt\u00e9 fog v\u00e1lni."
+        },
+        "6dc3e540b29f68e1eaf558b6a2edd476": {
+            "text": "\u00cdrja be a hozz\u00e1adni k\u00edv\u00e1nt elemek c\u00edmeit, soronk\u00e9nt egyet. A lap ment\u00e9sekor fognak elk\u00e9sz\u00fclni, \u00e9s hozz\u00e1ad\u00e1sra ker\u00fclni a kijel\u00f6l\u00e9shez."
+        },
+        "5b0591013bf2cac5ee96f90e31a5b2e9": {
+            "text": "V\u00e1lassza ki a v\u00e1laszthat\u00f3 lapok sz\u00fcl\u0151j\u00e9t"
+        },
+        "53158583a607fba6e71f0f18d73a910b": {
+            "text": "Egy\u00e9ni v\u00e1laszt\u00f3 a v\u00e1laszthat\u00f3 lapok keres\u00e9s\u00e9hez"
+        },
+        "1920ec4f46fd3f4962d351c84f69cf7e": {
+            "text": "parent=\/termekek\/, template=termek, sort=name"
+        },
+        "d04c6c77608855a3ff0fb3ee32a2cd53": {
+            "text": "Egy\u00e9ni PHP-k\u00f3d a v\u00e1laszthat\u00f3 lapok keres\u00e9s\u00e9hez"
+        },
+        "bb990f9776c28444dad4fa48fb2c946c": {
+            "text": "Felirat mez\u0151"
+        },
+        "e5c1791ec6a73eed5d8a7002e2799470": {
+            "text": "V\u00e1lassza ki azt a lapmez\u0151t, melyet az egyes v\u00e1laszthat\u00f3 lapok feliratainak gener\u00e1l\u00e1s\u00e1hoz akar haszn\u00e1lni."
+        },
+        "195a66e99428447940ac989366724b42": {
+            "text": "A csillaggal megjel\u00f6lt t\u00edpusok t\u00f6bb lap v\u00e1laszt\u00e1s\u00e1hoz val\u00f3k"
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Az \u00faj lapok a k\u00f6vetkez\u0151h\u00f6z fognak hozz\u00e1ad\u00e1sra ker\u00fclni: %s"
+        },
+        "5b2e8722316eee4b8e200d6d07b51915": {
+            "text": "Ha PHP-k\u00f3dr\u00e9szlettel akar v\u00e1laszthat\u00f3 lapokat keresni a sz\u00fcl\u0151lap vagy sablon (fent) kijel\u00f6l\u00e9s\u00e9hez, akkor \u00edrja be a v\u00e1laszthat\u00f3 lapok keres\u00e9s\u00e9nek k\u00f3dj\u00e1t. Ennek az utas\u00edt\u00e1snak a $page \u00e9s a $pages API-v\u00e1ltoz\u00f3hoz van hozz\u00e1f\u00e9r\u00e9se, ahol a $page a szerkeszt\u00e9s alatt l\u00e9v\u0151 lapra utal. A r\u00e9szletnek vagy PageArray mez\u0151t vagy NULL \u00e9rt\u00e9ket kell visszaadnia. Haszn\u00e1lata nem k\u00f6telez\u0151, ha viszont haszn\u00e1latban van, akkor fel\u00fclb\u00edr\u00e1lja a fenti parent\/template\/selector mez\u0151ket. MEGJEGYZ\u00c9S: Nem kompatibilis a PageListSelect vagy az Autocomplete beviteli mez\u0151 t\u00edpusokkal."
+        },
+        "9f80067ff42d8e69d0c3a24b67ef4c85": {
+            "text": "V\u00e1lassza ki a v\u00e1laszthat\u00f3 lapok sablonj\u00e1t. A fenti sz\u00fcl\u0151 helyett vagy azon k\u00edv\u00fcl haszn\u00e1lhat\u00f3. MEGJEGYZ\u00c9S: Nem kompatibilis a PageListSelect beviteli mez\u0151 t\u00edpusokkal."
+        },
+        "bcf331523fb730639bde7c2e8fc4f811": {
+            "text": "Egy lap kijel\u00f6l\u00e9s\u00e9hez felhaszn\u00e1l\u00e1sra ker\u00fcl\u0151 mez\u0151 t\u00edpusa. Olyat v\u00e1lasszon, mely k\u00f6vetkezetes az egy lappal, ezzel ellent\u00e9tben a t\u00f6bb lapot kell v\u00e1lasztania ennek a mez\u0151nek a \"r\u00e9szletek\" f\u00fcl\u00e9n."
+        },
+        "54b79da80ed98094797b9e3ee68488a6": {
+            "text": "Az \u00f6sszead\u00e1sjellel jel\u00f6lt t\u00edpusok azonnali sz\u00fcl\u0151 helyett a fa gy\u00f6ker\u00e9ben l\u00e9v\u0151 \"sz\u00fcl\u0151t\" felt\u00e9teleznek."
+        },
+        "8332fcbd80839cdcc617bee49529ad1e": {
+            "text": "Az \u00faj lapok mez\u0151b\u0151l val\u00f3 l\u00e9trehoz\u00e1s\u00e1nak enged\u00e9lyez\u00e9se?"
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "Lapv\u00e1laszt\u00e1shoz el\u00e9rhet\u0151 beviteli mez\u0151 modulok"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "V\u00e1lassza ki a lapv\u00e1laszt\u00e1shoz haszn\u00e1lhat\u00f3 beviteli mez\u0151 modulokat. Ezeknek \u00e1ltal\u00e1ban olyan beviteli mez\u0151knek kell lenni\u00fck, melyek egy vagy t\u00f6bb be\u00e1ll\u00edt\u00e1s megad\u00e1s\u00e1t teszik lehet\u0151v\u00e9."
+        },
+        "7673446b991c59998763308c9f7f5d53": {
+            "text": "1. Fentebb a sz\u00fcl\u0151t is, \u00e9s a sablont is ki kell v\u00e1lasztani."
+        },
+        "65a208c6491dac4a6fb17f7a62f76658": {
+            "text": "2. A szerkeszt\u0151 felhaszn\u00e1l\u00f3nak hozz\u00e1f\u00e9r\u00e9ssel kell rendelkeznie ezeknek a lapoknak a l\u00e9trehoz\u00e1s\u00e1hoz\/k\u00f6zz\u00e9t\u00e9tel\u00e9hez."
+        },
+        "aa2e4d260721b3a7e2776b8cb9c19fdf": {
+            "text": "3. A felirat mez\u0151 be\u00e1ll\u00edtott \u00e9rt\u00e9ke \"title (alap\u00e9rtelmezett)\" legyen."
+        },
+        "6ad160329dd81f9ecede290bffe93928": {
+            "text": "Ha a sz\u00fcl\u0151lap vagy a (fenti) sablon kiv\u00e1laszt\u00e1sa helyett ProcessWire v\u00e1laszt\u00f3val akar v\u00e1laszthat\u00f3 lapokat keresni, akkor adja meg a v\u00e1laszt\u00f3t a v\u00e1laszthat\u00f3 lapok keres\u00e9s\u00e9hez. Ez a v\u00e1laszt\u00f3 egy $pages->find(\"saj\u00e1t v\u00e1laszt\u00f3\"); utas\u00edt\u00e1snak fog \u00e1tad\u00e1sra ker\u00fclni. MEGJEGYZ\u00c9S: Jelenleg nem kompatibilis a PageListSelect beviteli mez\u0151 t\u00edpusokkal."
+        },
+        "20463a1675fc256b438538124524746a": {
+            "text": "Ha bejel\u00f6li, akkor meg fog jelenni egy be\u00e1ll\u00edt\u00e1s is az \u00faj lap(ok) hozz\u00e1ad\u00e1s\u00e1hoz, ha eleget tesz a jelzett k\u00f6vetelm\u00e9nyeknek."
+        }
+    }
+}

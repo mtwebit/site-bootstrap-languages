@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "Adminisztr\u00e1ci\u00f3 f\u0151lap"
+        },
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Hely\u0151rz\u0151 folyamatk\u00e9nt m\u0171k\u00f6dik az adminisztr\u00e1ci\u00f3 gy\u00f6k\u00e9r sz\u00e1m\u00e1ra. Bejelentkez\u00e9s ut\u00e1n a megfelel\u0151 folyamatir\u00e1ny\u00edt\u00e1st biztos\u00edtja."
+        }
+    }
+}

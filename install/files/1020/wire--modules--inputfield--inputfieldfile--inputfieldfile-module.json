@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Le\u00edr\u00e1s"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "C\u00edmk\u00e9k"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "h\u00fazza ide a f\u00e1jlokat"
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "Ehhez a mez\u0151h\u00f6z nincsenek f\u00e1jlkiterjeszt\u00e9sek meghat\u00e1rozva."
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "Hozz\u00e1adott f\u00e1jl:"
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "A f\u00e1jl t\u00f6r\u00f6lve:"
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "A c\u00e9lEl\u00e9r\u00e9si \u00fat \u00fcres vagy nem l\u00e9tezik"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "A c\u00e9lEl\u00e9r\u00e9si \u00fat nem \u00edrhat\u00f3"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "El\u00e9rkezett a f\u00e1jlfelt\u00f6lt\u00e9s maxim\u00e1lis korl\u00e1toz\u00e1sa"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "A ZIP-f\u00e1jlok kibont\u00e1sa?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Ha bejel\u00f6li, akkor a ZIP-arch\u00edvumok kibont\u00e1sra ker\u00fclnek, \u00e9s az \u00f6sszes \u00e9rv\u00e9nyes f\u00e1jl felt\u00f6lt\u00e9sk\u00e9nt hozz\u00e1ad\u00e1sra ker\u00fcl (ha t\u00e1mogatja az \u00fczemeltet\u00e9si k\u00f6rnyezet). A maxim\u00e1lis f\u00e1jlokat 0-ra kell \u00e1ll\u00edtani (nem max), hogy m\u0171k\u00f6djenek a ZIP-felt\u00f6lt\u00e9sek."
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "A le\u00edr\u00e1s mez\u0151 sorainak sz\u00e1ma?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Adja meg a f\u00e1jlle\u00edr\u00e1s mez\u0151 sz\u00e1m\u00e1ra el\u00e9rhet\u0151 sorok sz\u00e1m\u00e1t, vagy adjon meg 0-t, hogy ne legyen le\u00edr\u00e1s mez\u0151."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "A t\u00f6bbnyelv\u0171 le\u00edr\u00e1sok letilt\u00e1sa?"
+        },
+        "9c0e34e99b5acfb622d682dabefa5578": {
+            "text": "Alap\u00e9rtelmez\u00e9sk\u00e9nt a le\u00edr\u00e1sok t\u00f6bbnyelv\u0171ek, ha telep\u00edtette a Language Support modult. Ha le akarja tiltani a t\u00f6bbnyelv\u0171 le\u00edr\u00e1sokat, akkor jel\u00f6lje be ezt a jel\u00f6l\u0151n\u00e9gyzetet."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "F\u00e1jlok"
+        },
+        "fbf221ff984c277d7fea5d290e817767": {
+            "text": "Egy vagy t\u00f6bb f\u00e1jlfelt\u00f6lt\u00e9s (rendezhet\u0151)"
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "A(z) %s f\u00e1jl elutas\u00edtva, mert megtal\u00e1lhat\u00f3 m\u00e1r a f\u00e1jlrendszerben, \u00e9s egy m\u00e1sik mez\u0151 tulajdon\u00e1ban van."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "A l\u00e9tez\u0151 f\u00e1jlok fel\u00fcl\u00edr\u00e1sa?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Ha bejel\u00f6li, akkor egy m\u00e1r l\u00e9tez\u0151 f\u00e1jllal azonos nev\u0171 felt\u00f6lt\u00f6tt f\u00e1jl le fogja cser\u00e9lni a l\u00e9tez\u0151 f\u00e1jlt (a le\u00edr\u00e1s \u00e9s a c\u00edmk\u00e9k megmaradnak). Ha nem jel\u00f6li be, akkor a felt\u00f6lt\u00f6tt f\u00e1jlok nevei \u00e1tnevez\u00e9sre ker\u00fclnek, hogy egyediek legyenek."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Vegye figyelembe, ha enged\u00e9lyezett ez a be\u00e1ll\u00edt\u00e1s, akkor az AJAX-felt\u00f6lt\u00e9s\u0171 f\u00e1jlok felt\u00f6lt\u00e9skor a lappal egy\u00fctt azonnal ment\u00e9sre ker\u00fclnek, nem pedig a \"ment\u00e9s\" gombra kattint\u00e1skor. Eredm\u00e9nyek\u00e9nt \u00e9rdemes bejel\u00f6lve hagyni ezt a be\u00e1ll\u00edt\u00e1st, ha nincs r\u00e1 konkr\u00e9t ig\u00e9nye."
+        }
+    }
+}

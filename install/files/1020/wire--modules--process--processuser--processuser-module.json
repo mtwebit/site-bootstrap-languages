@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUser.module",
+    "textdomain": "wire--modules--process--processuser--processuser-module",
+    "translations": {
+        "d04d81faf16d84bd95fab030a5bd3ad8": {
+            "text": "A vend\u00e9g szerepk\u00f6r k\u00f6telez\u0151"
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "Felhaszn\u00e1l\u00f3k"
+        },
+        "242e1deb2d082e524a63f255f9f08c11": {
+            "text": "A rendszerfelhaszn\u00e1l\u00f3k kezel\u00e9se"
+        },
+        "1dae534355f564549697cc7da0eee7e7": {
+            "text": "A rendszergazdai szerepk\u00f6rt nem t\u00e1vol\u00edthatja el saj\u00e1t mag\u00e1b\u00f3l"
+        },
+        "a756ba771ff16a33ad921b8f017a7161": {
+            "text": "A rendszergazdai szerepk\u00f6r nem rendelhet\u0151 hozz\u00e1"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Szerepk\u00f6r\u00f6k"
+        },
+        "5dee1c6493112af5676354d6c4243fbe": {
+            "text": "A felhaszn\u00e1l\u00f3 \u00f6r\u00f6k\u00f6lni fogja az egyes szerepk\u00f6r\u00f6kh\u00f6z hozz\u00e1rendelt enged\u00e9lyeket. Egy felhaszn\u00e1l\u00f3hoz t\u00f6bb szerepk\u00f6r rendelhet\u0151 hozz\u00e1. Egy laphoz val\u00f3 hozz\u00e1f\u00e9r\u00e9skor a felhaszn\u00e1l\u00f3 csak olyan enged\u00e9lyeket fog \u00f6r\u00f6k\u00f6lni a szerepk\u00f6r\u00f6kb\u0151l, melyek a lap sablonj\u00e1hoz is hozz\u00e1 vannak rendelve."
+        }
+    }
+}

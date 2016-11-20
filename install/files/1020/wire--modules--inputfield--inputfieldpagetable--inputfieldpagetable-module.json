@@ -1,0 +1,105 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldPageTable\\InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Haszn\u00e1lata el\u0151tt konfigur\u00e1lja sablonv\u00e1laszt\u00e1ssal ezt a mez\u0151t."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "A mez\u0151 haszn\u00e1lata el\u0151tt, a mez\u0151 be\u00e1ll\u00edt\u00e1saiban adjon meg egy vagy t\u00f6bb oszlopot."
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[\u00fcres]"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Az adminisztr\u00e1ci\u00f3ban kijelezend\u0151 t\u00e1bl\u00e1zatmez\u0151k"
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "A kiv\u00e1lasztott sablonokhoz hozz\u00e1rendelt egy\u00e9ni mez\u0151k k\u00f6z\u00e9 tartoznak a k\u00f6vetkez\u0151k:"
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Automatikus lapn\u00e9v form\u00e1tum"
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "P\u00e9ld\u00e1ul: A **Ymd:His** j\u00f3 n\u00e9vform\u00e1tum a d\u00e1tum-\/id\u0151alap\u00fa lapnevekhez."
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "ProFields: Lapt\u00e1bla"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Beviteli mez\u0151 a FieldtypePageTable k\u00eds\u00e9r\u00e9s\u00e9hez"
+        },
+        "26fbcf76e1954ff7641a38a979ac4b62": {
+            "text": "Azonos\u00edt\u00f3"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "N\u00e9v"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "L\u00e9trehozva"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "M\u00f3dos\u00edtva"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "M\u00f3dos\u00edtotta"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "L\u00e9trehozta"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "URL-c\u00edm"
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "El\u00e9r\u00e9si \u00fat"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Sablon"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Sz\u00fcl\u0151"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Gyermekek"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "\u00c1llapot"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "\u00daj hozz\u00e1ad\u00e1sa"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "\u00cdrja be azoknak a mez\u0151knek a neveit (soronk\u00e9nt egyet), melyeket oszlopokk\u00e9nt k\u00edv\u00e1n kijelezni a t\u00e1bl\u00e1zatban. A mez\u0151 oszlopsz\u00e9less\u00e9g\u00e9nek megad\u00e1s\u00e1hoz adja meg a \"field_name=30\" mez\u0151t, ahol a \"30\" az oszlop sz\u00e9less\u00e9ge (sz\u00e1zal\u00e9kban). A sz\u00e9less\u00e9gek megad\u00e1sakor az \u00f6sszes oszlop \u00f6sszege legfeljebb 100 legyen."
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "B\u00e1rmilyen eredeti vagy egy\u00e9ni mez\u0151t megadhat. Almez\u0151ket (mez\u0151 almez\u0151) is haszn\u00e1lhat azokhoz a mez\u0151kh\u00f6z, melyek t\u00f6bb tulajdons\u00e1got, p\u00e9ld\u00e1ul laphivatkoz\u00e1sokat tartalmaznak."
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "A lehets\u00e9ges egy\u00e9ni mez\u0151k list\u00e1j\u00e1nak itteni megtekint\u00e9s\u00e9hez v\u00e1lasszon egy sablont a R\u00e9szletek f\u00fcl\u00f6n. Mentse, majd t\u00e9rjen vissza ide."
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Kit\u00f6lt\u00e9sekor a lapok automatikusan fognak l\u00e9trehoz\u00e1sra ker\u00fclni ennek a n\u00e9vform\u00e1tumnak a haszn\u00e1lat\u00e1val, amikor egy felhaszn\u00e1l\u00f3 az \"\u00daj hozz\u00e1ad\u00e1sa\" gombra kattint. Ha \u00fcresen hagyja, akkor a program k\u00e9rni fogja a felhaszn\u00e1l\u00f3t, hogy adja meg a lap nev\u00e9t a l\u00e9trehoz\u00e1sa el\u0151tt."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Ha a n\u00e9vform\u00e1tum b\u00e1rmilyen nem alfanumerikus karaktert tartalmaz, akkor azt [PHP d\u00e1tumform\u00e1tumnak](http:\/\/www.php.net\/manual\/en\/function.date.php) tekinti a program. Ha csak alfanumerikus karaktereket tartalmaz, akkor k\u00f6zvetlen\u00fcl fog felhaszn\u00e1l\u00e1sra ker\u00fclni, az egyedis\u00e9g biztos\u00edt\u00e1sa c\u00e9lj\u00e1b\u00f3l a v\u00e9g\u00e9hez hozz\u00e1f\u0171z\u00f6tt sz\u00e1mmal (sz\u00fcks\u00e9g eset\u00e9n)."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Gyermekek tal\u00e1lhat\u00f3k, melyek hozz\u00e1adhat\u00f3k ehhez a t\u00e1bl\u00e1zathoz. Jel\u00f6lje be azoknak a jel\u00f6l\u0151n\u00e9gyzeteit, melyeket hozz\u00e1 szeretn\u00e9 adni."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Az \u00f6sszes kijel\u00f6l\u00e9se"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "Hozz\u00e1adva %d l\u00e9tez\u0151 lap a t\u00e1bl\u00e1zathoz"
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Mod\u00e1lis szerkeszt\u00e9s ablak viselked\u00e9se"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Automatikus bez\u00e1r\u00e1s ment\u00e9skor (alap\u00e9rtelmezett)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Az ablak nyitva tart\u00e1sa, bez\u00e1r\u00e1s k\u00e9zzel"
+        }
+    }
+}

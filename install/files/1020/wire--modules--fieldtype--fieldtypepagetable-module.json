@@ -1,0 +1,81 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "V\u00e1lasszon egy vagy t\u00f6bb sablont az elemekhez"
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Nyomja meg a Ment\u00e9s gombot a sablon kiv\u00e1laszt\u00e1sa ut\u00e1n, \u00e9s a Bevitel f\u00fcl\u00f6n fennmarad\u00f3 konfigur\u00e1ci\u00f3 t\u00f6bb k\u00f6rnyezetet fog tartalmazni."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "V\u00e1lassza ki az elemek sz\u00fcl\u0151j\u00e9t"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Az ebb\u0151l a mez\u0151b\u0151l l\u00e9trehozott \u00e9s kezelt mez\u0151k az itt kiv\u00e1lasztott sz\u00fcl\u0151 alatt fognak l\u00e9tezni."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Ha nem v\u00e1lasztott ki sz\u00fcl\u0151t, akkor az elemek a szerkeszt\u00e9s alatt l\u00e9v\u0151 lap gyermekeik\u00e9nt ker\u00fclnek elhelyez\u00e9sre."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "A kuk\u00e1ba dobja az elemeket a lap t\u00f6rl\u00e9sekor?"
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "Ez a be\u00e1ll\u00edt\u00e1s csak akkor \u00e9rv\u00e9nyes, ha fentebb kiv\u00e1lasztott egy sz\u00fcl\u0151t."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Lap viselked\u00e9sei"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Semmi"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Kuk\u00e1ba dobom \u0151ket"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "T\u00f6rl\u00f6m \u0151ket"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Visszavonom \u0151ket"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Elrejtem \u0151ket"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "T\u00f6rl\u00e9s"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Mi t\u00f6rt\u00e9njen a(z) \"%s\" elemekkel, ha a t\u00e1rol\u00f3 lap v\u00e9gleg t\u00f6rl\u00e9sre ker\u00fcl?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Kuka"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Mi t\u00f6rt\u00e9njen a(z) \"%s\" elemekkel, ha a kuk\u00e1ba dobt\u00e1k a t\u00e1rol\u00f3 lapot?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Visszavon\u00e1s"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Mi t\u00f6rt\u00e9njen a(z) \"%s\" elemekkel, ha vissza van vonva a t\u00e1rol\u00f3 lap?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Mez\u0151k rendez\u00e9se"
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "T\u00f6bb rendez\u00e9si mez\u0151t vessz\u0151vel elv\u00e1lasztva adhat meg, pl. \"last_name, first_name, -birthday\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Hagyja \u00fcresen ezt a k\u00e9zi h\u00faz\u00e1ssal val\u00f3 rendez\u00e9shez (alap\u00e9rtelmezett)."
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Ezek azok a sablonok, melyek az ebb\u0151l a mez\u0151b\u0151l kezelt lapok \u00e1ltal fognak felhaszn\u00e1l\u00e1sra ker\u00fclni. \u00c9rdemes l\u00e9trehoznia egy \u00faj sablont, mely ennek a mez\u0151nek az ig\u00e9nyeihez igazodik."
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "Ha bejel\u00f6li, akkor egy adott lap \u00e1ltal l\u00e9trehozott\/kezelt elemek a lap t\u00f6rl\u00e9sekor automatikusan a kuk\u00e1ba fognak ker\u00fclni. Ha nem jel\u00f6li be, akkor az elemek a fent kiv\u00e1lasztott sz\u00fcl\u0151 alatt maradnak."
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "\u00cdrja be annak a mez\u0151nek a nev\u00e9t, mely alapj\u00e1n rendezni k\u00edv\u00e1nja a t\u00e1bl\u00e1zatot. Cs\u00f6kken\u0151 rendez\u00e9shez \u00edrjon be k\u00f6t\u0151jelet a mez\u0151n\u00e9v el\u00e9, pl. \"-date\" a \"date\" helyett."
+        }
+    }
+}

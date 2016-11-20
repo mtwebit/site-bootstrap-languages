@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Session\/SessionLoginThrottle\/SessionLoginThrottle.module",
+    "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
+    "translations": {
+        "ed6ad8c8924b2e836590cad9cc6c9328": {
+            "text": "60=1 perc, 300=5 perc, 600=10 perc, 3600=1 \u00f3ra, 86400=1 nap"
+        },
+        "87f1eff9c1a8afd8f0ecee1583f88ab2": {
+            "text": "\u00dajabb bejelentkez\u00e9s megk\u00eds\u00e9rl\u00e9se el\u0151tt v\u00e1rjon legal\u00e1bb %d m\u00e1sodpercet"
+        },
+        "55c8511d5d205cbddcbc743e49a39100": {
+            "text": "Sikertelen bejelentkez\u00e9si k\u00eds\u00e9rlet ut\u00e1n a m\u00e1sodpercek sz\u00e1ma a felhaszn\u00e1l\u00f3 v\u00e1rakoztat\u00e1s\u00e1hoz"
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Szab\u00e1lyoz\u00e1s IP-c\u00edm alapj\u00e1n?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "Alap\u00e9rtelmez\u00e9sk\u00e9nt a szab\u00e1lyoz\u00e1s felhaszn\u00e1l\u00f3n\u00e9v alapj\u00e1n t\u00f6rt\u00e9nik. Ha bejel\u00f6li ezt a jel\u00f6l\u0151n\u00e9gyzetet, akkor a szab\u00e1lyoz\u00e1s IP-c\u00edm alapj\u00e1n is v\u00e9grehajt\u00e1sra fog ker\u00fclni. Ennek a be\u00e1ll\u00edt\u00e1snak az enged\u00e9lyez\u00e9s\u00e9t akkor javasoljuk, ha a felhaszn\u00e1l\u00f3k nem megosztott IP-c\u00edmr\u0151l \u00e9rkeznek."
+        },
+        "0b9bd74be740fa049b1519ae3d14eff0": {
+            "text": "Ez a sz\u00e1m meg van szorozva a sikertelen k\u00eds\u00e9rletek sz\u00e1m\u00e1val, \u00edgy minden sikertelen pr\u00f3ba hatv\u00e1nyozottan n\u00f6veli a v\u00e1rakoz\u00e1si id\u0151t. Eredm\u00e9nyk\u00e9nt legyen k\u00f6r\u00fcltekint\u0151 a t\u00fal magasra \u00e1ll\u00edt\u00e1s\u00e1val."
+        },
+        "9e72aded18bb6821af87ef367e7e002e": {
+            "text": "A m\u00e1sodpercek maxim\u00e1lis sz\u00e1ma, am\u00edg \u00fajabb bejelentkez\u00e9s megk\u00eds\u00e9rl\u00e9s\u00e9ig v\u00e1rnia kell egy felhaszn\u00e1l\u00f3nak"
+        },
+        "00b826f39c964075351bbc489037d008": {
+            "text": "Mivel a v\u00e1rakoz\u00e1si id\u0151 minden k\u00eds\u00e9rlet eset\u00e9n hatv\u00e1nyozottan n\u00f6vekszik, ez maximaliz\u00e1lja (z\u00e1rolja) a v\u00e1rakoz\u00e1si id\u0151t. Hagyja meglehet\u0151sen nagy sz\u00e1mra \u00e1ll\u00edtva."
+        }
+    }
+}

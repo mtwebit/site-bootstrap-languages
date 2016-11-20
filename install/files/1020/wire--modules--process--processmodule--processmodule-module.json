@@ -1,0 +1,357 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModule.module",
+    "textdomain": "wire--modules--process--processmodule--processmodule-module",
+    "translations": {
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Let\u00f6lt\u00e9s"
+        },
+        "418cab01f270b56053a218c414840ec9": {
+            "text": "Let\u00f6lt\u00e9s \u00e9s friss\u00edt\u00e9s"
+        },
+        "c83047e52e84102cde2e46c99f5f2fa5": {
+            "text": "Let\u00f6lt\u00e9s \u00e9s telep\u00edt\u00e9s"
+        },
+        "fadeae979278b23b0c0245fe143813ca": {
+            "text": "Modul hozz\u00e1ad\u00e1sa modult\u00e1rb\u00f3l"
+        },
+        "91412465ea9169dfd901dd5e7c96dd99": {
+            "text": "Felt\u00f6lt\u00e9s"
+        },
+        "a97f194fe643428c6e0e5b1d3ea79dbd": {
+            "text": "Modul hozz\u00e1ad\u00e1sa felt\u00f6lt\u00e9sb\u0151l"
+        },
+        "5e3f8e6adc33178f32cc7beb6ad19072": {
+            "text": "Modul hozz\u00e1ad\u00e1sa URL-c\u00edmr\u0151l"
+        },
+        "cc3acbc843dd28f892ae2c9c1211b4cb": {
+            "text": "\u00daj modulok keres\u00e9se"
+        },
+        "98dd43dfae05b11befe1f140e0ec787a": {
+            "text": "Telep\u00edtve"
+        },
+        "b14c50cfbdf80ffa1e494282c306a467": {
+            "text": "A modul telep\u00edtve"
+        },
+        "ea90a0c1864c51f82f862a6850c13951": {
+            "text": "A modulf\u00e1jlok t\u00f6r\u00f6lve"
+        },
+        "a7d6475ec8993b7224d6facc8cb0ead6": {
+            "text": "Webhely"
+        },
+        "9c67d775a708bbc2a042f878e78cfe2c": {
+            "text": "\/site\/modules\/ - Webhelyspecifikus modulok"
+        },
+        "4d90ec9a7117ef7ad9c02a90860d7122": {
+            "text": "Modul elt\u00e1vol\u00edt\u00e1s\u00e1hoz kattintson a modulra a szerkeszt\u00e9s\u00e9hez, jel\u00f6lje be az 'elt\u00e1vol\u00edt\u00e1s' jel\u00f6l\u0151n\u00e9gyzetet, majd mentse. A modul f\u00e1jlja(i) elt\u00e1vol\u00edt\u00e1s ut\u00e1n t\u00f6r\u00f6lhet\u0151(k) a \/site\/modules\/ k\u00f6nyvt\u00e1rb\u00f3l. Ha tov\u00e1bbra is megjelenik a fenti list\u00e1ban, akkor lehet, hogy az '\u00faj modulok keres\u00e9se' gombra kell kattintania, hogy a ProcessWire l\u00e1ssa a v\u00e1ltoz\u00e1st."
+        },
+        "83168e6cb289d732cc78427b51f93153": {
+            "text": "F\u0151modul"
+        },
+        "401aeb1b99895a172d78edfa183114e7": {
+            "text": "\/wire\/modules\/ - A ProcessWire f\u0151rendszer moduljai"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "\u00daj"
+        },
+        "94e84ea867143991751f06bad2b5da30": {
+            "text": "Az utols\u00f3 \u00f3r\u00e1ban"
+        },
+        "a0d5ca48d2aafbe0c044daeedc4ca0e5": {
+            "text": "Az utols\u00f3 napon"
+        },
+        "dc52e914c681bc112d4a36ed38e37299": {
+            "text": "Az utols\u00f3 h\u00e9ten"
+        },
+        "12db5f4485378bd2b028b8f67a61533e": {
+            "text": "Az utols\u00f3 h\u00f3napban"
+        },
+        "21f29ba58fe9059dae498577efb26435": {
+            "text": "Mostan\u00e1ban tal\u00e1lt \u00e9s telep\u00edtett modulok"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "Modul oszt\u00e1lyneve"
+        },
+        "3b0798392299a74418470d3f13b5eec2": {
+            "text": "A modult\u00e1r a [modules.processwire.com](http:\/\/modules.processwire.com\/) c\u00edmen tal\u00e1lhat\u00f3"
+        },
+        "def68ae90aac3e065c37457bc36d22f8": {
+            "text": "ModulOszt\u00e1lyN\u00e9v"
+        },
+        "d5f38db4e3d76c9a7cda57c660ac0dad": {
+            "text": "Modul ZIP-f\u00e1jl URL-c\u00edme"
+        },
+        "e7aef889dd1b168dc269e9ddff6a57a5": {
+            "text": "Modul ZIP-f\u00e1jl"
+        },
+        "5975f55a2bcd254c58d9fe16d7a21417": {
+            "text": "Ha \u00faj modulokat tett a \/site\/modules\/ mapp\u00e1ba, akkor kattintson erre a gombra a megkeres\u00e9s\u00fckh\u00f6z."
+        },
+        "56f298ec43e271496dd37302c5f2d023": {
+            "text": "Nem tal\u00e1lhat\u00f3k \u00faj modulok."
+        },
+        "230420a05edcb2323c858d6c410d93cf": {
+            "text": "Nem tal\u00e1lhat\u00f3k modulok."
+        },
+        "844ced21eac449bca19cf378ae770720": {
+            "text": "\u00c9rv\u00e9nytelen moduln\u00e9v: %s"
+        },
+        "addec426932e71323700afa1911f8f1c": {
+            "text": "b\u0151vebben"
+        },
+        "0d17be96c4c0a8f101dcaa0ce9c5ee7d": {
+            "text": "T\u00f6rli a(z) %s modult?"
+        },
+        "b9c21fa0192c783c8c3d3c48cd251f6c": {
+            "text": "\u00daj modul tal\u00e1lhat\u00f3"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Az \u00f6sszes megjelen\u00edt\u00e9se"
+        },
+        "8395847485c9a34007295da6a4f9d4cf": {
+            "text": "Hiba t\u00f6rt\u00e9nt az adatoknak a webszolg\u00e1ltat\u00e1s URL-c\u00edm\u00e9r\u0151l val\u00f3 lek\u00e9r\u00e9sekor"
+        },
+        "8d68afb831b95c0dc23e1457385a983c": {
+            "text": "A webszolg\u00e1ltat\u00e1s hib\u00e1t jelentett:"
+        },
+        "9e5fd09ae1c89e20aa28deee64d7f631": {
+            "text": "Sajnos a(z) \"%s\" t\u00edpus\u00fa modulok nem telep\u00edthet\u0151k az adminisztr\u00e1ci\u00f3b\u00f3l."
+        },
+        "356025c686f0f84759d1762a071903ad": {
+            "text": "Jelent meg friss\u00edt\u00e9se ennek a modulnak!"
+        },
+        "822213aa38da92d8819e5c3b4ebe4c71": {
+            "text": "r\u00e9gebbi, mint a m\u00e1r telep\u00edtett!"
+        },
+        "18206c5add24b8898426959c811b779b": {
+            "text": "Tov\u00e1bbi inform\u00e1ci\u00f3"
+        },
+        "eac35422501988079c78c4da694468ff": {
+            "text": "Projektlap"
+        },
+        "49ec9b5c06ace9e448b8c7901304c036": {
+            "text": "T\u00e1mogat\u00e1si oldal"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "M\u00e9gse"
+        },
+        "013ba726c842150ec33822c5a6fc6196": {
+            "text": "A let\u00f6lt\u00e9s megszakadt"
+        },
+        "321a272463ceb9661e0951f1e3b639d5": {
+            "text": "Let\u00f6ltve:"
+        },
+        "206fdb3626f498af4b830cbf6c2efc0a": {
+            "text": "A(z) %s telep\u00edt\u00e9sre k\u00e9sz"
+        },
+        "5edb0eb1006e6be6d4cd5609357b4bb3": {
+            "text": "Telep\u00edt\u00e9s most"
+        },
+        "bb8985c9a93d30135e0a662d77228e87": {
+            "text": "Friss\u00edtve:"
+        },
+        "5bee92e129673eefc19da149e2b58f15": {
+            "text": "A(z) %s friss\u00edt\u00e9se siker\u00fclt."
+        },
+        "292287e744d21b09f577b3228ef5ce77": {
+            "text": "Tov\u00e1bb a modul be\u00e1ll\u00edt\u00e1saihoz"
+        },
+        "4ca1ee2e55f304b56891e55fc0ff7844": {
+            "text": "Nincs modul megadva"
+        },
+        "1f698ebf835d58ef66a38c20e1496fa2": {
+            "text": "(Letiltva)"
+        },
+        "c19eca215de858fb52f1067064dc4bba": {
+            "text": "Nem t\u00e1vol\u00edthat\u00f3 el a modul"
+        },
+        "7c4ba7a5c907fd803087ccd0da925c45": {
+            "text": "El\u0151bb el kell t\u00e1vol\u00edtania a t\u00f6bbi modult"
+        },
+        "c6ac99bad720428d69928c160e87c55e": {
+            "text": "Ennek a modulnak nincs semmilyen konfigur\u00e1land\u00f3 mez\u0151je"
+        },
+        "9c098768612f6e24d58eae6fb38ae756": {
+            "text": "friss\u00edt\u00e9sek keres\u00e9se"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Modulok"
+        },
+        "b7e2c8a0dd9e5f4ac8848dc0ff32ba0f": {
+            "text": "Modulok list\u00e1z\u00e1sa, szerkeszt\u00e9se vagy telep\u00edt\u00e9se\/elt\u00e1vol\u00edt\u00e1sa"
+        },
+        "70d2b9e888cc1816db79833873ff3a93": {
+            "text": "Modul"
+        },
+        "27a35aaa9bc34010a2a8b5f6e72bc59c": {
+            "text": "Verzi\u00f3"
+        },
+        "397433048c1c0bf93e5c0b270e178cb5": {
+            "text": "\u00d6sszegz\u00e9s"
+        },
+        "7dadd48b9d04ac2c725c773fb9b845e6": {
+            "text": "Telep\u00edt\u00e9s"
+        },
+        "abc3baafc079141ff12cc709fd46f471": {
+            "text": "T\u00f6rl\u00e9s"
+        },
+        "5ef031b334adbb931cf113da0bd6dcea": {
+            "text": "Be\u00e1ll\u00edt\u00e1sok"
+        },
+        "16cc8e66dedb68f1f49e919c348e3de5": {
+            "text": "M\u00e9g nincs"
+        },
+        "874966d700b2e2cca2577a2eac1d28f0": {
+            "text": "Oszt\u00e1ly"
+        },
+        "f660f5f5478044f06b7c4ff7faf94e22": {
+            "text": "Verzi\u00f3"
+        },
+        "64e220482c5957a4bc72eb93fa23c97d": {
+            "text": "Telep\u00edtve?"
+        },
+        "adface9f151f3625734957af4cc90bdc": {
+            "text": "Szerz\u0151k"
+        },
+        "e5f2ca40c235fae5ac687e306de83787": {
+            "text": "\u00d6sszegz\u00e9s"
+        },
+        "e6b6277ba8181bbd1527a9862aac46ec": {
+            "text": "Kiad\u00e1s \u00e1llapota"
+        },
+        "8cdfd203b4ed8d5355ee6f7e2819f1f7": {
+            "text": "Kompatibilit\u00e1s"
+        },
+        "6e3ecdf50e3929756d31a4f4a80179da": {
+            "text": "Hivatkoz\u00e1sok"
+        },
+        "48b843a3e9c0825de5170cc33048043f": {
+            "text": "ZIP-f\u00e1jl"
+        },
+        "6d1e927236b37ef520bf1e0c06162c61": {
+            "text": "Elt\u00e1vol\u00edt\u00e1s"
+        },
+        "1ac54e3228009efa1fcf80b8709e1288": {
+            "text": "C\u00edm"
+        },
+        "6499bebe581347fb21854f07912f1f65": {
+            "text": "Oszt\u00e1ly"
+        },
+        "db91f2b6a497a7f2f78f5ef53cc47fab": {
+            "text": "F\u00e1jl"
+        },
+        "7f05cd7d695e4a911a436478a8f0cdfc": {
+            "text": "Azonos\u00edt\u00f3"
+        },
+        "289aa00733ebcfd0bae827af29d01356": {
+            "text": "Verzi\u00f3"
+        },
+        "f09023872796deae6f1373d8a9d31a1e": {
+            "text": "Szerz\u0151"
+        },
+        "633ce9b9b1a0e5b2f37bcc433eda6073": {
+            "text": "\u00d6sszegz\u00e9s"
+        },
+        "3ffe0dd3025d49ed76beaaf53f4889ac": {
+            "text": "Tov\u00e1bbi inform\u00e1ci\u00f3"
+        },
+        "6010e3962902142283df28e6d1a1d897": {
+            "text": "T\u00f6ltse fel a modulf\u00e1jl(oka)t tartalmaz\u00f3 ZIP-f\u00e1jlt. Ha m\u00e1r telep\u00edtett modult t\u00f6lt fel, akkor a felt\u00f6lt\u00f6tt modul fel\u00fcl fogja azt \u00edrni."
+        },
+        "5259630c836d951d40cd2771922dfb5e": {
+            "text": "A jelenleg telep\u00edtett verzi\u00f3 m\u00e1r a leg\u00fajabb"
+        },
+        "baa2c21bbd137636014e8f357698761e": {
+            "text": "Folytat\u00e1s el\u0151tt ellen\u0151rizze, hogy megb\u00edzhat\u00f3-e a fenti ZIP-f\u00e1jl forr\u00e1sa!"
+        },
+        "2d30ce478ce5e77c288d80f804617331": {
+            "text": "Nem adt\u00e1k meg ennek a modulnak a let\u00f6lt\u00e9si hivatkoz\u00e1s\u00e1t, \u00e9s k\u00e9zzel kell telep\u00edtenie."
+        },
+        "e45037779e7b459b4ea29944f1b2ef5c": {
+            "text": "Elt\u00e1vol\u00edtja ezt a modult? A modulf\u00e1jlokat akkor t\u00f6r\u00f6lheti elt\u00e1vol\u00edt\u00e1s ut\u00e1n a kiszolg\u00e1l\u00f3r\u00f3l, ha m\u00e1s modulok nem haszn\u00e1lj\u00e1k."
+        },
+        "a0ab914bff40f68598d99e99d39d859c": {
+            "text": "Ez tov\u00e1bbi modulokat is el fog t\u00e1vol\u00edtani"
+        },
+        "aadb23a524b84262538be0a416d5868f": {
+            "text": "A modul elt\u00e1vol\u00edtva"
+        },
+        "9b60baa546e5c978341fd2907b1d5dc9": {
+            "text": "A modul mentve"
+        },
+        "ab216fc1fc240e6ae4a8d9e632b75177": {
+            "text": "Sz\u00fcks\u00e9ges hozz\u00e1"
+        },
+        "a954570dccb58d6a3edeb19736234655": {
+            "text": "Sz\u00fcks\u00e9ges hozz\u00e1"
+        },
+        "4d9ea4616e8b425d256a718c7686ed2b": {
+            "text": "Sz\u00fcks\u00e9ges enged\u00e9ly"
+        },
+        "da50401ad6d0a7e3ec13844538e10864": {
+            "text": "Modul adatai"
+        },
+        "8de5f3b8fe691cf6304176b9a5ed54da": {
+            "text": "A modult\u00e1rat b\u00f6ng\u00e9szve tal\u00e1lhat olyan modult, melyet le k\u00edv\u00e1n t\u00f6lteni \u00e9s telep\u00edteni. G\u00e9pelje be vagy illessze be a telep\u00edteni k\u00edv\u00e1nt modul \"oszt\u00e1lynev\u00e9t\"."
+        },
+        "dc975a9e6b0112228c42a6abbe82ae93": {
+            "text": "Legyen teljesen biztos abban, hogy megb\u00edzhat\u00f3-e a ZIP-f\u00e1jl forr\u00e1sa."
+        },
+        "29b21610722fa13430132a8d4e757d1f": {
+            "text": "T\u00f6lts\u00f6n le egy modult tartalmaz\u00f3 ZIP-f\u00e1jlt. Ha m\u00e1r telep\u00edtett modult t\u00f6lt le, akkor az \u00fajonnan let\u00f6lt\u00f6tt verzi\u00f3 fel\u00fcl fogja \u00edrni a telep\u00edtett verzi\u00f3t."
+        },
+        "5d695cc28c6a7ea955162fbdd0ae42b9": {
+            "text": "Tal\u00e1lva"
+        },
+        "2b0c95ea68acdfcd4e4d995f89bf3b92": {
+            "text": "Ez a modul nem jelez kompatibilit\u00e1st ezzel a ProcessWire verzi\u00f3val. M\u0171k\u00f6dhet m\u00e9g, viszont lehet, hogy \u00e9rdekl\u0151dnie kell a modul szerz\u0151j\u00e9n\u00e9l."
+        },
+        "bfaf55307f89bbad2f781f3ea25fae91": {
+            "text": "Telep\u00edtetlen\u00fcl hagy\u00e1s"
+        },
+        "d79883f0aa4bbfa29cfade81d86f4914": {
+            "text": "A k\u00f6vetkez\u0151ket is telep\u00edti:"
+        },
+        "89f479678076a540904291ac97e7b29c": {
+            "text": "Megjegyz\u00e9s:"
+        },
+        "76ff1156be021b9f8cc2597febd46133": {
+            "text": "Beavatkoz\u00e1si pont(ok)"
+        },
+        "617650497438099e992520bf3a664ba6": {
+            "text": "http:\/\/tartomany.hu\/ModulNev.zip"
+        },
+        "c3beb2f9b875c79f76cf703ad3659d68": {
+            "text": "Megk\u00f6veteli:"
+        },
+        "f629d0ec5b19860b76ae88da3ea10273": {
+            "text": "Hiba t\u00f6rt\u00e9nt a JSON visszafejt\u00e9sekor a webszolg\u00e1ltat\u00e1sb\u00f3l"
+        },
+        "19d1a8e075651f072ba0771e6cbc831b": {
+            "text": "A modult\u00e1rban a %s c\u00edmen kereshet"
+        },
+        "67f02952b064d6064216f2639a516eca": {
+            "text": "A(z) \"%s\" modult k\u00f6veteli meg a telep\u00edt\u00e9se el\u0151tt"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfigur\u00e1l\u00e1s"
+        },
+        "385accc7e6612e8dba4e99f22b6876b1": {
+            "text": "Konfigur\u00e1ci\u00f3s be\u00e1ll\u00edt\u00e1sokkal rendelkez\u0151 modulok"
+        },
+        "8c3466d7f1cc1dc4c01a040fe64573d5": {
+            "text": "A f\u00e1jlrendszerben megtal\u00e1lhat\u00f3, jelenleg nem telep\u00edtett modulok"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "\u00daj hozz\u00e1ad\u00e1sa"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Friss\u00edt\u00e9s"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Telep\u00edt\u00e9s"
+        },
+        "fd50b49603c0cfa8d50d7c2933cc052c": {
+            "text": "Telep\u00edti a(z) %s modult?"
+        }
+    }
+}

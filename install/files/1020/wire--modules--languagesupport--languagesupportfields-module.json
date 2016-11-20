@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportFields.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportfields-module",
+    "translations": {
+        "16d43921f6466356a5420de1d357ffb6": {
+            "text": "Nyelvi t\u00e1mogat\u00e1s \/ \u00dcres viselked\u00e9s"
+        },
+        "d5984c66ace0dae1773e991655e79484": {
+            "text": "Mi t\u00f6rt\u00e9njen, ha \u00fcres az \u00e9rt\u00e9ke ennek a mez\u0151nek?"
+        },
+        "2890518e61caa93e64ca13dbc48fd26a": {
+            "text": "Csak a nem alap\u00e9rtelmezett nyelv \u00e9rt\u00e9keire vonatkozik a webhely felhaszn\u00e1l\u00f3i oldal\u00e1n."
+        },
+        "b22ada5d7a2fc27462f6c477fc5c4dbd": {
+            "text": "\u00c9rt\u00e9k \u00f6r\u00f6kl\u00e9se az alap\u00e9rtelmezett nyelvb\u0151l"
+        },
+        "58d2e94541b468a4154422bbbc8a6ba5": {
+            "text": "\u00dcres marad"
+        }
+    }
+}

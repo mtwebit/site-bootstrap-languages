@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "895d280780a54e8c5561dea1f6a4b34d": {
+            "text": "HTML-entit\u00e1sk\u00f3dol\u00f3 (htmlspecialchars)"
+        },
+        "f34604edab8aa5bdc9e452d3e4693952": {
+            "text": "Az entit\u00e1s a htmlspecialchars (str, ENT_QUOTES) haszn\u00e1lat\u00e1val k\u00f3dolja az \u00e9s karaktereket, az aposztr\u00f3fokat, az id\u00e9z\u0151jeleket \u00e9s a nagyobb\/kisebb jelet. Haszn\u00e1lata az \u00f6sszes sz\u00f6vegmez\u0151ben\/sz\u00f6vegter\u00fcletben aj\u00e1nlott, kiv\u00e9ve a rich text szerkeszt\u0151ben, p\u00e9ld\u00e1ul a TinyMCE, vagy a jel\u00f6l\u0151nyelvben, p\u00e9ld\u00e1ul a Markdown, haszn\u00e1ltakat."
+        }
+    }
+}

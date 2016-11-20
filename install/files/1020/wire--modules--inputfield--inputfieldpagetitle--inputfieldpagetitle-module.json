@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTitle\/InputfieldPageTitle.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetitle--inputfieldpagetitle-module",
+    "translations": {
+        "2864512e4161ae21b145798e32938abf": {
+            "text": "Lapc\u00edm"
+        },
+        "dc643f0a55e724a742f7bcc43fa5b84e": {
+            "text": "A lapc\u00edm bevitel\u00e9t \u00e9s a lapn\u00e9v automatikus gener\u00e1l\u00e1s\u00e1t kezeli (ha \u00fcres a n\u00e9v)"
+        }
+    }
+}

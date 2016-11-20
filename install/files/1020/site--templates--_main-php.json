@@ -1,0 +1,27 @@
+{
+    "file": "site\\templates\\_main.php",
+    "textdomain": "site--templates--_main-php",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Szerkeszt\u00e9s"
+        },
+        "91e2c8e591043b9d9c7611a185358068": {
+            "text": "Technol\u00f3gia: ProcessWire CMS"
+        },
+        "3ee693d376f73e2bfa34e985c30bec66": {
+            "text": "Kijelentkez\u00e9s (%s)"
+        },
+        "b6e31daf2404aab3d78c7e972dfe3f8d": {
+            "text": "Adminisztr\u00e1tori bejelentkez\u00e9s"
+        },
+        "7679c0bdbd87c1984bd611c24b3cd0cb": {
+            "text": "hu"
+        },
+        "6f9fc985da145fcdd180f254dd161c57": {
+            "text": "Keres\u00e9s"
+        },
+        "2c889b7622e6ed4e56a1414ac333c814": {
+            "text": "Keres\u00e9s"
+        }
+    }
+}

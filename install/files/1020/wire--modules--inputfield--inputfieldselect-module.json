@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "Alap\u00e9rtelmezett \u00e9rt\u00e9k"
+        },
+        "d48cd2cb0f5c1d209800b28e019eb574": {
+            "text": "Ez az alap\u00e9rtelmezett \u00e9rt\u00e9k(ek) be\u00e1ll\u00edt\u00e1s az\u00e9rt \u00e9rhet\u0151 el, mert fent bejel\u00f6lte a \"k\u00f6telez\u0151\" jel\u00f6l\u0151n\u00e9gyzetet."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Lehet\u0151s\u00e9gek"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "\u00cdrja be a v\u00e1laszthat\u00f3 lehet\u0151s\u00e9geket, soronk\u00e9nt egyet."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Ha \u00fcres lehet\u0151s\u00e9ggel akarja kezdeni a list\u00e1t, akkor els\u0151 lehet\u0151s\u00e9gk\u00e9nt csak egy egyenl\u0151s\u00e9gjelet \"=\" adjon meg."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Egy lehet\u0151s\u00e9g kijel\u00f6ltt\u00e9 t\u00e9tel\u00e9hez tegyen el\u00e9 \u00f6sszead\u00e1sjelet. P\u00e9ld\u00e1ul: +Lehet\u0151s\u00e9g"
+        },
+        "c37baf4e64db68f6887058399a37ad60": {
+            "text": "Ahhoz, hogy el\u0151re kiv\u00e1lasztott alap\u00e9rtelmezett \u00e9rt\u00e9k(ek) legyen(ek), adja meg al\u00e1bb a be\u00e1ll\u00edt\u00e1s\u00e9rt\u00e9keket (soronk\u00e9nt egyet). Lapv\u00e1laszt\u00e1sokn\u00e1l ennek a lap azonos\u00edt\u00f3sz\u00e1m(ok)nak kellene lennie."
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Az \u00e9rt\u00e9k \u00e9s a felirat elk\u00fcl\u00f6n\u00edt\u00e9s\u00e9hez v\u00e1lassza \u0151ket el egyenl\u0151s\u00e9gjellel. P\u00e9ld\u00e1ul: \u00e9rt\u00e9k=Lehet\u0151s\u00e9gem"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Vez\u00e9rl\u0151elem-csoport (optgroup) l\u00e9trehoz\u00e1s\u00e1hoz h\u00fazza be 3 vagy t\u00f6bb sz\u00f3k\u00f6zzel a csoportban l\u00e9v\u0151 lehet\u0151s\u00e9geket."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "V\u00e1laszt\u00e1s"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Egy \u00e9rt\u00e9k kiv\u00e1laszt\u00e1sa egy v\u00e1laszt\u00f3 leg\u00f6rd\u00fcl\u0151b\u0151l"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentForm.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentform-php",
+    "translations": {
+        "55db28530640e9fb41ebf71ea8afce72": {
+            "text": "Sz\u00f3ljon hozz\u00e1"
+        },
+        "a3676fa92ee7acc9486a220da4580c7e": {
+            "text": "K\u00f6sz\u00f6nj\u00fck, a hozz\u00e1sz\u00f3l\u00e1s ment\u00e9se megt\u00f6rt\u00e9nt."
+        },
+        "5443970b690d94d32a481cac5cf31cb6": {
+            "text": "A hozz\u00e1sz\u00f3l\u00e1s bek\u00fcld\u00e9se megt\u00f6rt\u00e9nt, \u00e9s moder\u00e1tori j\u00f3v\u00e1hagy\u00e1s ut\u00e1n fog megjelenni."
+        },
+        "af54d31f765138998bf8d2903d4095ce": {
+            "text": "Egy vagy t\u00f6bb hiba miatt nem t\u00f6rt\u00e9nt meg a hozz\u00e1sz\u00f3l\u00e1s ment\u00e9se. K\u00e9rj\u00fck, ellen\u0151rizze az ism\u00e9telt bek\u00fcld\u00e9s el\u0151tt, hogy kit\u00f6lt\u00f6tt-e minden mez\u0151t."
+        },
+        "614cffa523202658a898e34a5d94d05e": {
+            "text": "N\u00e9v"
+        },
+        "cd5b60538fc5fdd7a7280d67e4a12089": {
+            "text": "E-mail c\u00edm"
+        },
+        "f359c2373cfa104cd9be66f79047deb5": {
+            "text": "Weblap"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Hozz\u00e1sz\u00f3l\u00e1sok"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "K\u00fcld\u00e9s"
+        },
+        "6f207f8b5dfe1eebac63467930df5189": {
+            "text": "h3"
+        }
+    }
+}

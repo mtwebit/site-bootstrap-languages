@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "textdomain": "wire--modules--process--processpageclone-module",
+    "translations": {
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "M\u00e1sol"
+        },
+        "779e23d04b68b9515ffc345454994895": {
+            "text": "Lap m\u00e1sol\u00e1sa"
+        },
+        "0ac579c02e8d96b65a4bff917771b245": {
+            "text": "Nem t\u00f6lthet\u0151 be a lap"
+        },
+        "3311bb66a5349309e01c99050e744f0b": {
+            "text": "Ez a(z) %s m\u00e1solat\u00e1t k\u00e9sz\u00edti el"
+        },
+        "59eeb47edc78526e0e13dc0dfa8f6b07": {
+            "text": "Az \u00faj lap c\u00edme"
+        },
+        "415d40999f28fef452f65616dabfc7a0": {
+            "text": "Visszavont legyen az \u00faj lap?"
+        },
+        "5061c76f17ce15eb2a6092a51cb22aa3": {
+            "text": "M\u00e1solja a gyermeklapokat is?"
+        },
+        "6a26ee7a6d1234006bf3806ee697f7d0": {
+            "text": "A(z) %s lap nem kl\u00f3nozhat\u00f3"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(m\u00e1solat)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(%d m\u00e1solat)"
+        },
+        "2627956e008c08b8affd8608d7980ff4": {
+            "text": "Ha bejel\u00f6li, akkor a kl\u00f3nozott lap visszavont \u00e1llapotot fog kapni, vagyis m\u00e9g nem lesz l\u00e1that\u00f3 a hely felhaszn\u00e1l\u00f3i oldal\u00e1n."
+        },
+        "a6c4c88eb6c7d256bf2e4aa56df4430f": {
+            "text": "Ha bejel\u00f6li, akkor az \u00f6sszes gyermeklap, az unok\u00e1k, stb. is kl\u00f3noz\u00e1sra fognak ker\u00fclni ezzel a lappal."
+        },
+        "06170efdb0d3840cd32dea984d32067a": {
+            "text": "Figyelmeztet\u00e9s: Ha nagyon nagy lapszerkezet van alatta, akkor id\u0151ig\u00e9nyes vagy lehetetlen lehet a befejez\u00e9se."
+        },
+        "7e263f9f6a65e1126c6a599ea015a27c": {
+            "text": "A(z) \"%1$s\" lap kl\u00f3noz\u00e1sa a(z) \"%2$s\" lapba megt\u00f6rt\u00e9nt"
+        },
+        "366637b8eb1e99b85f6d6535e326a491": {
+            "text": "Lapkl\u00f3n"
+        },
+        "fae7550bf964aa09e51752b154a6cb23": {
+            "text": "Lehet\u0151v\u00e9 teszi a lapok kl\u00f3noz\u00e1s\u00e1t\/m\u00e1sol\u00e1s\u00e1t\/megkett\u0151z\u00e9s\u00e9t az adminisztr\u00e1ci\u00f3ban. \"M\u00e1sol\u00e1s\" lehet\u0151s\u00e9get ad hozz\u00e1 az \u00f6sszes alkalmazhat\u00f3 laphoz a laplist\u00e1ban."
+        }
+    }
+}

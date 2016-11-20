@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageView.module",
+    "textdomain": "wire--modules--process--processpageview-module",
+    "translations": {
+        "ba53c4481b0a7190fdf6407fd2e636d7": {
+            "text": "Lap n\u00e9zet"
+        },
+        "a479e6c423ecad082c067f87a37c152a": {
+            "text": "Az ezen a folyamaton kereszt\u00fcl \u00e1tir\u00e1ny\u00edtott \u00f6sszes lap n\u00e9zet"
+        }
+    }
+}

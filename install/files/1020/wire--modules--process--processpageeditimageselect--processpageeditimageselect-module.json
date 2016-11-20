@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module",
+    "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
+    "translations": {
+        "e36098607b9dd3b6d7107a449b6a25bd": {
+            "text": "K\u00f6z\u00e9pre igzaz\u00edt\u00e1s"
+        },
+        "9909fb0aacb4a219f4b3cb8f57f63a87": {
+            "text": "K\u00e9p balra igaz\u00edt\u00e1sa oszt\u00e1ly"
+        },
+        "5e37ad68682589a77a924cdffb018f23": {
+            "text": "K\u00e9p jobbra igaz\u00edt\u00e1sa oszt\u00e1ly"
+        },
+        "9d2836f3ff372cd7964b90d118710202": {
+            "text": "K\u00e9p k\u00f6z\u00e9pre igaz\u00edt\u00e1sa oszt\u00e1ly"
+        },
+        "5d13ae1a65403891ac0fe044f3acc865": {
+            "text": "Ezen a lapon nincsenek k\u00e9pmez\u0151k. V\u00e1lasszon m\u00e1sik lapot a k\u00e9pek v\u00e1laszt\u00e1s\u00e1hoz."
+        },
+        "64a201e91bd521f5640318d844920b31": {
+            "text": "Ezen a lapon nincsenek k\u00e9pek. Z\u00e1rja be ezt az ablakot \u00e9s t\u00f6lts\u00f6n fel k\u00e9peket, vagy m\u00e1sik lapr\u00f3l v\u00e1lasszon k\u00e9peket."
+        },
+        "83ea3ed3245ed2ce30aabecdc6b4d354": {
+            "text": "K\u00e9pek lapon"
+        },
+        "48448404ecc9e95975b334dbe421c0bd": {
+            "text": "Ha m\u00e1sik lapr\u00f3l szeretne k\u00e9peket v\u00e1lasztani, jel\u00f6lje ki al\u00e1bb a lapot."
+        },
+        "48ccf48dcf2218a413ce473262f21a0c": {
+            "text": "Sz\u00e9less\u00e9g:"
+        },
+        "e933dc24fb245d863a43b4fefe9b45f5": {
+            "text": "Magass\u00e1g:"
+        },
+        "4e641cf2fc3e46719b2e78d8ab8c6c2e": {
+            "text": "A k\u00e9p jobb als\u00f3 sark\u00e1nak h\u00faz\u00e1s\u00e1val \u00e1tm\u00e9retezheti a k\u00e9pet."
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Le\u00edr\u00e1s"
+        },
+        "e853a6aca1b442d161c2642e88346bf9": {
+            "text": "Nincs igaz\u00edt\u00e1s"
+        },
+        "811398cb1e49b4f45851cc25fcc6501f": {
+            "text": "Balra igaz\u00edt\u00e1s"
+        },
+        "ad68675da1db2fb44a8d1cabcbbbb65e": {
+            "text": "Jobbra igaz\u00edt\u00e1s"
+        },
+        "d7e02762cdb4621a77388689b2ee53c0": {
+            "text": "Csatol\u00e1s nagyobb verzi\u00f3hoz?"
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "A kijel\u00f6l\u00e9shez kihagyand\u00f3 mez\u0151k"
+        },
+        "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
+            "text": "Adja meg (sz\u00f3k\u00f6zzel elv\u00e1lasztva) azoknak a k\u00e9pmez\u0151knek a neveit, melyeknek ezzel a modullal nem akarja enged\u00e9lyezni a kijel\u00f6l\u00e9s\u00e9t."
+        },
+        "63c7dee42e04e2757472031aa7164d81": {
+            "text": "A sz\u00e9less\u00e9g \u00e9s magass\u00e1g attrib\u00fatum figyelmen k\u00edv\u00fcl hagy\u00e1sa a k\u00e9pc\u00edmk\u00e9kb\u0151l?"
+        },
+        "5a8f9d5840811602e6806392ffef0523": {
+            "text": "Alap\u00e9rtelmez\u00e9sk\u00e9nt ez a modul bele fogja venni az <img> c\u00edmk\u00e9be a sz\u00e9less\u00e9g \u00e9s a magass\u00e1g attrib\u00fatumot. Alkalmazkod\u00f3 k\u00e9pek haszn\u00e1lata eset\u00e9n letilthatja ezt a viselked\u00e9st. Jel\u00f6lje be a jel\u00f6l\u0151n\u00e9gyzetet a sz\u00e9less\u00e9g \u00e9s a magass\u00e1g attrib\u00fatum letilt\u00e1s\u00e1hoz."
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "Nincs miniat\u0171r k\u00e9p gener\u00e1l\u00e1s"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Ha bejel\u00f6li, akkor a k\u00e9pv\u00e1laszt\u00e1s teljes m\u00e9ret\u0171 k\u00e9peket fog haszn\u00e1lni a miniat\u0171r\u00f6k helyett."
+        }
+    }
+}

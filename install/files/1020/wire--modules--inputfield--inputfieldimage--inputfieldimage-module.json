@@ -1,0 +1,75 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "\u00c9rv\u00e9nytelen k\u00e9p"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "A(z) %s k\u00e9pe nem felel meg a minim\u00e1lis m\u00e9retk\u00f6vetelm\u00e9nyeknek"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "T\u00f6rl\u00e9s"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "\u00c1thelyez\u00e9s az alj\u00e1ra"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "\u00c1thelyez\u00e9s a tetej\u00e9re"
+        },
+        "95dde9286ff11d93e5f5ce0c832b9f2c": {
+            "text": "Miniat\u0171r\u00f6k kijelz\u00e9se a lapszerkeszt\u0151ben?"
+        },
+        "183cf71ab1252b747070605a2aa370c2": {
+            "text": "A miniat\u0171r\u00f6k kevesebb helyet foglalnak, \u00e9s megk\u00f6nny\u00edtik t\u00f6bb k\u00e9p rendez\u00e9s\u00e9t. Ha nem jel\u00f6li be, akkor a teljes (eredeti) m\u00e9ret fog megjelenni a lapszerkeszt\u0151ben."
+        },
+        "597c4d1113db01e43b62cd8a7112cf88": {
+            "text": "Alap\u00e9rtelmezett n\u00e9zet"
+        },
+        "530f488f7a9800411efc6926ab189708": {
+            "text": "Sorok"
+        },
+        "5174d1309f275ba6f275db3af9eb3e18": {
+            "text": "R\u00e1cs"
+        },
+        "7f0785e56befa113ce8fca2316a12a2e": {
+            "text": "Maxim\u00e1lis k\u00e9pm\u00e9retek"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Sz\u00fcks\u00e9g eset\u00e9n adja meg a felt\u00f6lt\u00f6tt k\u00e9pek maxim\u00e1lis sz\u00e9less\u00e9g\u00e9t \u00e9s\/vagy magass\u00e1g\u00e1t. Ha megadja, akkor felt\u00f6lt\u00e9skor \u00e1tm\u00e9retez\u00e9sre fognak ker\u00fclni a k\u00e9pek, amikor t\u00fall\u00e9pik vagy a maxim\u00e1lis sz\u00e9less\u00e9get, vagy a magass\u00e1got. Az \u00e1tm\u00e9retez\u00e9s a felt\u00f6lt\u00e9s sor\u00e1n ker\u00fcl v\u00e9grehajt\u00e1sra, \u00e9s \u00edgy nincs hat\u00e1ssal a rendszerben l\u00e9v\u0151 b\u00e1rmely k\u00e9pre vagy az API-n kereszt\u00fcl hozz\u00e1adott k\u00e9pekre."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "\u00cdrja be az \u00e9rt\u00e9ket k\u00e9ppontban, vagy hagyja \u00fcresen, ha korl\u00e1tlan."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "A felt\u00f6lt\u00f6tt k\u00e9pek maxim\u00e1lis sz\u00e9less\u00e9ge"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "A felt\u00f6lt\u00f6tt k\u00e9pek maxim\u00e1lis magass\u00e1ga"
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "Minim\u00e1lis k\u00e9pm\u00e9retek"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Sz\u00fcks\u00e9g eset\u00e9n adja meg a felt\u00f6lt\u00f6tt k\u00e9pek minim\u00e1lis sz\u00e9less\u00e9g\u00e9t \u00e9s\/vagy magass\u00e1g\u00e1t. Ha megadja, akkor ezeknek a minimumoknak nem eleget tev\u0151 k\u00e9pek elutas\u00edt\u00e1sra fognak ker\u00fclni."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "A felt\u00f6lt\u00f6tt k\u00e9pek minim\u00e1lis sz\u00e9less\u00e9ge"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "A felt\u00f6lt\u00f6tt k\u00e9pek minim\u00e1lis magass\u00e1ga"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "K\u00e9pek"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Egy vagy t\u00f6bb k\u00e9pfelt\u00f6lt\u00e9s (rendezhet\u0151)"
+        },
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "A k\u00e9p \u00e1tm\u00e9retez\u00e9se az enged\u00e9lyezett maxim\u00e1lis m\u00e9retekhez val\u00f3 illeszt\u00e9s c\u00e9lj\u00e1b\u00f3l megt\u00f6rt\u00e9nt"
+        },
+        "b3da2ccb426643b265971f8085617aa0": {
+            "text": "A k\u00e9p mez\u0151ben a r\u00e1cs\/sor ikonra kattintva b\u00e1rmelyik n\u00e9zet \u00e1tv\u00e1lthat\u00f3. Ez hat\u00e1rozza meg, hogy melyik az alap\u00e9rtelmezett. A sorok n\u00e9zet az aj\u00e1nlott alap\u00e9rtelmez\u00e9s."
+        }
+    }
+}

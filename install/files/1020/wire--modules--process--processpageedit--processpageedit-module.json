@@ -1,0 +1,207 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
+    "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
+    "translations": {
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "Ismeretlen lap"
+        },
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "Ez a lap szerkeszt\u00e9sek sz\u00e1m\u00e1ra z\u00e1rolt"
+        },
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "\u00d6nnek nincs szerkeszt\u00e9si hozz\u00e1f\u00e9r\u00e9se"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Lap szerkeszt\u00e9se: %s"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "A lap URL-neve \"%s\" n\u00e9vre m\u00f3dosult, mert a k\u00e9rt n\u00e9v m\u00e1r foglalt volt."
+        },
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "M\u00f3dos\u00edt\u00e1s: %s"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "A lap k\u00f6zz\u00e9t\u00e9ve: %s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "A lap mentve: %s"
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Nem tehet\u0151 k\u00f6zz\u00e9 a hib\u00e1k kijav\u00edt\u00e1s\u00e1ig"
+        },
+        "a1c508c8dcf832bde214942a479c63e5": {
+            "text": "Ez a lap a Kuk\u00e1ban van"
+        },
+        "2cb4bb1ee54691377c8778a8823eb4dd": {
+            "text": "Ez a lap jelenleg vissza van vonva"
+        },
+        "404dd23de1c6c7edc7927e5262b93a1b": {
+            "text": "Ment\u00e9s + Visszavontk\u00e9nt tart\u00e1s"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "K\u00f6zz\u00e9t\u00e9tel"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Ment\u00e9s"
+        },
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Tartalom"
+        },
+        "64e4aca4297806247f62a7b5f8cbd3df": {
+            "text": "Gyermeklapok"
+        },
+        "9b30437c5e1e966fa90525c93356fd3f": {
+            "text": "Gyermeklapok \/ Allapok"
+        },
+        "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
+            "text": "Ez alatt a lap alatt jelenleg nincsenek gyermek-\/allapok."
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "A gyermeklapok rendez\u00e9se \"%s\" szerint, a sablon be\u00e1ll\u00edt\u00e1sa alapj\u00e1n."
+        },
+        "a13cc55582da47cab1f7cc7518700c6e": {
+            "text": "\u00daj lap hozz\u00e1ad\u00e1sa itt"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Be\u00e1ll\u00edt\u00e1sok"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sablon"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Sz\u00fcl\u0151"
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "L\u00e9trehoz\u00f3 felhaszn\u00e1l\u00f3"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "L\u00e9trehoz\u00f3: %1$s; L\u00e9trehozva: %2$s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "Utols\u00f3 m\u00f3dos\u00edt\u00f3: %1$s; M\u00f3dos\u00edtva: %2$s"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "Inform\u00e1ci\u00f3k"
+        },
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "Rejtett: Kiz\u00e1rva a list\u00e1kb\u00f3l \u00e9s a keres\u00e9sekb\u0151l"
+        },
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "Z\u00e1rolva: Nem szerkeszthet\u0151"
+        },
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "Visszavonva: Nem l\u00e1that\u00f3 a webhelyen"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "\u00c1llapot"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "T\u00f6rl\u00e9s"
+        },
+        "aa47bb0913144619a0a9abc59d59d6ed": {
+            "text": "V\u00e9gleges t\u00f6rl\u00e9s"
+        },
+        "7a289ea949902e8fa53efb4b3b4ccea0": {
+            "text": "Kuk\u00e1ba dob\u00e1s"
+        },
+        "62a92c8e1a013dc0c9a67f2769642e9f": {
+            "text": "Jel\u00f6lje be a jel\u00f6l\u0151n\u00e9gyzetet annak meger\u0151s\u00edt\u00e9sek\u00e9nt, hogy ezt akarja tenni."
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Meger\u0151s\u00edt\u00e9s"
+        },
+        "6e2e3de95055596f315a073f771342e3": {
+            "text": "Ez a lap ez\u00fattal nem t\u00f6r\u00f6lhet\u0151"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Megtekint\u00e9s"
+        },
+        "d2387a51d9f67d60dfc2cbb23bd04af2": {
+            "text": "Ki sz\u00e1m\u00e1ra hozz\u00e1f\u00e9rhet\u0151 ez a lap?"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "Szerepk\u00f6r"
+        },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "Mit tehetnek"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(mindenki)"
+        },
+        "c4101b17a6f3bb8ffbe40eb9edef2347": {
+            "text": "Ez a lap nem t\u00f6r\u00f6lhet\u0151"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "A lap t\u00f6r\u00f6lve: %s"
+        },
+        "a419fb9d9fe259c36eb1e4a99462bd1f": {
+            "text": "A lap a kuk\u00e1ba dobva: %s"
+        },
+        "6c86eb040dbb20b1c6e1e891774b27ac": {
+            "text": "Nem dobhat\u00f3 a kuk\u00e1ba a lap"
+        },
+        "11daf8e4f72e87c440ed3e0cac443157": {
+            "text": "Sablon m\u00f3dos\u00edt\u00e1s\u00e1nak meger\u0151s\u00edt\u00e9se"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Biztos?"
+        },
+        "6b102e11bd33fb8f4be6a6cecf2c491b": {
+            "text": "A sablon m\u00f3dos\u00edt\u00e1sa ezen a lapon az \u00d6n sz\u00e1m\u00e1ra nem enged\u00e9lyezett."
+        },
+        "854de5f33bda667c67117b0aaee5a9cf": {
+            "text": "Ez a sablon nem enged\u00e9lyezett"
+        },
+        "7ddc881b8c4b63699dd8487273384a38": {
+            "text": "A gyermekek rendez\u00e9si m\u00f3dja:"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Egyik sem"
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "H\u00faz\u00e1s k\u00e9zzel"
+        },
+        "591acadb8502cd6db313b718df45a6f4": {
+            "text": "Eredeti mez\u0151k"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "Egy\u00e9ni mez\u0151k"
+        },
+        "d49042595c2674084c92d561b714d522": {
+            "text": "Megford\u00edtja a rendez\u00e9si ir\u00e1nyt?"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "%d m\u00f3dos\u00edt\u00e1s"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "%d m\u00f3dos\u00edt\u00e1s"
+        },
+        "17f8097b4af11ef352554fc7dd416c34": {
+            "text": "A(z) '%s' sablon nem enged\u00e9lyezett"
+        },
+        "48af63aeec834982fcf91e325aaea998": {
+            "text": "Figyelmeztet\u00e9s: A sablon m\u00f3dos\u00edt\u00e1s\u00e1val a k\u00f6vetkez\u0151 mez\u0151k fognak t\u00f6rl\u00e9sre ker\u00fclni:"
+        },
+        "e4c2fcbaac781d00fe1e192a4d94c0e9": {
+            "text": "Az al\u00e1bbi jel\u00f6l\u0151n\u00e9gyzetre kattintva er\u0151s\u00edtse meg, hogy meg\u00e9rtette a fentieket."
+        },
+        "7e92f49c92e3f91ed88f03063fc34748": {
+            "text": "Rendez\u00e9si be\u00e1ll\u00edt\u00e1sok"
+        },
+        "eec429d33814974270e5ab8a04a3d23e": {
+            "text": "A hozz\u00e1f\u00e9r\u00e9s a k\u00f6vetkez\u0151 lap sablonj\u00e1val ker\u00fcl meghat\u00e1roz\u00e1sra: %s"
+        },
+        "ea1a60a080fc428d2c18d9e6d33ded08": {
+            "text": "Ha az \u00f6sszes jelenlegi \u00e9s k\u00e9s\u0151bbi gyermeket automatikusan akarja rendezni egy konkr\u00e9t mez\u0151 szerint, akkor v\u00e1lassza ki al\u00e1bb a mez\u0151t, \u00e9s sz\u00fcks\u00e9g eset\u00e9n jel\u00f6lje be a 'ford\u00edtott' jel\u00f6l\u0151n\u00e9gyzetet a cs\u00f6kken\u0151 sorrendben val\u00f3 rendez\u00e9shez. Hagyja \u00fcresen a rendez\u00e9s mez\u0151t, ha h\u00faz\u00e1ssal saj\u00e1t sorrendet k\u00edv\u00e1n."
+        },
+        "890e4f4dd63b6c580cbf534f25914565": {
+            "text": "A lap a(z) \"%1$s\" lapt\u00f3l \u00f6r\u00f6k\u00f6lte a hozz\u00e1f\u00e9r\u00e9st, \u00e9s a k\u00f6vetkez\u0151 sablonnal ker\u00fclt meghat\u00e1roz\u00e1sra: %2$s"
+        },
+        "8f1db4fbdd736bfc472e99f61be9e56f": {
+            "text": "Sablon \u00e1tv\u00e1lt\u00e1sa err\u0151l: \"%1$s\" erre: \"%2$s\""
+        },
+        "d4ad7f8661990f191def1fb3a6accbd9": {
+            "text": "A sablon m\u00f3dos\u00edt\u00e1sa megt\u00f6rt\u00e9nt a k\u00f6vetkez\u0151re: '%s'"
+        }
+    }
+}

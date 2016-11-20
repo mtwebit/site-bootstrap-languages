@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module",
+    "textdomain": "wire--modules--Process--ProcessPageSearch--ProcessPageSearch-module",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nincs keres\u00e9s megadva"
+        },
+        "f802f85dd1eb6a1b3fb0591c682807e9": {
+            "text": "Keres\u00e9s mez\u0151(k)ben:"
+        },
+        "52b9d143876d2754dd01be52587b1de8": {
+            "text": "Keres\u00e9s t\u00edpusa:"
+        },
+        "75ecaaafd1f677d07360709be6528768": {
+            "text": "Keresend\u0151:"
+        },
+        "9e230fa5487a0172264f31c0a1b08b61": {
+            "text": "Korl\u00e1toz\u00e1s sablonra:"
+        },
+        "6f9d01a14011f05fffe48559583fc609": {
+            "text": "Rendez\u00e9si szempont:"
+        },
+        "fa4e2f0cea3ceef82c840df64fecb9e4": {
+            "text": "Ford\u00edtott rendez\u00e9s?"
+        },
+        "1e9c565e43a1f652a2718003bbad887e": {
+            "text": "Megjelen\u00edtend\u0151 mez\u0151(k):"
+        },
+        "b4805a9af05d82889758dda70003cfc6": {
+            "text": "Keres\u00e9si be\u00e1ll\u00edt\u00e1sok"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Speci\u00e1lis"
+        },
+        "29e9d8e295b1d5b3002d2d3d5baa4c37": {
+            "text": "Parancsikonok"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "szerkeszt\u00e9s"
+        },
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "Egyenl\u0151"
+        },
+        "3255c386f4276b5c66f12d216ec71906": {
+            "text": "Nem egyenl\u0151"
+        },
+        "05824b7be006782aaefd1fdb97c71e06": {
+            "text": "Nagyobb"
+        },
+        "798fe01fcb2754a295b6937ed885a69a": {
+            "text": "Nagyobb vagy egyenl\u0151"
+        },
+        "ad647e4ae904c7ed54ee93040d8298c7": {
+            "text": "Kisebb"
+        },
+        "28d1141142e2cbb29e657b69a044ddf4": {
+            "text": "Kisebb vagy egyenl\u0151"
+        },
+        "45fc43a01c15bc63159695441dfacd63": {
+            "text": "Kifejez\u00e9st vagy sz\u00f3r\u00e9szt tartalmaz"
+        },
+        "e44edbd140708c448e991cde9d8dc0b2": {
+            "text": "A LIKE haszn\u00e1lat\u00e1val tartalmaz kifejez\u00e9st\/sz\u00f3t"
+        },
+        "593e63d42f95f6ad96cf700f80c2fe2c": {
+            "text": "Az \u00f6sszes sz\u00f3t tartalmazza"
+        },
+        "d60c090c3c99aaae5f57da3eb85fe008": {
+            "text": "Keresend\u0151 alap\u00e9rtelmezett mez\u0151k"
+        },
+        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
+            "text": "\u00cdrja be sz\u00f3k\u00f6zzel elv\u00e1lasztva egy vagy t\u00f6bb sz\u00f6vegalap\u00fa mez\u0151 nev\u00e9t, melyekben keresni akar."
+        },
+        "6278e5dbbd21048091f612f55185257e": {
+            "text": "Az adminisztr\u00e1ci\u00f3s keres\u00e9si (ajax) m\u00f3dban keresend\u0151 mez\u0151(k)"
+        },
+        "cc10d38a176ad7cde1228d2e22f1122b": {
+            "text": "Korl\u00e1toz\u00e1s\u00e1t legink\u00e1bb 1 vagy 2 mez\u0151re javasoljuk, mivel az eredm\u00e9nyekkel \u00e9l\u0151 automatikus kieg\u00e9sz\u00edt\u00e9s mez\u0151 ker\u00fcl kit\u00f6lt\u00e9sre. \u00c1ltal\u00e1ban csak a c\u00edmre kell keresnie."
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "A keres\u00e9si eredm\u00e9nyekben kijelezend\u0151 mez\u0151nevek"
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "T\u00f6bb mez\u0151 megad\u00e1sa eset\u00e9n sz\u00f3k\u00f6zzel v\u00e1lassza \u0151ket el."
+        },
+        "51e1d489ac4198969f8daf52b7cdfaf6": {
+            "text": "Alap\u00e9rtelmezett keres\u00e9si oper\u00e1tor"
+        },
+        "4ecb0055aa1e66535afeaf6093585618": {
+            "text": "Keres\u00e9s"
+        },
+        "d27c07f4c0dd15e39cedd91c19cb279f": {
+            "text": "Keres\u00e9s"
+        },
+        "c488b358fae501da3848f9faeb83dd35": {
+            "text": "Mez\u0151k"
+        },
+        "736f3e2669c68c02be0fb19d1e70622f": {
+            "text": "Sablonok"
+        },
+        "c26ba1dd54d52630a0aedf779e5926af": {
+            "text": "Modulok"
+        },
+        "8aa55d906b86496efeb66b0eae7d75ce": {
+            "text": "Lapok"
+        },
+        "4b315bff8c7b70281de8ffffbd150708": {
+            "text": "Keres\u00e9s"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "%1$d lap tal\u00e1lhat\u00f3 a k\u00f6vetkez\u0151 v\u00e1laszt\u00f3 haszn\u00e1lat\u00e1val: %2$s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "%1$d lap tal\u00e1lhat\u00f3 a k\u00f6vetkez\u0151 v\u00e1laszt\u00f3 haszn\u00e1lat\u00e1val: %2$s"
+        }
+    }
+}

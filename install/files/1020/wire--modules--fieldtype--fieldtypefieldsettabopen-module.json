@@ -1,0 +1,12 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "Megnyit\u00e1s mod\u00e1lis ablakban?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Jel\u00f6lje be ezt a jel\u00f6l\u0151n\u00e9gyzetet ennek a f\u00fclnek a saj\u00e1t mod\u00e1lis ablak\u00e1ban val\u00f3 megnyit\u00e1shoz. Ez nagy \u0171rlapok eset\u00e9n jav\u00edthatja a teljes\u00edtm\u00e9nyt."
+        }
+    }
+}

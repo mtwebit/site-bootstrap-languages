@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Profil:"
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "A profil nincs mentve"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "M\u00e1r haszn\u00e1lja egy m\u00e1sik felhaszn\u00e1l\u00f3 a(z) \"%s\" e-mail c\u00edmet."
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "A profil mentve"
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "Felhaszn\u00e1l\u00f3i profil"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Lehet\u0151v\u00e9 teszi a felhaszn\u00e1l\u00f3k sz\u00e1m\u00e1ra a jelszavuk, az e-mail c\u00edm\u00fck, \u00e9s az \u00d6n \u00e1ltal meghat\u00e1rozott egy\u00e9b be\u00e1ll\u00edt\u00e1sok m\u00f3dos\u00edt\u00e1s\u00e1t."
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Milyen mez\u0151ket szerkeszthetnek a felhaszn\u00e1l\u00f3k a saj\u00e1t profiljukban?"
+        }
+    }
+}

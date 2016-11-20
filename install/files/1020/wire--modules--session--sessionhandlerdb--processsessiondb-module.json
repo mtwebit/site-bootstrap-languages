@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/ProcessSessionDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--processsessiondb-module",
+    "translations": {
+        "cd86d5313ca52208459b6bc0cfbe9fbb": {
+            "text": "Percek sz\u00e1ma"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Id\u0151"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Felhaszn\u00e1l\u00f3"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Lap"
+        },
+        "32dc37d4cb3662c77f3415b48673af02": {
+            "text": "IP-c\u00edm"
+        },
+        "dfb790522fdea3859af206d32916fe77": {
+            "text": "Felhaszn\u00e1l\u00f3i \u00fcgyn\u00f6k"
+        },
+        "96e3fa0d1eb9be568924ee1c73b5594d": {
+            "text": "Nincsenek akt\u00edv munkamenetek"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Friss\u00edt\u00e9s"
+        },
+        "a9c4b6c9fbd990849d1f128dfc4ed3e7": {
+            "text": "Munkamenetek"
+        },
+        "7d48386aa0c37cae93a89ad878847b0a": {
+            "text": "Az akt\u00edv adatb\u00e1zis-munkamenetek tall\u00f3z\u00e1s\u00e1t teszi lehet\u0151v\u00e9."
+        },
+        "e37d52373bb6cfceb4f1985b2fd76db6": {
+            "text": "Az utols\u00f3 percben akt\u00edv munkamenetek"
+        },
+        "4ba03014e35e3b0b49352b059fb7309e": {
+            "text": "Az utols\u00f3 %d percben akt\u00edv munkamenetek"
+        }
+    }
+}

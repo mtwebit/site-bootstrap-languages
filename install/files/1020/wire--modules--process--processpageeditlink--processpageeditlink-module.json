@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "V\u00e1lasszon lapot"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Adjon meg egy URL-c\u00edmet, v\u00e1lasszon egy lapot vagy v\u00e1lasszon egy csatoland\u00f3 f\u00e1jlt:"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Csatol\u00e1s URL-c\u00edmhez"
+        },
+        "d0371b1908138f8cd5be5356ef5a46ab": {
+            "text": "Csatol\u00e1s laphoz"
+        },
+        "7ac547b42cb510a9564daab982ac839a": {
+            "text": "Csatol\u00e1s gyermeklaphoz"
+        },
+        "d6610e6929ce3f2c5d432efd8cb96097": {
+            "text": "Ez ugyanaz, mint a fenti \"Csatol\u00e1s laphoz\", viszont gyorsabb lehet a haszn\u00e1lata, ha a jelenlegi lap gyermekeihez csatolja."
+        },
+        "629ea6ac7fee06a764a49cb39bd356d9": {
+            "text": "Ind\u00edt\u00e1s \u00faj ablakban?"
+        },
+        "1f3e9bfe3126acfe0af746ec6ed2db68": {
+            "text": "Ha bejel\u00f6li, akkor a hivatkoz\u00e1s \u00faj ablakban fog megny\u00edlni, a jelenlegi ablakot a hely\u00e9n hagyva."
+        },
+        "149a978aed458d66e08de0460cdbf65e": {
+            "text": "Csatol\u00e1s f\u00e1jlhoz"
+        },
+        "27c6c65717076df3e127c24bee401fa7": {
+            "text": "F\u00e1jl m\u00e1sik lapr\u00f3l val\u00f3 kijel\u00f6l\u00e9s\u00e9hez kattintson a fenti 'Csatol\u00e1s laphoz' gombra, \u00e9s v\u00e1lassza ki azt a lapot, melyr\u0151l f\u00e1jlt akar kiv\u00e1lasztani."
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "A laphivatkoz\u00e1sok URL-t\u00edpusa"
+        },
+        "6b02648ef824ca0a58b9a40518ff1152": {
+            "text": "Abszol\u00fat (alap\u00e9rtelmezett)"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "Relat\u00edv URL-c\u00edmek csak ugyanazokban az \u00e1gakban"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "Mindig relat\u00edv URL-c\u00edmek"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "*Jelenleg k\u00eds\u00e9rleti f\u00e1zisban"
+        }
+    }
+}

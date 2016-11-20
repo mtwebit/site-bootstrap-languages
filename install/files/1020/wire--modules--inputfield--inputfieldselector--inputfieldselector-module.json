@@ -1,0 +1,210 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelector\/InputfieldSelector.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselector--inputfieldselector-module",
+    "translations": {
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Mez\u0151 hozz\u00e1ad\u00e1sa"
+        },
+        "dab4b1ae6ff4f4a6b0ae4a2ce2601794": {
+            "text": "\u00e9\u00e9\u00e9\u00e9-hh-nn"
+        },
+        "a5dc4a847828895f72a94ab5debe5c00": {
+            "text": "\u00f3\u00f3:pp"
+        },
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "Egyenl\u0151"
+        },
+        "fb83c9b66919b4a757a43a807b6af2cf": {
+            "text": "Nem egyenl\u0151"
+        },
+        "7288454fa442d48bc741c5cbadc2621b": {
+            "text": "Nagyobb"
+        },
+        "45ed1ce04bcf6003d4702422e1221c85": {
+            "text": "Kisebb"
+        },
+        "948f7ffb9d1e26622df83711e20e2fb2": {
+            "text": "Nagyobb vagy egyenl\u0151"
+        },
+        "189ce8ec24447eef9869d18043c9e303": {
+            "text": "Kisebb vagy egyenl\u0151"
+        },
+        "7842f2dabc6c53dca4319818c88ebeb9": {
+            "text": "Sz\u00f6veget tartalmazza"
+        },
+        "7df149c48f0508977c06be79341a40ed": {
+            "text": "Szavakat tartalmazza"
+        },
+        "062e49c0f9af31da4f7314124191d9ef": {
+            "text": "Ezzel kezd\u0151dik"
+        },
+        "3ad33d3cec01f7125e3cd0575cada7ef": {
+            "text": "Ezzel v\u00e9gz\u0151dik"
+        },
+        "1bb628612045d3d012de22cb249f83fc": {
+            "text": "N\u00f6vekv\u0151"
+        },
+        "8ff3555e6aae7a100304c7b522bc350a": {
+            "text": "Cs\u00f6kken\u0151"
+        },
+        "9f9913233699a4b67524eaac55a5f973": {
+            "text": "Van neki"
+        },
+        "aaa93244710b294d585b015dbb9b0317": {
+            "text": "Nincs neki"
+        },
+        "a61bbf7ad0ed153cb6c84fe3c8a9f2bb": {
+            "text": "Megfelel"
+        },
+        "9c52ccb297567646df342a0413de3b02": {
+            "text": "Nem felel meg"
+        },
+        "78c143802119a85c9774c0459240085d": {
+            "text": "\u00dcres"
+        },
+        "cbe0970a192d6df9999f4469f0854984": {
+            "text": "Nem \u00fcres"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sablon"
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "Azonos\u00edt\u00f3"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "N\u00e9v"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "\u00c1llapot"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Rejtett"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Visszavonva"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Z\u00e1rolva"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Kuka"
+        },
+        "a4b7f1864cfdb47cd05b54eb10337506": {
+            "text": "M\u00f3dos\u00edt\u00e1s d\u00e1tuma"
+        },
+        "b3b60b7a5e7f9977461d42a94bf2c761": {
+            "text": "L\u00e9trehoz\u00e1s d\u00e1tuma"
+        },
+        "f5248dcc5755bb5124281da75c73b828": {
+            "text": "M\u00f3dos\u00edtotta"
+        },
+        "69d1da1f16cb2c86467b8ac7495acb25": {
+            "text": "L\u00e9trehozta"
+        },
+        "631e36e8090edcdfea8b0b6dfa4f75cc": {
+            "text": "Gyermekek sz\u00e1ma"
+        },
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Mennyis\u00e9g"
+        },
+        "72280ef3b155dee3c1a134b8184c08a5": {
+            "text": "El\u00e9r\u00e9si \u00fat\/URL-c\u00edm"
+        },
+        "4b9c456267783c4e40e7da4a4a61e887": {
+            "text": "Van sz\u00fcl\u0151je\/el\u0151dje"
+        },
+        "d7ba791417071ac5ec60f1cea2672faf": {
+            "text": "Egy\u00e9ni (mez\u0151=\u00e9rt\u00e9k)"
+        },
+        "c0272cbdf2353b9f2810944ae048b4a1": {
+            "text": "mez\u0151=\u00e9rt\u00e9k"
+        },
+        "d0e45878043844ffc41aac437e86b602": {
+            "text": "sz\u00fcl\u0151"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Rendez\u00e9s"
+        },
+        "80d2677cf518f4d04320042f4ea6c146": {
+            "text": "Korl\u00e1toz\u00e1s"
+        },
+        "f4d72a64acd8929c0cc9ed96a7a336cc": {
+            "text": "Tartalmaz"
+        },
+        "765c9ab816a31bfd73ee87ce63960319": {
+            "text": "Rejtett + Visszavont"
+        },
+        "b0db92ad2bbe61a11556a881e26ee82c": {
+            "text": "Rejtett + Visszavont + Kuka"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Mind"
+        },
+        "1a110fbdc786fe3100367f14c911a2da": {
+            "text": "(%d korl\u00e1toz\u00e1s n\u00e9lk\u00fcl)"
+        },
+        "1a2ecbf77cfe45069451c9954f74ea36": {
+            "text": "A v\u00e1laszt\u00f3val egyez\u0151 lapok"
+        },
+        "a7dd12b1dab17d25467b0b0a4c8d4a92": {
+            "text": "megjelen\u00edt\u00e9s"
+        },
+        "befb04e123caaa28446ca8080a5fd836": {
+            "text": "V\u00e1lt\u00e1s mez\u0151c\u00edmk\u00e9kre"
+        },
+        "e3e67251cebf159d3549a0a91729605d": {
+            "text": "V\u00e1lt\u00e1s mez\u0151nevekre"
+        },
+        "f0c49f49661670cb88d2fd060c4d6a68": {
+            "text": "Nincs bejel\u00f6lve"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Egyik sem"
+        },
+        "ad666d19888133a3cebc428f7535f2af": {
+            "text": "Kezdjen el g\u00e9pelni..."
+        },
+        "d1a7ff19fe990b9467a4a64f01a09f4e": {
+            "text": "Sz\u00fcl\u0151"
+        },
+        "8449d3ddcf7322067ea68d60a3098945": {
+            "text": "Sz\u00fcl\u0151"
+        },
+        "ea66a0a3f3311a155d84ef03a56850ca": {
+            "text": "Rendszermez\u0151k"
+        },
+        "b12aae296eaa3d0cb3191edcf8764117": {
+            "text": "Mez\u0151k"
+        },
+        "8a605787234086b5d0155715095a1c2a": {
+            "text": "Almez\u0151k"
+        },
+        "c3bd2ae49552f0fe2dd5927024fea5db": {
+            "text": "M\u00f3dos\u00edt\u00f3k"
+        },
+        "8354008c16032b35e36589957a3bd65f": {
+            "text": "Kifejez\u00e9st tartalmazza"
+        },
+        "719cb425116d7d1c8b0c62c7064aaf9b": {
+            "text": "Jel\u00f6lje be ezt a jel\u00f6l\u0151n\u00e9gyzetet a sor VAGY felt\u00e9tell\u00e9 t\u00e9tel\u00e9hez az \u00c9S helyett"
+        },
+        "c7c76bcc877e95946d0158c1a0dd63a2": {
+            "text": "Egyez\u00e9s azonos\u00edt\u00f3 alapj\u00e1n (alv\u00e1laszt\u00f3)"
+        },
+        "1d79542121869a6161bed167902ddc79": {
+            "text": "Mindegyik v\u00e1laszt\u00f3sor azt \u00e1ll\u00edtja, hogy a mez\u0151nek egyeznie kell az \u00e9rt\u00e9kkel. Ezeket h\u00edvj\u00e1k \u00c9S felt\u00e9teleknek. Az olyan eset\u00e9kben, ahol ugyanaz a mez\u0151 vagy \u00e9rt\u00e9k egyn\u00e9l t\u00f6bb sorban jelenik meg, akkor VAGY felt\u00e9tel lehets\u00e9ges. A sorv\u00e9gi jel\u00f6l\u0151n\u00e9gyzet jelenl\u00e9te jelzi ezt. Jel\u00f6lje be ezt a jel\u00f6l\u0151n\u00e9gyzetet a sor VAGY felt\u00e9tell\u00e9 t\u00e9tel\u00e9hez az \u00c9S felt\u00e9tel helyett."
+        },
+        "997bf93bdd0a990a751b4b33749fb171": {
+            "text": "Ugyanazzal az (1) elemmel egyez\u0151 mez\u0151k"
+        },
+        "700e1502327c4e2d38cef2f7c15b2f17": {
+            "text": "Igaz\u00edt\u00e1sok"
+        },
+        "b077806311238aeddd99b979570eb107": {
+            "text": "%d lappal egyezik"
+        },
+        "ea4311c5f366d55a9a6e38450d3bad9f": {
+            "text": "%d lappal egyezik"
+        }
+    }
+}

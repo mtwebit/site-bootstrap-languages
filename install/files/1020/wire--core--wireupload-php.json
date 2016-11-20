@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Sikeres felt\u00f6lt\u00e9s"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "A felt\u00f6lt\u00f6tt f\u00e1jl t\u00fall\u00e9pi az upload_max_filesize utas\u00edt\u00e1s \u00e9rt\u00e9k\u00e9t a php.ini f\u00e1jlban."
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "A felt\u00f6lt\u00f6tt f\u00e1jl t\u00fall\u00e9pi a MAX_FILE_SIZE utas\u00edt\u00e1s \u00e9rt\u00e9k\u00e9t, mely a HTML-\u0171rlapban volt megadva."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "A felt\u00f6lt\u00f6tt f\u00e1jl csak r\u00e9szlegesen ker\u00fclt felt\u00f6lt\u00e9sre."
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Nem ker\u00fclt f\u00e1jl felt\u00f6lt\u00e9sre."
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "Hi\u00e1nyzik egy ideiglenes mappa."
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "Nem siker\u00fclt lemezre \u00edrni a f\u00e1jlt."
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "A f\u00e1jlfelt\u00f6lt\u00e9s kiterjeszt\u00e9s \u00e1ltal le\u00e1ll\u00edt\u00e1sra ker\u00fclt."
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "El\u00e9rkezett a f\u00e1jlfelt\u00f6lt\u00e9si korl\u00e1t"
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "\u00c9rv\u00e9nytelen f\u00e1jlkiterjeszt\u00e9s, haszn\u00e1lja a k\u00f6vetkez\u0151k egyik\u00e9t:"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "T\u00fall\u00e9pi az enged\u00e9lyezett maxim\u00e1lis f\u00e1jlm\u00e9retet"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "Nem tal\u00e1lhat\u00f3k f\u00e1jlok a ZIP-f\u00e1jlban"
+        }
+    }
+}

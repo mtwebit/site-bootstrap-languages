@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "D\u00e1tum kimeneti form\u00e1tuma"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Egyik sem"
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Id\u0151 kimeneti form\u00e1tuma"
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "D\u00e1tum\/id\u0151 kimeneti form\u00e1tum\u00e1nak k\u00f3dja"
+        },
+        "e606a86ec2852d83f2ea4622de245889": {
+            "text": "Ennek a form\u00e1tumnak a szem\u00e9lyre szab\u00e1s\u00e1val kapcsolatos tov\u00e1bbi inform\u00e1ci\u00f3 a [PHP-k\u00e9zik\u00f6nyv d\u00e1tumf\u00fcggv\u00e9ny](http:\/\/www.php.net\/manual\/en\/function.date.php) fejezet\u00e9ben tal\u00e1lhat\u00f3. Sz\u00fcks\u00e9g eset\u00e9n haszn\u00e1lhat\u00f3 m\u00e1sik lehet\u0151s\u00e9g a honos\u00edt\u00e1shoz, a [PHP strftime](http:\/\/www.php.net\/manual\/en\/function.strftime.php) form\u00e1tum."
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "V\u00e1lassza ki az ezzel a mez\u0151vel kijelezend\u0151 d\u00e1tumok form\u00e1tum\u00e1t."
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Ha a d\u00e1tumon k\u00edv\u00fcl az id\u0151t is ki akarja jelezni, akkor v\u00e1lassza ki a haszn\u00e1land\u00f3 form\u00e1tumot az id\u0151 ezzel a mez\u0151vel val\u00f3 kijelz\u00e9sekor. A d\u00e1tumform\u00e1tummal fog kombin\u00e1l\u00e1sra ker\u00fclni."
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "A d\u00e1tum\/id\u0151 kimenete az al\u00e1bbi form\u00e1tumnak fog megfelelni. Ez automatikusan ker\u00fcl fel\u00e9p\u00edt\u00e9sre a fenti d\u00e1tum\/id\u0151 v\u00e1laszt\u00e1sokb\u00f3l, viszont sz\u00fcks\u00e9g eset\u00e9n ig\u00e9ny szerint m\u00f3dos\u00edthat\u00f3."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "A relat\u00edv d\u00e1tum-\/id\u0151form\u00e1tumokhoz l\u00e1sd az Id\u0151 kimeneti form\u00e1tum\u00e1t."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(unix id\u0151b\u00e9lyegz\u00e9s)"
+        }
+    }
+}

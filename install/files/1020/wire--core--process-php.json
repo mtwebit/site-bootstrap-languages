@@ -1,0 +1,12 @@
+{
+    "file": "wire\\core\\Process.php",
+    "textdomain": "wire--core--process-php",
+    "translations": {
+        "bc9f744abfdf0bc1b077c89e04c5cae3": {
+            "text": "L\u00e9trehozott lap: %s"
+        },
+        "c4fd0f5e619f884597a0c81ab468001f": {
+            "text": "Kuk\u00e1ba dobott lap: %s"
+        }
+    }
+}

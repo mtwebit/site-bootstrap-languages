@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/InputfieldRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--inputfieldrepeater-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "T\u00f6rl\u00e9s"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Rendez\u00e9s"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "\u00daj"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Visszavonva"
+        },
+        "7264d8c26ac9671a31cd3eb3ddd4a447": {
+            "text": "Ez az elem ment\u00e9s ut\u00e1n szerkeszthet\u0151 lesz."
+        },
+        "138103c4e1d9c846d0afd000e5b928c8": {
+            "text": "Elem hozz\u00e1ad\u00e1sa"
+        },
+        "d3b3350cb648f345b0a21a048df0cf45": {
+            "text": "Ism\u00e9tl\u0151"
+        },
+        "25c63396ad92c7bbb48fa4aa21adc5e4": {
+            "text": "Mez\u0151ket ism\u00e9tel egy m\u00e1sik sablonb\u00f3l. A FieldtypeRepeater bemenet\u00e9t biztos\u00edtja."
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldname-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "N\u00e9v"
+        },
+        "05241f55e363027bb20f4669d784c28e": {
+            "text": "Bet\u0171k (a-z), sz\u00e1mok (0-9) \u00e9s al\u00e1h\u00faz\u00e1sjelek b\u00e1rmilyen kombin\u00e1ci\u00f3ja (sz\u00f3k\u00f6z\u00f6k n\u00e9lk\u00fcl)."
+        },
+        "e5e43bcb90e7ae502c28ecb1089b3aa7": {
+            "text": "ProcessWire n\u00e9v mez\u0151k\u00e9nt \u00e9rv\u00e9nyes\u00edtett sz\u00f6vegbevitel"
+        }
+    }
+}

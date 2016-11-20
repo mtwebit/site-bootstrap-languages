@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectmultiple-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Hozz\u00e1ad\u00e1s"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "M\u00e9gse"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "V\u00e1laszt\u00e1s"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Kijel\u00f6l\u00e9s t\u00f6rl\u00e9se"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "T\u00f6bb"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "Ez a mez\u0151 a mez\u0151be\u00e1ll\u00edt\u00e1sokban hi\u00e1nyz\u00f3 sz\u00fcl\u0151lap miatt nem jelen\u00edthet\u0151 meg."
+        },
+        "fae5139ea4669e57a1e1d43da734b60d": {
+            "text": "Laplista t\u00f6bb v\u00e1laszt\u00e1sa"
+        },
+        "3677aac44cf40763444008a08a7e33aa": {
+            "text": "T\u00f6bb lap kiv\u00e1laszt\u00e1sa egy ProcessWire lapfalist\u00e1b\u00f3l"
+        }
+    }
+}

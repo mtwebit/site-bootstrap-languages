@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Jel\u00f6l\u0151n\u00e9gyzet oszlopok"
+        },
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Jel\u00f6l\u0151n\u00e9gyzetek"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "T\u00f6bb jel\u00f6l\u0151n\u00e9gyzet kapcsol\u00f3"
+        },
+        "50bad9e0658dd79a35545ebcd18f92ac": {
+            "text": "Ha oszlopokban akarja megjelen\u00edteni a jel\u00f6l\u0151n\u00e9gyzeteket (nem pedig egym\u00e1s alatt), akkor adja meg a haszn\u00e1lni k\u00edv\u00e1nt oszlopok sz\u00e1m\u00e1t (legfeljebb 10). A jel\u00f6l\u0151n\u00e9gyzetek egym\u00e1s melletti kijelez\u00e9s\u00e9hez (egy sorban) adjon meg 1-et."
+        }
+    }
+}

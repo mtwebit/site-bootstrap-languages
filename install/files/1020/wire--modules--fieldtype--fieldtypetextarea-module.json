@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextarea.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextarea-module",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Beviteli mez\u0151 t\u00edpusa"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "A bevitel gy\u0171jt\u00e9s\u00e9hez felhaszn\u00e1l\u00e1sra ker\u00fcl\u0151 mez\u0151 t\u00edpusa (a sz\u00f6vegter\u00fclet az alap\u00e9rtelmezett). Vegye figyelembe, ha ezt m\u00f3dos\u00edtja \u00e9s elk\u00fcldi, akkor megv\u00e1ltozhatnak a \"bevitel\" f\u00fcl\u00f6n el\u00e9rhet\u0151 konfigur\u00e1ci\u00f3s be\u00e1ll\u00edt\u00e1sok."
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Tartalom t\u00edpusa"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Ismeretlen"
+        },
+        "1991cfd60d0287cfb130420da34fcbef": {
+            "text": "A Jel\u00f6l\u0151nyelvi k\u00f3d\/HTML be\u00e1ll\u00edt\u00e1s a rich text szerkeszt\u0151ket (TinyMCE, CKEditor, stb.) haszn\u00e1l\u00f3 mez\u0151kh\u00f6z \u00e9s HTML-k\u00f3dot tartalmaz\u00f3 mez\u0151kh\u00f6z aj\u00e1nlott. Min\u0151s\u00e9gbiztos\u00edt\u00e1s c\u00e9lj\u00e1b\u00f3l tov\u00e1bbi fut\u00e1sidej\u0171 sz\u0171r\u00e9st biztos\u00edt."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "Jel\u00f6l\u0151nyelvi k\u00f3d\/HTML"
+        }
+    }
+}

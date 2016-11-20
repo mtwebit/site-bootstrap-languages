@@ -1,0 +1,90 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile-module",
+    "translations": {
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "f\u00e1jln\u00e9v"
+        },
+        "abc5c518b64936be795f070ed2adf84f": {
+            "text": "\u00c9rv\u00e9nyes f\u00e1jlkiterjeszt\u00e9sek"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=Korl\u00e1tlan"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "F\u00e1jlok"
+        },
+        "839047fe3f6109257399fe301ddb7912": {
+            "text": "A k\u00f6vetkez\u0151 c\u00edmk\u00e9k b\u00e1rmelyike haszn\u00e1lhat\u00f3:"
+        },
+        "a1ede0a9a3c447cb83c7b6598dc556ff": {
+            "text": "Alap\u00e9rtelmezett \u00e9rt\u00e9k (ha \u00fcres)"
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Beviteli mez\u0151 t\u00edpusa"
+        },
+        "23f8d89e38fb131310ab885bad04b966": {
+            "text": "A bevitel gy\u0171jt\u00e9s\u00e9hez haszn\u00e1land\u00f3 mez\u0151 t\u00edpusa."
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Egy vagy t\u00f6bb f\u00e1jlt t\u00e1rol\u00f3 mez\u0151"
+        },
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "A(z) \"%s\" mez\u0151 m\u00e9g nincs haszn\u00e1latra k\u00e9szen, konfigur\u00e1lni kell."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "A be\u00e1ll\u00edt\u00e1sok v\u00e9gleges\u00edt\u00e9se m\u00e9g nem t\u00f6rt\u00e9nt meg."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Tekintse \u00e1t a be\u00e1ll\u00edt\u00e1sokat ezen a lapon, \u00e9s mentse \u0151ket m\u00e9g egyszer (akkor is, ha nem m\u00f3dos\u00edt semmit) az elfogad\u00e1suk meger\u0151s\u00edt\u00e9s\u00e9hez."
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Adja meg az ezen felt\u00f6lt\u00e9si mez\u0151 \u00e1ltal enged\u00e9lyezett \u00f6sszes f\u00e1jlkiterjeszt\u00e9st. Az egyes kiterjeszt\u00e9seket sz\u00f3k\u00f6zzel v\u00e1lassza el. Ne ponttal vagy vessz\u0151vel. Ez a mez\u0151 nem k\u00fcl\u00f6nb\u00f6zteti meg a kis- \u00e9s nagybet\u0171ket."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Maxim\u00e1lisan enged\u00e9lyezett f\u00e1jlok"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Form\u00e1zott \u00e9rt\u00e9k"
+        },
+        "fd392fe52f347bbf7391f791b963416d": {
+            "text": "Egy elem (nulla, ha \u00fcres)"
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Sz\u00f6vegform\u00e1z\u00f3k (f\u00e1jlle\u00edr\u00e1sokhoz)"
+        },
+        "3fc82a72e38b059cea88dcfbdaeafff8": {
+            "text": "C\u00edmk\u00e9k haszn\u00e1lata?"
+        },
+        "ffb520d31a51841782cf1cba617fc875": {
+            "text": "Ha ki van kapcsolva a kimeneti form\u00e1z\u00e1s, akkor az \u00e9rt\u00e9k mindig egy t\u00f6mb (WireArray)."
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "V\u00e1lassza ki az \u00e9rt\u00e9k t\u00edpus\u00e1t, melyet ennek a mez\u0151nek akar adni, amikor a webhely felhaszn\u00e1l\u00f3i oldal\u00e1n az API-b\u00f3l \u00e9ri el a program."
+        },
+        "b93d9ddf4fe98458456fa4a117acf665": {
+            "text": "Elemt\u00f6mb"
+        },
+        "6f836d738a527f80156286edc9d1f829": {
+            "text": "Megjelen\u00edtett sz\u00f6veges karakterl\u00e1nc (\u00f6n \u00e1ltal megadott)"
+        },
+        "ad3f5d66e216a4f1b65654b8b70d592f": {
+            "text": "Megjelen\u00edtett sz\u00f6veges karakterl\u00e1nc"
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Adja meg azt a megjelen\u00edtett sz\u00f6veges karakterl\u00e1ncot, melyet ezen mez\u0151 \u00e9rt\u00e9kek\u00e9nt akar ki\u00edratni. Ha a mez\u0151 t\u00f6bb elemet tartalmaz, akkor ez a karakterl\u00e1nc t\u00f6bbsz\u00f6r fog megjelen\u00edt\u00e9sre ker\u00fclni. Ha a mez\u0151 nem tartalmaz elemeket, akkor a rendszer \u00fcres karakterl\u00e1ncot fog haszn\u00e1lni."
+        },
+        "6e7e8b4097cb9c2651e291b007b8efad": {
+            "text": "Automatikus (egy elem vagy nulla, ha a max f\u00e1jlok \u00e9rt\u00e9ke 1, elemt\u00f6mb egy\u00e9bk\u00e9nt)"
+        },
+        "05ac72cc4df427baf9db44228a577ed7": {
+            "text": "Sz\u00fcks\u00e9g eset\u00e9n v\u00e1lasszon egy lapot, mely az alap\u00e9rtelmezett \u00e9rt\u00e9ket fogja tartalmazni (ugyanebben a mez\u0151ben). K\u00e9sz\u00edthet kimondottan erre a c\u00e9lra egy lapot."
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "V\u00e1lasszon ki egy vagy t\u00f6bb sz\u00f6vegform\u00e1z\u00f3t (\u00e9s a sorrendj\u00fcket), ami a f\u00e1jlle\u00edr\u00e1sra fog alkalmaz\u00e1sra ker\u00fclni, amikor akt\u00edv a kimeneti form\u00e1z\u00e1s. Minimumk\u00e9nt a HTML-entit\u00e1sk\u00f3dol\u00f3 aj\u00e1nlott."
+        },
+        "3a37a820d95c0f598d6ea38f34716c31": {
+            "text": "Ha bejel\u00f6li, akkor a mez\u0151 egy be\u00e1ll\u00edt\u00e1st is fog tartalmazni a c\u00edmk\u00e9k sz\u00e1m\u00e1ra a le\u00edr\u00e1son k\u00edv\u00fcl."
+        }
+    }
+}

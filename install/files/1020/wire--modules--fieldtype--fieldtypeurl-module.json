@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "URL-c\u00edm"
+        },
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "Egy URL-c\u00edmet t\u00e1rol\u00f3 mez\u0151"
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "A webhely gy\u00f6k\u00e9r el\u00e9r\u00e9si \u00fatj\u00e1nak hozz\u00e1f\u0171z\u00e9se a helyi\/relat\u00edv URL-c\u00edmekhez?"
+        },
+        "b38bb5008cd8427aae4e9a8612183a6f": {
+            "text": "Az URL-mez\u0151kh\u00f6z a \"HTML-entit\u00e1sk\u00f3dol\u00f3\" sz\u00f6vegform\u00e1z\u00f3 aj\u00e1nlott."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "A relat\u00edv\/helyi URL-c\u00edmek az elej\u00e9n \"http:\/\/\" n\u00e9lk\u00fcli enged\u00e9lyez\u00e9se?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "A helyi\/relat\u00edv URL-c\u00edmek azok, melyek s\u00e9ma \u00e9s tartom\u00e1ny n\u00e9lk\u00fcliek."
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Ezzel a be\u00e1ll\u00edt\u00e1ssal b\u00e1rmilyen, ford\u00edtott perjellel kezd\u0151d\u0151 URL-c\u00edmhez automatikusan hozz\u00e1f\u0171zhet\u0151 a hely gy\u00f6k\u00e9r el\u00e9r\u00e9si \u00fatja, p\u00e9ld\u00e1ul \/valamilyen\/utvonal\/. Ez akkor hasznos, ha alk\u00f6nyvt\u00e1rb\u00f3l futtatja a webhelyet, mert azt az alk\u00f6nyvt\u00e1rat nem kell belevennie az ebben a mez\u0151ben megadott URL-c\u00edmekben. Ha k\u00e9s\u0151bb \u00e1t kell helyeznie egy tartom\u00e1ny gy\u00f6ker\u00e9be (vagy m\u00e1sik alk\u00f6nyvt\u00e1rba) a webhelyet, nem kell agg\u00f3dnia a megszakadt URL-c\u00edmek miatt. Ezzel az enged\u00e9lyezett be\u00e1ll\u00edt\u00e1ssal mindig \u00fagy adjon meg URL-c\u00edmeket, mintha a hely egy tartom\u00e1ny gy\u00f6ker\u00e9b\u0151l futna, f\u00fcggetlen\u00fcl att\u00f3l, hogy alk\u00f6nyvt\u00e1rb\u00f3l fut-e vagy sem. Term\u00e9szetesen ez csak akkor alkalmazhat\u00f3, ha a fenti mez\u0151ben az 'Igen' lehet\u0151s\u00e9get v\u00e1lasztotta a helyi\/relat\u00edv URL-c\u00edmek enged\u00e9lyez\u00e9s\u00e9hez. Fejleszt\u0151knek is \u00e9rdemes megjegyezni\u00fck, hogy ez a be\u00e1ll\u00edt\u00e1s csak akkor haszn\u00e1lhat\u00f3, ha be van kapcsolva egy lap kimeneti form\u00e1z\u00e1sa."
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Biztos\u00edtja, hogy az URL-c\u00edmek nem szakadnak meg a webhely egy alk\u00f6nyvt\u00e1rb\u00f3l a gy\u00f6k\u00e9rbe val\u00f3 \u00e1thelyez\u00e9sekor (a leggyakoribb p\u00e9lda)."
+        }
+    }
+}

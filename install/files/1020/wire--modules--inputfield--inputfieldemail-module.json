@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail-module",
+    "translations": {
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Meger\u0151s\u00edt\u00e9s"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "E-mail c\u00edm"
+        },
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "K\u00e9rj\u00fck, \u00e9rv\u00e9nyes e-mail c\u00edmet adjon meg"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "Az \u00d6n \u00e1ltal megadott e-mail c\u00edmek nem egyeztek, adja meg ism\u00e9t"
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Az e-mail c\u00edm meger\u0151s\u00edt\u00e9se?"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-mail c\u00edm"
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "E-mail c\u00edm \u00e9rv\u00e9nyes form\u00e1tumban"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Ha bejel\u00f6li, akkor k\u00e9t e-mail c\u00edm beviteli mez\u0151 fog megjelenni, \u00e9s a felhaszn\u00e1l\u00f3nak k\u00e9tszer kell megadnia meger\u0151s\u00edt\u00e9sk\u00e9nt az e-mail c\u00edm\u00e9t. Ez a be\u00e1ll\u00edt\u00e1s az elg\u00e9pel\u00e9sek lehet\u0151s\u00e9g\u00e9nek cs\u00f6kkent\u00e9s\u00e9ben seg\u00edt."
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "N\u00e9v"
+        },
+        "152cfcb2150e04c8533d86e9d7642b11": {
+            "text": "Bet\u0171k (a-z), sz\u00e1mok (0-9), k\u00f6t\u0151jelek vagy al\u00e1h\u00faz\u00e1sjelek b\u00e1rmilyen kombin\u00e1ci\u00f3ja (sz\u00f3k\u00f6z\u00f6k n\u00e9lk\u00fcl)."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Karaktercser\u00e9k"
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "\u00cdrja be azokat a cser\u00e9ket, melyek akkor t\u00f6rt\u00e9nnek meg, amikor egy felhaszn\u00e1l\u00f3 karaktereket \u00edr be egy lap n\u00e9v mez\u0151j\u00e9be. Soronk\u00e9nt egy cser\u00e9t \u00edrjon be kulcs=\u00e9rt\u00e9k form\u00e1ban. Ez azt jelenti, hogy mindegyik \u00faj sorban az(oka)t a karakter(ek)et \u00edrja be, melyeket ki akar cser\u00e9lni, ut\u00e1na egyenl\u0151s\u00e9gjellel \"=\", \u00e9s az ASCII-karakterekkel, melyekre le akarja cser\u00e9lni."
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "Mindegyik csere\u00e9rt\u00e9ke a k\u00f6vetkez\u0151 lehet: a-z, 0-9, k\u00f6t\u0151jel, al\u00e1h\u00faz\u00e1sjel vagy pont."
+        }
+    }
+}

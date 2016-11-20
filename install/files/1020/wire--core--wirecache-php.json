@@ -1,0 +1,12 @@
+{
+    "file": "wire\\core\\WireCache.php",
+    "textdomain": "wire--core--wirecache-php",
+    "translations": {
+        "d35d926654fdaeed481722384826e32b": {
+            "text": "A gyors\u00edt\u00f3t\u00e1r mentve"
+        },
+        "a188964d2912198a985f7bcd9564c530": {
+            "text": "A gyors\u00edt\u00f3t\u00e1r t\u00f6r\u00f6lve"
+        }
+    }
+}

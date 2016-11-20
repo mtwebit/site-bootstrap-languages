@@ -1,0 +1,63 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/InputfieldCommentsAdmin.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--inputfieldcommentsadmin-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "T\u00f6rl\u00e9s"
+        },
+        "5150f466372999feb1c31b868e087dfc": {
+            "text": "A szem\u00e9t automatikusan t\u00f6rl\u00e9sre ker\u00fcl a mez\u0151 konfigur\u00e1ci\u00f3j\u00e1ban megadott id\u0151tartam letelte ut\u00e1n."
+        },
+        "193a4762fa2301d6e5d9fac2730dbe71": {
+            "text": "Ez az elem j\u00f3v\u00e1hagy\u00e1sra vagy t\u00f6rl\u00e9sre v\u00e1r."
+        },
+        "95742f3daaebcf075ad53961b11fc0dd": {
+            "text": "Hozz\u00e1sz\u00f3l\u00e1s: #%1$d Bek\u00fcldve: %2$s Felhaszn\u00e1l\u00f3: %3$s"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Id\u00e9zet"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "E-mail c\u00edm"
+        },
+        "15bbb9d0bbf25e8d2978de1168c749dc": {
+            "text": "Weblap"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Sz\u00f6veg"
+        },
+        "ece9015e4facb7c419ce80abecfd6852": {
+            "text": "Jelenleg nincsenek megjelen\u00edtend\u0151 elemek."
+        },
+        "dea78eecface40ce1489d1acdc31eae4": {
+            "text": "A(z) #%d hozz\u00e1sz\u00f3l\u00e1s elt\u00e1vol\u00edt\u00e1sa megt\u00f6rt\u00e9nt"
+        },
+        "58b6f822b062991647cf2e70b0140352": {
+            "text": "Friss\u00edtve %s hozz\u00e1sz\u00f3l\u00e1shoz #%d"
+        },
+        "4da50726e74180c03ab1cfe637bb590b": {
+            "text": "Hozz\u00e1sz\u00f3l\u00e1sok fel\u00fcgyelete"
+        },
+        "9e1775dd11710f1858dc1f9c21174ec8": {
+            "text": "Fel\u00fcgyeleti fel\u00fcletet biztos\u00edt a hozz\u00e1sz\u00f3l\u00e1sok kezel\u00e9s\u00e9hez"
+        },
+        "a12b241da69948907eecb3786cedc5a3": {
+            "text": "J\u00f3v\u00e1hagyva"
+        },
+        "af4a8ef24b938b7857109b49e38c8969": {
+            "text": "F\u00fcgg\u0151ben"
+        },
+        "39ef1e97d0b7fa0510cd93cd5f2cf99b": {
+            "text": "Szem\u00e9t"
+        },
+        "97154f7c3d4195084cbcb58bc5357c7a": {
+            "text": "Hozz\u00e1sz\u00f3l\u00e1s #%d (%s)"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "\u00c1llapot"
+        },
+        "84c4dfc8fccf9350a9610e366ae769a5": {
+            "text": "V\u00e1lasz"
+        }
+    }
+}

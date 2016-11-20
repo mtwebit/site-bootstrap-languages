@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Hol akarja hozz\u00e1adni az \u00faj %s lapot?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "V\u00e1lasszon al\u00e1bb egy sz\u00fcl\u0151 %s lapot:"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "\u00daj hozz\u00e1ad\u00e1sa"
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "A(z) \"%s\" sablon itt nem enged\u00e9lyezett."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sablon"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Ment\u00e9s"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Ment\u00e9s + K\u00f6zz\u00e9t\u00e9tel"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Nem haszn\u00e1lt ideiglenes lap"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Hi\u00e1nyzik egy k\u00f6telez\u0151 mez\u0151: n\u00e9v"
+        },
+        "9e31eadc87a42dd9b75f4b4d141c192b": {
+            "text": "Az \u00d6n \u00e1ltal v\u00e1lasztott n\u00e9v m\u00e1r haszn\u00e1latban van. V\u00e1lasszon m\u00e1sikat."
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Figyelmeztet\u00e9s: Az \u00d6n \u00e1ltal v\u00e1lasztott \"%1$s\" n\u00e9v m\u00e1r haszn\u00e1latban volt, \u00e9s \"%2$s\" n\u00e9vre ker\u00fclt m\u00f3dos\u00edt\u00e1sra."
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Lap hozz\u00e1ad\u00e1sa"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "\u00daj lap hozz\u00e1ad\u00e1sa"
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Az automatikus k\u00f6zz\u00e9t\u00e9tel letilt\u00e1sa"
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "\u00daj lapok hozz\u00e1ad\u00e1sa itt egy sablonnak sem enged\u00e9lyezett."
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "A(z) %1$s lap elk\u00e9sz\u00fclt a k\u00f6vetkez\u0151 sablon haszn\u00e1lat\u00e1val: %2$s"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "Alap\u00e9rtelmez\u00e9sk\u00e9nt semmi m\u00e1st, csak glob\u00e1lis mez\u0151ket (leggyakrabban 'title\") tartalmaz\u00f3 lapok hozz\u00e1ad\u00e1skor automatikusan k\u00f6zz\u00e9t\u00e9telre ker\u00fclnek, megker\u00fclve a szok\u00e1sos visszavont \u00e1llapotot. Ez \u00e1ltal\u00e1ban k\u00edv\u00e1nt id\u0151sp\u00f3rol\u00f3. Az al\u00e1bbi jel\u00f6l\u0151n\u00e9gyzet bejel\u00f6l\u00e9s\u00e9vel azonban megszak\u00edthatja ezt a viselked\u00e9st."
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "M\u00e1r foglalt"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "OK"
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "A megadott n\u00e9v m\u00e1r haszn\u00e1latban van. Ha nem m\u00f3dos\u00edtja, akkor ment\u00e9s ut\u00e1n automatikusan egyediv\u00e9 lesz t\u00e9ve."
+        }
+    }
+}

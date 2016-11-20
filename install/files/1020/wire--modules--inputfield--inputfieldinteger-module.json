@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldInteger.module",
+    "textdomain": "wire--modules--inputfield--inputfieldinteger-module",
+    "translations": {
+        "100b8cad7cf2a56f6df78f171f97a1ec": {
+            "text": "b\u00e1rmi"
+        },
+        "004d36e4fa95eec8357b066aa20e9d8d": {
+            "text": "A megadott  %3$s \u00e9rt\u00e9k elt\u00e1vol\u00edt\u00e1sra ker\u00fclt, mert tartom\u00e1nyon k\u00edv\u00fcli \u00e9rt\u00e9k (min=%1$s, max=%2$s)"
+        },
+        "ddf1608e4f7def4fd584f806267255d4": {
+            "text": "A numerikus bevitel t\u00edpusa"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Sz\u00f6veg"
+        },
+        "edb082a8145b0705db7f2b843ed57471": {
+            "text": "Sz\u00e1m (HTML5)"
+        },
+        "339f8a8a3ec4255e3982690df6c764fc": {
+            "text": "A \"Sz\u00e1m\" t\u00edpus v\u00e1laszt\u00e1sa n\u00e9h\u00e1ny tov\u00e1bbi \u00fcgyf\u00e9loldali ellen\u0151rz\u00e9st tesz lehet\u0151v\u00e9 azokban a b\u00f6ng\u00e9sz\u0151kben, melyek t\u00e1mogatj\u00e1k."
+        },
+        "702a538a7348a9e52b08913558867f70": {
+            "text": "Minim\u00e1lis \u00e9rt\u00e9k"
+        },
+        "e9aac774de6f4b2d481938ff2403e5a8": {
+            "text": "A mez\u0151 enged\u00e9lyezett minim\u00e1lis \u00e9rt\u00e9ke. Mell\u0151z\u00e9s\u00e9hez hagyja \u00fcresen."
+        },
+        "48b0ece3cdd23c3605c8d7ee617c43ca": {
+            "text": "Maxim\u00e1lis \u00e9rt\u00e9k"
+        },
+        "41f052267baa5d7342df9bad1b957733": {
+            "text": "A mez\u0151 enged\u00e9lyezett maxim\u00e1lis \u00e9rt\u00e9ke. Mell\u0151z\u00e9s\u00e9hez hagyja \u00fcresen."
+        },
+        "a0faef0851b4294c06f2b94bb1cb2044": {
+            "text": "Eg\u00e9sz sz\u00e1m"
+        },
+        "15b920388c8c88882ae50ac7e68a52ad": {
+            "text": "Eg\u00e9sz sz\u00e1m (pozit\u00edv vagy negat\u00edv)"
+        },
+        "342fcaf76020389954d449ceec0a8a80": {
+            "text": "Min.: %d"
+        },
+        "96f5f93890f61d6ff4c07e2883833d72": {
+            "text": "Max.: %d"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/WireHttp.php",
+    "textdomain": "wire--core--wirehttp-php",
+    "translations": {
+        "77c7f3f51ebd4fa702990b4e33b1b168": {
+            "text": "A let\u00f6lt\u00e9si URL-c\u00edmeknek a http:\/\/ vagy a https:\/\/ el\u0151taggal kell kezd\u0151dni\u00fck"
+        },
+        "467af8bc03dee4f2214f406ef27a2cd2": {
+            "text": "fopen hiba a f\u00e1jln\u00e9vhez:"
+        },
+        "0209b06558d47ad36cee247c670ff405": {
+            "text": "Nem lehetett let\u00f6lteni a f\u00e1jlt"
+        }
+    }
+}

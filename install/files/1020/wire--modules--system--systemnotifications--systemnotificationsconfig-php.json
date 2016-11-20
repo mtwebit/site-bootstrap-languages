@@ -1,0 +1,102 @@
+{
+    "file": "wire\\modules\\System\\SystemNotifications\\SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "A rendszer\u00e9rtes\u00edt\u00e9seket kap\u00f3 felhaszn\u00e1l\u00f3 neve"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Akt\u00edv automatikus \u00e9rtes\u00edt\u00e9si beavatkoz\u00e1si pontok"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Amikor megt\u00f6rt\u00e9nik ezek k\u00f6z\u00fcl az egyik esem\u00e9ny, a fenti rendszerfelhaszn\u00e1l\u00f3 \u00e9rtes\u00edt\u00e9st kap."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 A lap nem tal\u00e1lhat\u00f3"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Felhaszn\u00e1l\u00f3i bejelentkez\u00e9si siker \u00e9s hiba"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Felhaszn\u00e1l\u00f3i kijelentkez\u00e9s"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Ezek els\u0151sorban csak \u00e9rtes\u00edt\u00e9si p\u00e9ld\u00e1k bemutat\u00f3 c\u00e9lj\u00e1b\u00f3l."
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Friss\u00edt\u00e9sek k\u00f6zti id\u0151"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "Milyen gyakran kell ellen\u0151rizni az \u00e9rtes\u00edt\u00e9si friss\u00edt\u00e9seket (milliszekundumban). P\u00e9ld\u00e1ul: az 5000 jelent\u00e9se 5 m\u00e1sodperc."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "D\u00e1tumform\u00e1tum"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Az \u00e9rtes\u00edt\u00e9sekhez haszn\u00e1land\u00f3 d\u00e1tumform\u00e1tum. A date() vagy az strftime() form\u00e1tumot haszn\u00e1lja, illetve a \"relative\" form\u00e1tumot a relat\u00edv d\u00e1tumhoz\/id\u0151h\u00f6z, a r\u00f6vid\u00edtett d\u00e1tumhoz\/id\u0151h\u00f6z a \"rel\" form\u00e1tumot."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "\u00dczenet ikon"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Figyelmeztet\u00e9s ikon"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Hiba ikon"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "Szellem k\u00e9sleltet\u00e9se"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Milyen hosszan jelenjenek meg a szellem\u00fczenetek (milliszekundumban)."
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "Szellemhiba k\u00e9sleltet\u00e9se"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Milyen hosszan jelenjenek meg a szellemhib\u00e1k (milliszekundumban)."
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "A szellem megjelen\u00edt\u00e9si sebess\u00e9ge"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "A sebess\u00e9g, melyek a szellemek fokozatosan megjelennek vagy elhalv\u00e1nyulnak."
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Azonnal (nincs fokozatos megjelen\u00edt\u00e9s\/elhalv\u00e1ny\u00edt\u00e1s)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Gyors"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Norm\u00e1l"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Lass\u00fa"
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "A szellem teljes \u00e1tl\u00e1tszatlans\u00e1ga"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "A szellemek teljes \u00e1tl\u00e1tszatlans\u00e1ga (0.1-1.0)"
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Balra"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Jobbra"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "A szellem poz\u00edci\u00f3ja"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "A k\u00e9perny\u0151 melyik oldal\u00e1n lebegjenek a szellemek."
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Szellem korl\u00e1toz\u00e1sa"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "\u00d6sszegz\u0151 szellem megjelen\u00edt\u00e9se, ha t\u00f6bb ilyen van."
+        }
+    }
+}

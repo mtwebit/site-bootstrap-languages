@@ -1,0 +1,207 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCKEditor\/InputfieldCKEditor.module",
+    "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "M\u00e9gse"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Hivatkoz\u00e1s besz\u00far\u00e1sa"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "K\u00e9p kijel\u00f6l\u00e9se"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "K\u00e9p szerkeszt\u00e9se"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "K\u00e9p ment\u00e9se"
+        },
+        "941c891be23b6a837de1d46c30efad2a": {
+            "text": "Ezen k\u00e9p besz\u00far\u00e1sa"
+        },
+        "a616a1ef7aa1ee32d7d31c742923a202": {
+            "text": "M\u00e1sik k\u00e9p kijel\u00f6l\u00e9se"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Igen"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nem"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "P\u00e9lda:"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "CKEditor be\u00e1ll\u00edt\u00e1sai"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "CKEditor eszk\u00f6zt\u00e1r"
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Szerkeszt\u0151 m\u0171k\u00f6d\u00e9si m\u00f3dja"
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Az egyes eszk\u00f6zt\u00e1relemeket v\u00e1lassza el vessz\u0151vel. Az elemeket ugyanabba a sorba t\u00e9ve csoportos\u00edtsa, \u00e9s haszn\u00e1ljon k\u00f6t\u0151jelet \"-\", ahol v\u00e1laszt\u00f3t akar kijelezni egy csoporton bel\u00fcl. Ha t\u00f6bb eszk\u00f6zt\u00e1rsort k\u00edv\u00e1n, akkor \u00fcres sorral v\u00e1lassza el az egyes sorokat."
+        },
+        "0e0da14bdea5e80af97115d05779bdc4": {
+            "text": "Hagyom\u00e1nyos szerkeszt\u0151"
+        },
+        "9f1f94725c69ad201b156e002476104c": {
+            "text": "Be\u00e1gyazott szerkeszt\u0151 *"
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "A be\u00e1gyazott \u00fczemm\u00f3d enged\u00e9lyez\u00e9sekor a szerkeszt\u0151 kattint\u00e1sig nem fog bet\u00f6lt\u0151dni a sz\u00f6vegbe. Ez akkor gyorsabb \u00e9s hat\u00e9konyabb, ha sok CKEditor mez\u0151 van a lapon. Azonban lehet, hogy nem t\u00e1mogat olyan sok funkci\u00f3t vagy szerkeszt\u0151 testreszab\u00e1st, mint a hagyom\u00e1nyos \u00fczemm\u00f3d."
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "*A be\u00e1gyazott \u00fczemm\u00f3d a HTML Purifier modul telep\u00edt\u00e9s\u00e9t k\u00f6veteli meg (MarkupHTMLPurifier)."
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "*A sz\u00fcks\u00e9ges HTML Purifier modul telep\u00edtve van."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "FIGYELMEZTET\u00c9S: Jelenleg nincs telep\u00edtve. Enged\u00e9lyeznie kell a be\u00e1gyazott \u00fczemm\u00f3d haszn\u00e1lata el\u0151tt."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "Az ACF haszn\u00e1lata?"
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "Az igen v\u00e1laszt\u00e1sakor akt\u00edv lesz a CKEditor Advanced Content Filter (ACF, speci\u00e1lis tartalomsz\u0171r\u0151). Ez a sz\u0171r\u0151 automatikusan letilt b\u00e1rmilyen jel\u00f6l\u0151nyelvi k\u00f3dot vagy attrib\u00fatumot a HTML-b\u0151l. Aj\u00e1nlott."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "A HTML Purifier haszn\u00e1lata?"
+        },
+        "dbb9e7f934e4def553f1d3065635377e": {
+            "text": "A div c\u00edmk\u00e9k \u00e1talak\u00edt\u00e1sa bekezd\u00e9s c\u00edmk\u00e9kk\u00e9"
+        },
+        "ed97424627acfa23d899d27908115be3": {
+            "text": "Az \u00fcres bekezd\u00e9s c\u00edmk\u00e9k elt\u00e1vol\u00edt\u00e1sa"
+        },
+        "ed654cac16ad0b016c80b1e0e04a86fa": {
+            "text": "A nem t\u00f6rhet\u0151 sz\u00f3k\u00f6z\u00f6k (nbsp) elt\u00e1vol\u00edt\u00e1sa"
+        },
+        "4cf63a5e6c4eff831c232b0eb238b4ae": {
+            "text": "az \u00f6sszes CKEditor mez\u0151h\u00f6z"
+        },
+        "bb87b90b3b4cf5290402d36011056951": {
+            "text": "csak ehhez a CKEditor mez\u0151h\u00f6z"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "Be\u00e9p\u00fcl\u0151 modulok"
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Extra be\u00e9p\u00fcl\u0151 modulok"
+        },
+        "8cd140c060d298234e0079cb77ee8190": {
+            "text": "Az al\u00e1bbi be\u00e9p\u00fcl\u0151 modulok tal\u00e1lhat\u00f3k. Jel\u00f6lje be a bet\u00f6lteni k\u00edv\u00e1nt be\u00e9p\u00fcl\u0151 modulok jel\u00f6l\u0151n\u00e9gyzeteit."
+        },
+        "9252446fff7e6ba650e51955cb0dc1ad": {
+            "text": "Tov\u00e1bbi be\u00e9p\u00fcl\u0151 modulok hozz\u00e1ad\u00e1s\u00e1hoz helyezze \u0151ket a **\/site\/modules\/InputfieldCKEditor\/plugins\/[n\u00e9v]\/** mapp\u00e1ba, a **[n\u00e9v]** hely\u00e9re a be\u00e9p\u00fcl\u0151 modul nev\u00e9t \u00edrja."
+        },
+        "0aef2da721f0ab14676f8d6ffb9e7e8c": {
+            "text": "aj\u00e1nlott"
+        },
+        "7ae98f3a4b96e522d75992c305a4ec2b": {
+            "text": "%s be\u00e1ll\u00edt\u00e1sai"
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "A CKEditor \u00e1ltal bet\u00f6ltend\u0151 extra be\u00e9p\u00fcl\u0151 modulok vessz\u0151vel tagolt list\u00e1ja."
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "P\u00e9ld\u00e1ul: pwlink,pwimage,myplugin,anotherplugin"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Be\u00e9p\u00fcl\u0151 modulok elt\u00e1vol\u00edt\u00e1sa"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "A CKEditor \u00e1ltal be nem t\u00f6ltend\u0151, elt\u00e1vol\u00edtott be\u00e9p\u00fcl\u0151 modulok vessz\u0151vel tagolt list\u00e1ja."
+        },
+        "b6c2682ed322b5c3625338a5849b9794": {
+            "text": "CKEditor sz\u00f6vegter\u00fclet rich text szerkeszt\u0151."
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "hu"
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "hu"
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "Egy\u00e9ni szerkeszt\u0151 CSS-f\u00e1jl (hagyom\u00e1nyos \u00fczemm\u00f3d)"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "Egy\u00e9ni szerkeszt\u0151 CSS-f\u00e1jl (be\u00e1gyazott \u00fczemm\u00f3d)"
+        },
+        "0d26e4905e21b238948dc724daade146": {
+            "text": "Egy\u00e9ni konfigur\u00e1ci\u00f3s be\u00e1ll\u00edt\u00e1sok"
+        },
+        "0361833f130e526c7475f0bbcda324f3": {
+            "text": "Ezt akkor haszn\u00e1lja, ha az ezen a k\u00e9perny\u0151n el\u00e9rhet\u0151k\u00f6n k\u00edv\u00fcl akar megadni CKEditor konfigur\u00e1ci\u00f3s be\u00e1ll\u00edt\u00e1sokat."
+        },
+        "8b6ac858b8ce3c2724d267695c732325": {
+            "text": "Az egy\u00e9ni konfigur\u00e1ci\u00f3s be\u00e1ll\u00edt\u00e1sok JSON-\u00e9rv\u00e9nyes\u00edt\u00e9se sikertelen."
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Enged\u00e9lyezett extra tartalom"
+        },
+        "69262424661d8b544ebcba617e5772c6": {
+            "text": "T\u00f6bb szab\u00e1lyt \u00faj sorba t\u00e9ve adhat meg."
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "A [r\u00e9szleteket](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2) l\u00e1sd a CKEditor dokument\u00e1ci\u00f3j\u00e1ban."
+        },
+        "9728a8f280cf7e8b0b89b52749f7e800": {
+            "text": "Haszn\u00e1lat\u00e1hoz tekintse meg [utas\u00edt\u00e1sainkat](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file)."
+        },
+        "63ba0561c6027fed354e6c5af252a77b": {
+            "text": "Haszn\u00e1lat\u00e1hoz tekintse meg [utas\u00edt\u00e1sainkat](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set)."
+        },
+        "2c3077a1dd5833c9dc6f49fe48e3ab71": {
+            "text": "Haszn\u00e1lata eset\u00e9n adjon meg soronk\u00e9nt egy **tulajdons\u00e1g: \u00e9rt\u00e9k** p\u00e1rt, vagy haszn\u00e1ljon egy JSON-karakterl\u00e1ncot."
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "A CKEditor be\u00e1gyazott \u00fczemm\u00f3dja a MarkupHTMLPurifier modult k\u00f6veteli meg. A norm\u00e1l m\u00f3dot haszn\u00e1lja helyette."
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "Az igen v\u00e1laszt\u00e1sakor a bek\u00fcld\u00f6tt tartalom tiszt\u00edt\u00e1s c\u00e9lj\u00e1b\u00f3l \u00e1tfut a [HTML Purifier](http:\/\/htmlpurifier.org\/) sz\u0171r\u0151n. A CKEditor vagy be\u00e1gyazott \u00fczemm\u00f3dban val\u00f3, vagy nem megb\u00edzhat\u00f3 felhaszn\u00e1l\u00f3k \u00e1ltali haszn\u00e1lata eset\u00e9n ez k\u00f6telez\u0151."
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "Form\u00e1tumc\u00edmk\u00e9k"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "A \"Form\u00e1tum\" leg\u00f6rd\u00fcl\u0151ben v\u00e1laszthat\u00f3 c\u00edmk\u00e9k pontosvessz\u0151vel elv\u00e1lasztott list\u00e1ja."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "Az alap\u00e9rtelmezett form\u00e1tumc\u00edmk\u00e9k a k\u00f6vetkez\u0151k:"
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "A CKEditor [extraAllowedContent](http:\/\/docs.ckeditor.com\/#!\/api\/CKEDITOR.config-cfg-extraAllowedContent) be\u00e1ll\u00edt\u00e1sonk\u00e9nt enged\u00e9lyezett tartalomszab\u00e1lyok. Csak akkor \u00e9rv\u00e9nyes, ha fent bejel\u00f6lte \"Az ACF haszn\u00e1lata\" jel\u00f6l\u0151n\u00e9gyzetet."
+        },
+        "378f7539f13b958d62e92c063772ee37": {
+            "text": "A fenti p\u00e9lda az alt, src, width \u00e9s height attrib\u00fatumokat enged\u00e9lyezn\u00e9 az img c\u00edmk\u00e9khez, az src attrib\u00fatumra mindig sz\u00fcks\u00e9g van."
+        },
+        "e3e03267810478ccd824a13309388549": {
+            "text": "Ezek tov\u00e1bbi tiszt\u00edt\u00e1si lehet\u0151s\u00e9gek (az ACF \u00e9s a HTML Purifier megold\u00e1son k\u00edv\u00fcl), melyek sok helyzetben hasznosnak bizonyultak. A lap ment\u00e9sekor ker\u00fclnek alkalmaz\u00e1sra. Aj\u00e1nlott az \u00f6sszes bejel\u00f6l\u00e9se, ha nem kell meghagynia valamelyik\u00fcket a jel\u00f6l\u0151nyelvi k\u00f3dban."
+        },
+        "60eaab37de096deaa26bb3ff7b706095": {
+            "text": "Az el\u00e9r\u00e9si utaknak a ProcessWire telep\u00edt\u00e9s gy\u00f6ker\u00e9hez k\u00e9pest relat\u00edvaknak kell lenni\u00fck (pl. ha a webhely alk\u00f6nyvt\u00e1rb\u00f3l fut, akkor z\u00e1rja ki azt a r\u00e9szt)."
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "Ez a be\u00e1ll\u00edt\u00e1s teszi lehet\u0151v\u00e9 a sz\u00f6veg \u00e9s m\u00e1s elemek a szerkeszt\u0151ben val\u00f3 megjelen\u00e9si m\u00f3dj\u00e1nak a m\u00f3dos\u00edt\u00e1s\u00e1t. Ez csak a fel\u00fcgyeleti k\u00f6rnyezetben val\u00f3 kin\u00e9zet\u00fcket  biztos\u00edtja, semmi k\u00f6ze sincs a hely felhaszn\u00e1l\u00f3i oldal\u00e1hoz."
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "Egy\u00e9ni szerkeszt\u0151 JS st\u00edlusk\u00e9szlet"
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "Ez a be\u00e1ll\u00edt\u00e1s egy\u00e9ni st\u00edlusok megad\u00e1s\u00e1t teszi lehet\u0151v\u00e9 a kijel\u00f6l\u00e9shez a szerkeszt\u0151ben. Egy \"Styles\" elem sz\u00fcks\u00e9ges hozz\u00e1 az eszk\u00f6zt\u00e1r fenti be\u00e1ll\u00edt\u00e1saiban."
+        },
+        "d662e23e83bdb75f4e25b3bb7afa2324": {
+            "text": "Ig\u00e9ny szerint ezek a be\u00e1ll\u00edt\u00e1sok ezek k\u00f6z\u00fcl a f\u00e1jlok k\u00f6z\u00fcl az egyikben is megadhat\u00f3k:"
+        },
+        "ced89926ebd1c95b56710b6a873b1e93": {
+            "text": "A(z) \"%s\" be\u00e9p\u00fcl\u0151 modul be\u00e1ll\u00edt\u00e1sainak JSON-\u00e9rv\u00e9nyes\u00edt\u00e9se sikertelen."
+        },
+        "4a4b882ebec0013773373d7983935b1c": {
+            "text": "Jel\u00f6l\u00e9skapcsol\u00f3k tiszt\u00edt\u00e1sa"
+        }
+    }
+}

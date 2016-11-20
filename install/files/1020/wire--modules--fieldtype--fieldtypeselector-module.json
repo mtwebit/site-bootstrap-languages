@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeSelector.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeselector-module",
+    "translations": {
+        "edcca7404d60fa39e1e56bbb6c85c519": {
+            "text": "V\u00e1laszt\u00f3 kiindul\u00e1si \u00e9rt\u00e9ke"
+        },
+        "7705e5655113c7b4e5b224010ac7af38": {
+            "text": "Adjon meg egy kiindul\u00e1si v\u00e1laszt\u00f3 karakterl\u00e1ncot, mely ebb\u0151l a mez\u0151b\u0151l gener\u00e1lt b\u00e1rmely v\u00e1laszt\u00f3 meg\u0151rz\u00f6tt kiindul\u00e1si pontjak\u00e9nt fog felhaszn\u00e1l\u00e1sra ker\u00fclni. A felhaszn\u00e1l\u00f3i v\u00e1laszt\u00f3val megegyez\u0151 b\u00e1rmely lap \u00f6ssze lesz k\u00f6tve az itt megadott v\u00e1laszt\u00f3n bel\u00fcl."
+        },
+        "4795bb99893dc26981eb889746b21499": {
+            "text": "P\u00e9ld\u00e1ul: template=product"
+        }
+    }
+}

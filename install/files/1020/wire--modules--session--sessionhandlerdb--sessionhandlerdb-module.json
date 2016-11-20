@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "Az IP-c\u00edmek k\u00f6vet\u00e9se a munkamenet adataiban?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "A felhaszn\u00e1l\u00f3i \u00fcgyn\u00f6k k\u00f6vet\u00e9se a munkamenet adataiban?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "A felhaszn\u00e1l\u00f3i \u00fcgyn\u00f6k \u00e1ltal\u00e1ban a haszn\u00e1lat alatt l\u00e9v\u0151 b\u00f6ng\u00e9sz\u0151r\u0151l tartalmaz inform\u00e1ci\u00f3kat."
+        },
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Ennek a jel\u00f6l\u0151n\u00e9gyzetnek a bejel\u00f6l\u00e9s\u00e9vel jelen\u00edthet\u0151k meg az adatok az adminisztr\u00e1ci\u00f3s munkamenetek list\u00e1ban."
+        }
+    }
+}

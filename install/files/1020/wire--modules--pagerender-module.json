@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "Lapmegjelen\u00edt\u0151"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Egy lmegjelen\u00edt\u00e9si m\u00f3dszert ad hozz\u00e1 a laphoz, \u00e9s gyors\u00edt\u00f3t\u00e1razza a lap kimenet\u00e9t."
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "%d gyors\u00edt\u00f3t\u00e1rf\u00e1jl ker\u00fclt t\u00f6rl\u00e9sre %d oldalhoz"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "A lapmegjelen\u00edt\u00e9si lemezgyors\u00edt\u00f3t\u00e1r ki\u00fcr\u00edt\u00e9se?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Jelenleg %d gyors\u00edt\u00f3t\u00e1rba helyezett lap van a k\u00f6vetkez\u0151ben: %s"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageType\/ProcessPageType.module",
+    "textdomain": "wire--modules--process--processpagetype--processpagetype-module",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "\u00daj hozz\u00e1ad\u00e1sa"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "N\u00e9v"
+        },
+        "9f8f70e6d54311627f02da284603db7a": {
+            "text": "M\u00e9g nincsenek megjelen\u00edtend\u0151 elemek."
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Sz\u0171r\u00e9s sablon szerint"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Az \u00f6sszes megjelen\u00edt\u00e9se"
+        },
+        "6a5b847af3d97df722040debdbccfbed": {
+            "text": "Lapt\u00edpus"
+        },
+        "3d10fda1b8b9895bade8da5233636cbf": {
+            "text": "Adott t\u00edpus\u00fa lapok list\u00e1z\u00e1sa, szerkeszt\u00e9se \u00e9s hozz\u00e1ad\u00e1sa"
+        },
+        "bce455aa81509f2a4dbb9acb3581a0be": {
+            "text": "Milyen mez\u0151k jelenjenek meg a laplist\u00e1ban?"
+        }
+    }
+}

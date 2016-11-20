@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "abf1be1c76c0620d1a220871b1ba0da1": {
+            "text": "A megjel\u00f6lt enged\u00e9lyek tov\u00e1bbi enged\u00e9lybe\u00e1ll\u00edt\u00e1sokat nyitnak, melyek a jel\u00f6l\u0151n\u00e9gyzet bejel\u00f6l\u00e9se \u00e9s a lap ment\u00e9se ut\u00e1n ker\u00fclnek felfed\u00e9sre."
+        },
+        "2ac1fce951ddece70a50dfb03bd386b2": {
+            "text": "n\u00e9v|c\u00edm"
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(k\u00f6telez\u0151)"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Szerepk\u00f6r\u00f6k"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "A felhaszn\u00e1l\u00f3i szerepk\u00f6r\u00f6k \u00e9s az adott enged\u00e9lyek kezel\u00e9se"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Enged\u00e9lyek"
+        },
+        "8a74d66f5b9d96c4eee8c0388f9536d9": {
+            "text": "*Vegye figyelembe, hogy a lapszerkeszt\u00e9si enged\u00e9ly itteni bejel\u00f6l\u00e9se csak azt jelenti, hogy a szerepk\u00f6r sablonszinten kiv\u00e1laszthat\u00f3 szerkeszt\u00e9si hozz\u00e1f\u00e9r\u00e9sre. A lapszerkeszt\u00e9si enged\u00e9ly itteni hozz\u00e1rendel\u00e9se mindaddig NEM ad szerkeszt\u00e9si enged\u00e9lyt, am\u00edg egy vagy t\u00f6bb sablonhozz\u00e1f\u00e9r\u00e9st kezel\u0151 be\u00e1ll\u00edt\u00e1sban sincs bejel\u00f6lve."
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Glob\u00e1lis"
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Ha bejel\u00f6li, akkor a rendszer ennek a mez\u0151nek az adatait a lap minden p\u00e9ld\u00e1ny\u00e1val be fogja t\u00f6lteni, az abban az id\u0151pontban val\u00f3 haszn\u00e1latt\u00f3l f\u00fcggetlen\u00fcl. Ha nem jel\u00f6li be, akkor az adatok ig\u00e9ny szerint \u00e9s csak akkor ker\u00fclnek bet\u00f6lt\u00e9sre, ha a mez\u0151 kifejezetten el\u00e9rhet\u0151."
+        },
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Automatikus \u00f6sszekapcsol\u00e1s"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Ha bejel\u00f6li, akkor erre a mez\u0151re az \u00d6SSZES lapon sz\u00fcks\u00e9g lesz. A rendszer automatikusan fogja hozz\u00e1adni azokhoz a mez\u0151csoportokhoz\/sablonokhoz, melyekben m\u00e9g nincs. Ez nem azt jelenti, hogy a mez\u0151ben \u00e9rt\u00e9kre van sz\u00fcks\u00e9g, hanem azt, hogy a szerkeszthet\u0151 mez\u0151 az \u00f6sszes lapon l\u00e9tezni fog. "
+        }
+    }
+}

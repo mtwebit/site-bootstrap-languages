@@ -1,0 +1,9 @@
+{
+    "file": "wire\/core\/SessionCSRF.php",
+    "textdomain": "wire--core--sessioncsrf-php",
+    "translations": {
+        "f5456cee91779e33a9f38ddca5081710": {
+            "text": "A k\u00e9relem v\u00e9grehajt\u00e1sa megszakadt, mert hamisnak t\u0171nik."
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "file": "wire\\core\\FieldSelectorInfo.php",
+    "textdomain": "wire--core--fieldselectorinfo-php",
+    "translations": {
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "Egyenl\u0151"
+        },
+        "fb83c9b66919b4a757a43a807b6af2cf": {
+            "text": "Nem egyenl\u0151"
+        },
+        "7288454fa442d48bc741c5cbadc2621b": {
+            "text": "Nagyobb"
+        },
+        "45ed1ce04bcf6003d4702422e1221c85": {
+            "text": "Kisebb"
+        },
+        "948f7ffb9d1e26622df83711e20e2fb2": {
+            "text": "Nagyobb vagy egyenl\u0151"
+        },
+        "189ce8ec24447eef9869d18043c9e303": {
+            "text": "Kisebb vagy egyenl\u0151"
+        },
+        "7842f2dabc6c53dca4319818c88ebeb9": {
+            "text": "Sz\u00f6veget tartalmazza"
+        },
+        "8354008c16032b35e36589957a3bd65f": {
+            "text": "Kifejez\u00e9st tartalmazza"
+        },
+        "7df149c48f0508977c06be79341a40ed": {
+            "text": "Szavakat tartalmazza"
+        },
+        "062e49c0f9af31da4f7314124191d9ef": {
+            "text": "Ezzel kezd\u0151dik"
+        },
+        "3ad33d3cec01f7125e3cd0575cada7ef": {
+            "text": "Ezzel v\u00e9gz\u0151dik"
+        },
+        "78c143802119a85c9774c0459240085d": {
+            "text": "\u00dcres"
+        },
+        "cbe0970a192d6df9999f4469f0854984": {
+            "text": "Nem \u00fcres"
+        }
+    }
+}

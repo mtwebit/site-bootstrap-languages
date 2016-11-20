@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
+    "translations": {
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "- V\u00e1lasszon mez\u0151t"
+        },
+        "028dbbda0ea85c6b4ff5f2c9b38495de": {
+            "text": "Szerkeszt\u00e9sre k\u00e9sz \u00faj ism\u00e9tl\u0151 elemek"
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "Maxim\u00e1lis ism\u00e9tl\u0151 elemek"
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Ism\u00e9tl\u0151 t\u00edpusa"
+        },
+        "d3b3350cb648f345b0a21a048df0cf45": {
+            "text": "Ism\u00e9tl\u0151"
+        },
+        "c58bb8dd26051c3ba65914f16c51f0b7": {
+            "text": "Ism\u00e9tl\u0151 mez\u0151k"
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Ehhez az ism\u00e9tl\u0151h\u00f6z a \"R\u00e9szletek\" f\u00fcl\u00f6n adhat hozz\u00e1 mez\u0151ket."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Hat\u00e1rozza meg az ezen ism\u00e9tl\u0151 \u00e1ltal haszn\u00e1lt mez\u0151ket. A mez\u0151ket a k\u00edv\u00e1nt sorrendbe is h\u00fazhatja."
+        },
+        "9175b33ed3085ade32188d58a242e0bc": {
+            "text": "Az ism\u00e9tl\u0151 elemek maxim\u00e1lisan enged\u00e9lyezett sz\u00e1ma."
+        },
+        "8db1e9fd86969c9e9ee4c09365c260a6": {
+            "text": "Ha null\u00e1t ad meg, akkor nem lesz korl\u00e1toz\u00e1s."
+        },
+        "f29a8c723be64c58c0e9f4cbd6c32a88": {
+            "text": "Ha az \u00e9rt\u00e9ke 1, akkor ez a mez\u0151 egy elemk\u00e9nt [Page] fog m\u0171k\u00f6dni, nem pedig t\u00f6bb elemk\u00e9nt [PageArray]."
+        },
+        "66eb0d45c43394f51bdb0397febc5b4f": {
+            "text": "Megjegyz\u00e9s: Ha ki van kapcsolva az outputFormatting, akkor az itteni be\u00e1ll\u00edt\u00e1st\u00f3l f\u00fcggetlen\u00fcl mindig PageArray-k\u00e9nt fog viselkedni."
+        },
+        "1f8c0e21410e1c136bf780fc141b35ae": {
+            "text": "A(z) \"%1$s\" mez\u0151 hozz\u00e1ad\u00e1sa a(z) \"%2$s\" ism\u00e9tl\u0151h\u00f6z megt\u00f6rt\u00e9nt."
+        },
+        "f54c2540ded6390c6328b2838850482d": {
+            "text": "A(z) \"%1$s\" mez\u0151 elt\u00e1vol\u00edt\u00e1sa a(z) \"%2$s\" ism\u00e9tl\u0151b\u0151l megt\u00f6rt\u00e9nt."
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "A(z) %s sz\u00fcl\u0151lap most m\u00e1r le van v\u00e1lasztva, \u00e9s \u00e1thelyezhet\u0151 vagy m\u00f3dos\u00edthat\u00f3."
+        },
+        "e7fa825f7b362804c946096d4856f5ab": {
+            "text": "Ha az \u00e9rt\u00e9ke 0, akkor \u00faj elemek csak sz\u00fcks\u00e9g eset\u00e9n fognak l\u00e9trehoz\u00e1sra ker\u00fclni. Ez a leghat\u00e9konyabb be\u00e1ll\u00edt\u00e1s."
+        },
+        "0130612d3e112f71601647fe1201aeda": {
+            "text": "Ha az \u00e9rt\u00e9ke 1 vagy nagyobb, akkor sok \u00faj elem lesz szerkeszt\u00e9sre k\u00e9szen, amint az \"elem hozz\u00e1ad\u00e1sa\" gombra kattint. Ez meggyors\u00edtja a kieg\u00e9sz\u00edt\u00e9seket."
+        },
+        "64137776d10ddf89ff3087915287b872": {
+            "text": "Egy tetsz\u0151leges sz\u00e1m\u00fa alkalommal ism\u00e9tl\u0151d\u0151 mez\u0151gy\u0171jtem\u00e9ny karbantart\u00e1s\u00e1t v\u00e9gzi."
+        },
+        "903d3f840b615b110dd712afd0132f5f": {
+            "text": "A szerkeszt\u00e9sre k\u00e9sz (k\u00f6zz\u00e9 nem tett) elemek sz\u00e1ma laponk\u00e9nt folyamatosan megjelen\u00edtve \u00faj elemekk\u00e9nt val\u00f3 haszn\u00e1latra."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Ha 'lev\u00e1lasztott', akkor \u00e1thelyezheti \u00e9s m\u00f3dos\u00edthatja az ism\u00e9tl\u0151 sz\u00fcl\u0151lapot \u00e9s sablont, ahogy j\u00f3nak l\u00e1tja."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Megjegyz\u00e9s: A lev\u00e1laszt\u00e1s ut\u00e1n a ProcessWire nem fogja t\u00f6r\u00f6lni a sz\u00fcl\u0151t vagy a sablont, amikor\/ha a mez\u0151 t\u00f6rl\u00e9sre ker\u00fcl."
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Ha 'csatolt', akkor az ism\u00e9tl\u0151 fogja kezelni a saj\u00e1t sablonj\u00e1t \u00e9s sz\u00fcl\u0151lapj\u00e1t, \u00d6nnek meg sem kell tekintenie vagy gondolnia r\u00e1."
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "\u00d6n bejelentkezett."
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Folytat\u00e1s"
+        },
+        "847549ae30061a6767a4b17c6fb4f53c": {
+            "text": "Sikeres bejelentkez\u00e9s"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Sikertelen bejelentkez\u00e9s"
+        },
+        "646d9e77201093e05380ead006df9975": {
+            "text": "Biztons\u00e1gi figyelmeztet\u00e9s: A(z) %s l\u00e9tezik, \u00e9s t\u00f6r\u00f6lni kell, amint lehet."
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Felhaszn\u00e1l\u00f3n\u00e9v"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Jelsz\u00f3"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Bejelentkez\u00e9s"
+        },
+        "d837cc5a72556c5e2abf4b9fe10ddef8": {
+            "text": "Bejelentkez\u00e9s"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Elfelejtette a jelszav\u00e1t?"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "\u00d6n kijelentkezett."
+        }
+    }
+}

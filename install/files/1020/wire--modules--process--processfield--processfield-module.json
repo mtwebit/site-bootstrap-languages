@@ -1,0 +1,318 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessField.module",
+    "textdomain": "wire--modules--process--processfield--processfield-module",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Ment\u00e9s"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Import\u00e1l\u00e1s"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Export\u00e1l\u00e1s"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "OK"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Az \u00f6sszes megjelen\u00edt\u00e9se"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Sz\u0171r\u0151k"
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Sz\u0171r\u00e9s sablon szerint"
+        },
+        "a81c2112e97c64099ff86d5b97cb13c6": {
+            "text": "Mez\u0151k sablon szerint"
+        },
+        "d9a45316e3230df36980cf6ab8983485": {
+            "text": "Sz\u0171r\u00e9s mez\u0151t\u00edpus szerint"
+        },
+        "db2b4f5915e2053955edfec38776a17f": {
+            "text": "Megad\u00e1sa eset\u00e9n csak a kiv\u00e1lasztott t\u00edpus\u00fa mez\u0151k lesznek l\u00e1that\u00f3k. A mez\u0151t\u00edpus szerinti sz\u0171r\u00e9skor a be\u00e9p\u00edtett mez\u0151k is l\u00e1that\u00f3k."
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Ismeretlen tulajdons\u00e1gok"
+        },
+        "c64f8a38fc13441f6cc860a4cbae887a": {
+            "text": "A mez\u0151 t\u00f6rl\u00e9se"
+        },
+        "8bcb61f8472471a1619f7bd55e2c9ad2": {
+            "text": "Ez a mez\u0151 nincs haszn\u00e1latban, nyugodtan t\u00f6r\u00f6lhet\u0151."
+        },
+        "1fa78a97c113bed4e867ec21d9ca918f": {
+            "text": "Ez a mez\u0151 nem t\u00f6r\u00f6lhet\u0151, mert egy vagy t\u00f6bb sablon haszn\u00e1lja."
+        },
+        "ee2d3754b6e7f57898d9d8670f78ae71": {
+            "text": "Speci\u00e1lis be\u00e1ll\u00edt\u00e1sok"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ikon"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "C\u00edmk\u00e9k"
+        },
+        "7d09843a01448bd5ac4ad4bcfb2c388e": {
+            "text": "A mez\u0151n\u00e9v megad\u00e1sa k\u00f6telez\u0151"
+        },
+        "a9c97bb1362d6960df5b6489b9454678": {
+            "text": "A mez\u0151t\u00edpus megad\u00e1sa k\u00f6telez\u0151"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Mez\u0151k"
+        },
+        "d665a1b10e02b9de8f4115d5b7078976": {
+            "text": "\u00daj mez\u0151 hozz\u00e1ad\u00e1sa"
+        },
+        "0b6c421579ca54de1ee2d79df5df6f05": {
+            "text": "N\u00e9v"
+        },
+        "83cfa166d441c1b47108e5d6b3f21cbe": {
+            "text": "Felirat"
+        },
+        "516a15631804c8878a63ecc155a067fa": {
+            "text": "T\u00edpus"
+        },
+        "b342aa8cb5e92300b8b0bda3eaf8076d": {
+            "text": "Sablonok"
+        },
+        "f1cb39a9250fe6002851375559d8bd85": {
+            "text": "glob\u00e1lis"
+        },
+        "f44c0dcd3537024ab1be348dffe383de": {
+            "text": "rendszer"
+        },
+        "b1100a1a039c319674c740cdc6382e92": {
+            "text": "k\u00f6telez\u0151"
+        },
+        "dcd217d86ebc19480f6602a1835f440d": {
+            "text": "Mez\u0151 szerkeszt\u00e9se: %s"
+        },
+        "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
+            "text": "\u00daj mez\u0151 hozz\u00e1ad\u00e1sa"
+        },
+        "1f2b73286f18ea71c594652199e86dff": {
+            "text": "M\u00e9gse"
+        },
+        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
+            "text": "T\u00f6rl\u00e9s"
+        },
+        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
+            "text": "T\u00edpus"
+        },
+        "7facb165145d489aeaa6743a6f9f1f55": {
+            "text": "Mez\u0151felirat"
+        },
+        "9ea1f3769ad9c72e3ebf7de539b53aa1": {
+            "text": "Le\u00edr\u00e1s"
+        },
+        "450424710b0286d62947973d7263eb21": {
+            "text": "Sablon"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Speci\u00e1lis"
+        },
+        "363746a770985e537565b276b37c438e": {
+            "text": "Mez\u0151k megjelen\u00edt\u00e9se sablonb\u00f3l: %s"
+        },
+        "cca90d2e0854b62dc0c77ad0e1679be4": {
+            "text": "A k\u00f6vetkez\u0151 t\u00edpus\u00fa mez\u0151k megjelen\u00edt\u00e9se: %s"
+        },
+        "380f82872d1eb16c53b69ce4cfb45c9f": {
+            "text": "A be\u00e9p\u00edtett mez\u0151k megjelen\u00edt\u00e9se?"
+        },
+        "ad4e206408c1c59bfb8a057ba7857446": {
+            "text": "K\u00f6rnyezet"
+        },
+        "41fb8fe20e74e99ab359cecc48be97d5": {
+            "text": "P\u00e9ld\u00e1ul: beer"
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Minden c\u00edmk\u00e9nek egy sz\u00f3b\u00f3l kell \u00e1llnia (az elv\u00e1laszt\u00e1s az j\u00f3)."
+        },
+        "90a7d24b2f57968c1090adc8eb1cedff": {
+            "text": "Ezt a mez\u0151t az al\u00e1bbi sablonok haszn\u00e1lj\u00e1k:"
+        },
+        "e846a7b9b780397947329058d6856fe4": {
+            "text": "Mez\u0151 szerkeszt\u00e9se a k\u00f6rnyezetben"
+        },
+        "da15cd97dba363b29a8a06c76d4c4c7d": {
+            "text": "Ezt a mez\u0151t jelenleg egy sablon sem haszn\u00e1lja."
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Alapbe\u00e1ll\u00edt\u00e1sok"
+        },
+        "1b5681f696c34da0c10d98c5666f22ca": {
+            "text": "Inform\u00e1ci\u00f3"
+        },
+        "cb4e4304ce3fbf227cdae7fecc193fbf": {
+            "text": "Figyelmeztet\u00e9s"
+        },
+        "4ac3deb7dc60a1b4770ad126c84171f7": {
+            "text": "*A mez\u0151 egy alap\u00e9rtelmezett \u00e9rt\u00e9knek a fel\u00fclb\u00edr\u00e1l\u00e1s\u00e1t jelzi. Az ezen a k\u00e9perny\u0151n megadott be\u00e1ll\u00edt\u00e1sok csak a(z) \"%s\"  sablonnal val\u00f3 haszn\u00e1lat eset\u00e9n b\u00edr\u00e1lj\u00e1k fel\u00fcl az alap\u00e9rtelmezett be\u00e1ll\u00edt\u00e1sokat."
+        },
+        "e7ec3883e42efde03a4932115fb807eb": {
+            "text": "Be\u00e1ll\u00edt\u00e1sok a k\u00f6vetkez\u0151 sablonnal val\u00f3 haszn\u00e1latkor: %s"
+        },
+        "5efc010f527cdfeaa2ef63b1c6898fb5": {
+            "text": "ASCII-bet\u0171k [a-z], sz\u00e1mok [0-9] vagy al\u00e1h\u00faz\u00e1sjelek b\u00e1rmilyen kombin\u00e1ci\u00f3ja (k\u00f6t\u0151jelek vagy sz\u00f3k\u00f6z\u00f6k n\u00e9lk\u00fcl)."
+        },
+        "219befd28b6f70d6d0a52f13c6b93772": {
+            "text": "A beviteli mez\u0151 felett megjelen\u0151 felirat. Ha \u00fcresen hagyja, akkor a n\u00e9v ker\u00fcl felhaszn\u00e1l\u00e1sra helyette."
+        },
+        "983f66857047c1e6fc8878e54c5c9939": {
+            "text": "A mez\u0151 megkett\u0151z\u00e9se\/kl\u00f3noz\u00e1sa?"
+        },
+        "c073843a55498e809c4dd95be0721831": {
+            "text": "Az al\u00e1bbi jel\u00f6l\u0151n\u00e9gyzetet akkor jel\u00f6lje be, ha meg akarja kett\u0151zni ezt a mez\u0151t \/ el akarja k\u00e9sz\u00edteni a kl\u00f3nozott p\u00e9ld\u00e1ny\u00e1t. A kl\u00f3n ment\u00e9skor fog elk\u00e9sz\u00fclni."
+        },
+        "9cc4ac29ded1988ae44a553a7ecd4ffc": {
+            "text": "Ha ikont k\u00edv\u00e1n t\u00e1rs\u00edtani a mez\u0151h\u00f6z, akkor ide egy [ikon nev\u00e9t](http:\/\/fortawesome.github.io\/Font-Awesome\/icons\/) \u00edrja be."
+        },
+        "89e1299f98120a24c999cdffa860d2cb": {
+            "text": "A mez\u0151 t\u00f6r\u00f6lve"
+        },
+        "584afda122df1e41e3a533afdc1b3f6e": {
+            "text": "A mez\u0151 hozz\u00e1adva"
+        },
+        "f173ffbd0f010d4e164484785d07b7c1": {
+            "text": "Nem haszn\u00e1lt tulajdons\u00e1g ker\u00fclt elt\u00e1vol\u00edt\u00e1sra: %s"
+        },
+        "d4a2d56009360cb3a587f17538631ce9": {
+            "text": "A mez\u0151 mentve"
+        },
+        "2f449cde553921e24ebc7b252209b1dc": {
+            "text": "A mez\u0151 kl\u00f3nozva"
+        },
+        "f2b83b9c6e7b4b10852e2920effd3433": {
+            "text": "Hiba t\u00f6rt\u00e9nt ennek a mez\u0151nek a kl\u00f3noz\u00e1sakor"
+        },
+        "b3dd3da27d2927b5c36e28d771388c7d": {
+            "text": "A mez\u0151t\u00edpus m\u00f3dos\u00edt\u00e1sa megt\u00f6rt\u00e9nt"
+        },
+        "288fc0452049b753c8a75464d299ffe3": {
+            "text": "Nincs a sz\u0171r\u0151nek megfelel\u0151 mez\u0151"
+        },
+        "4fd5d5323fc3d2535f351e46ba740d3c": {
+            "text": "...\u00e9s \u00edgy tov\u00e1bb..."
+        },
+        "011e30aea1ad8c8e81405e295f032cc8": {
+            "text": "A mez\u0151adatok ellen\u0151rz\u00e9se"
+        },
+        "e49f1e280534321564ea8d40be20e4d0": {
+            "text": "A k\u00f6vetkez\u0151 mez\u0151 t\u00edpus\u00e1nak m\u00f3dos\u00edt\u00e1sa: %s"
+        },
+        "cc84c47ce264c6a27bd49ff004d4c555": {
+            "text": "Mez\u0151t\u00edpus m\u00f3dos\u00edt\u00e1s\u00e1nak meger\u0151s\u00edt\u00e9se"
+        },
+        "410267bd4e3c99784bab90c5e64b5209": {
+            "text": "Kiv\u00e1laszt\u00e1sakor csak egy konkr\u00e9t sablon mez\u0151i lesznek l\u00e1that\u00f3k. A sablon alapj\u00e1n val\u00f3 sz\u0171r\u00e9skor megjelennek a be\u00e9p\u00edtett mez\u0151k is. A rendszersablonok csillaggal (*) jel\u00f6ltek."
+        },
+        "1535d0228ba3626bad19ec55142ffcc6": {
+            "text": "Az \u00f6sszes mez\u0151 megjelen\u00edt\u00e9se, a be\u00e9p\u00edtett rendszer- \u00e9s \u00e1lland\u00f3 mez\u0151ket is bele\u00e9rtve."
+        },
+        "64348e0f887e58c6002080b6153add90": {
+            "text": "%d \u00e1rva t\u00e1blasor tal\u00e1lhat\u00f3"
+        },
+        "b2ab31c6f8fbc066d4840baa6c081821": {
+            "text": "Ebben a mez\u0151ben lehets\u00e9ges ismeretlen mez\u0151k tal\u00e1lhat\u00f3k. L\u00e1sd a \"Figyelmeztet\u00e9s\" f\u00fclet."
+        },
+        "292694f229d9162dd0a6510ff0745d4f": {
+            "text": "Elt\u00e1vol\u00edtja a(z) %d \u00e1rva t\u00e1blasort?"
+        },
+        "bfacb0dba61ee131e07daaacead869c5": {
+            "text": "Mez\u0151 alapvet\u0151 be\u00e1ll\u00edt\u00e1sai"
+        },
+        "1d44463bf74c66ac465f0f51cee9a827": {
+            "text": "A(z) %d \u00e1rva sor t\u00f6rl\u00e9se megt\u00f6rt\u00e9nt."
+        },
+        "2a7b956033d031e555889f8ddd52754f": {
+            "text": "Ha bejel\u00f6li, akkor a be\u00e9p\u00edtett mez\u0151k is l\u00e1that\u00f3k lesznek. Ezek rendszermez\u0151ket \u00e9s \u00e1lland\u00f3 mez\u0151ket foglalnak magukban. A rendszermez\u0151kre a rendszernek van sz\u00fcks\u00e9ge, \u00e9s nem t\u00f6r\u00f6lhet\u0151k, illetve a nev\u00fck nem m\u00f3dos\u00edthat\u00f3. Az \u00e1lland\u00f3 mez\u0151k azok, melyek nem t\u00e1vol\u00edthat\u00f3k el egy sablonb\u00f3l. Ezeket a mez\u0151ket a ProcessWire bel\u00fcl haszn\u00e1lja."
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "C\u00edmke n\u00e9lk\u00fcli"
+        },
+        "a90c3a6bf539d90c6016413cddd2178c": {
+            "text": "Futtassa le ezt az ellen\u0151rz\u00e9st a(z) %s mez\u0151n"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "Nem tal\u00e1lhat\u00f3k hib\u00e1k a(z) %s mez\u0151n\u00e9l"
+        },
+        "afb5272a55f7eb214fd004a5becf2bb7": {
+            "text": "Tal\u00e1ltunk adatsorokat a t\u00e1bl\u00e1ban ehhez a mez\u0151h\u00f6z, melyek egyik lappal sem egyeznek."
+        },
+        "d421f74dd8c605a337e57a6224f23478": {
+            "text": "Az ezt a mez\u0151t ismertet\u0151 tov\u00e1bbi inform\u00e1ci\u00f3 \u00e9s\/vagy utas\u00edt\u00e1sok a tartalom be\u00edr\u00e1s\u00e1hoz."
+        },
+        "0b99d251c68ee30c7f38cefe42d5fbdc": {
+            "text": "Mez\u0151haszn\u00e1lati inform\u00e1ci\u00f3k"
+        },
+        "c2311f219b7dc0a845a537a7a26fa8b3": {
+            "text": "Ha biztosan meg akarja v\u00e1ltoztatni a mez\u0151t\u00edpust, akkor jel\u00f6lje be az al\u00e1bbi jel\u00f6l\u0151n\u00e9gyzetet, \u00e9s k\u00fcldje el ezt az \u0171rlapot."
+        },
+        "c2fd10d6fa7d3e1e8bd7c83de24c4d95": {
+            "text": "A mez\u0151t\u00edpus m\u00f3dos\u00edt\u00e1sa megszak\u00edt\u00e1sra ker\u00fclt"
+        },
+        "7cdb55d0d84a64ee84c14621892d8e10": {
+            "text": "A mez\u0151 ment\u00e9se ut\u00e1n visszat\u00e9r\u00e9s a mez\u0151list\u00e1hoz?"
+        },
+        "46c5d71a7ab758f0ce5b9124cd8c53a4": {
+            "text": "\u00e1lland\u00f3"
+        },
+        "94f0fa1e6b7f766dc6432b4d8fd960ae": {
+            "text": "Az ellen\u0151rz\u0151 mez\u0151 jelentette:"
+        },
+        "ab2e4f95a7971ee8077df62efa20d437": {
+            "text": "A mez\u0151t\u00edpus kiv\u00e1laszt\u00e1sa \u00e9s ment\u00e9se ut\u00e1n tov\u00e1bbi, a kiv\u00e1lasztott mez\u0151t\u00edpusra jellemz\u0151 konfigur\u00e1ci\u00f3s be\u00e1ll\u00edt\u00e1sok jelenhetnek meg."
+        },
+        "78bd709db99c927f3a59a1983f18c237": {
+            "text": "Ha \u00f6ssze akar csukni egy c\u00edmk\u00e9t a mez\u0151list\u00e1ban, f\u0171zz\u00f6n hozz\u00e1 k\u00f6t\u0151jelet az elej\u00e9n, p\u00e9ld\u00e1ul: -hello"
+        },
+        "494bfa7cbe1a6aaf0e24e92c54664859": {
+            "text": "Ellen\u0151rzi a mez\u0151t a nem haszn\u00e1lt adatok vagy egy\u00e9b lehets\u00e9ges optimaliz\u00e1l\u00e1sok v\u00e9gett. Ha b\u00e1rmilyen probl\u00e9ma mer\u00fcl f\u00f6l, akkor ment\u00e9s ut\u00e1n a Figyelmeztet\u00e9s f\u00fcl\u00f6n jav\u00edthatja \u0151ket."
+        },
+        "3df354a032179f36ea493c3df6643ce1": {
+            "text": "Ha ezt a mez\u0151t vizu\u00e1lisan akarja csoportos\u00edtani a t\u00f6bbivel a mez\u0151list\u00e1ban, akkor \u00edrjon be egy egyszavas c\u00edmk\u00e9t. Ugyanezt a c\u00edmk\u00e9t adja meg ahhoz a t\u00f6bbi mez\u0151h\u00f6z, melyekkel csoportos\u00edtani k\u00edv\u00e1nja. T\u00f6bb c\u00edmk\u00e9t sz\u00f3k\u00f6zzel elv\u00e1lasztva adhat meg. A c\u00edmk\u00e9k haszn\u00e1lata akkor lehet hasznos, ha a webhelynek nagysz\u00e1m\u00fa mez\u0151je van."
+        },
+        "7d04592612713885f95f51cca38d5708": {
+            "text": "Megjegyz\u00e9s: A mez\u0151t\u00edpus megv\u00e1ltoztat\u00e1sa m\u00f3dos\u00edtja az adatb\u00e1ziss\u00e9m\u00e1t. Ha az \u00faj mez\u0151t\u00edpus nem kompatibilis a r\u00e9givel, vagy ha jelent\u0151sen elt\u00e9r\u0151 s\u00e9m\u00e1t tartalmaz, akkor adatveszt\u00e9s t\u00f6rt\u00e9nhet. Eredm\u00e9nyk\u00e9nt tan\u00e1csos biztons\u00e1gi m\u00e1solatot k\u00e9sz\u00edteni az adatb\u00e1zisr\u00f3l a mez\u0151t\u00edpus m\u00f3dos\u00edt\u00e1s\u00e1nak befejez\u00e9se el\u0151tt."
+        },
+        "a3d843d337eabebe3e81df9bfef414ea": {
+            "text": "A mez\u0151t\u00edpus m\u00f3dos\u00edt\u00e1sa err\u0151l: \"%1$s\" erre: \"%2$s\""
+        },
+        "4b2bcb0478b24201a7d60fed561d1b42": {
+            "text": "A lapadatokat t\u00e1rol\u00f3 egyes mez\u0151k szerkeszt\u00e9se"
+        },
+        "503eff76a9f0b3c0c78997aa4370e2f0": {
+            "text": "A mez\u0151 ment\u00e9se ut\u00e1n alap\u00e9rtelmez\u00e9sk\u00e9nt a mez\u0151szerkeszt\u0151ben fog maradni. Ha a mez\u0151list\u00e1hoz akar ink\u00e1bb visszat\u00e9rni, akkor jel\u00f6lje be ezt a jel\u00f6l\u0151n\u00e9gyzetet."
+        },
+        "06dacbad9c7587cdace10537b20b43ca": {
+            "text": "megjelen\u00edt\u00e9s, ha..."
+        },
+        "cba80ebc9ff6059cddbf49c3f46172a6": {
+            "text": "Egyik sem (alap\u00e9rtelmezett)"
+        },
+        "588f35f32f53430bfc4199ef15c424db": {
+            "text": "A sz\u0171r\u00e9si be\u00e1ll\u00edt\u00e1sok megjelen\u00edt\u00e9se a mez\u0151list\u00e1ban?"
+        },
+        "bcb2ce4355834a060bef50afb9127603": {
+            "text": "Be\u00e9p\u00edtett"
+        },
+        "50092a77c044bc5d91bb703429c29157": {
+            "text": "A konfigur\u00e1l\u00e1s sor\u00e1n az al\u00e1bbi tulajdons\u00e1gok ker\u00fcltek meg\u00e1llap\u00edt\u00e1sra ehhez a nulla hozz\u00e1f\u00e9r\u00e9s\u0171 mez\u0151h\u00f6z. N\u00e9ha ez azt jelezheti, hogy m\u00e1r nincsenek haszn\u00e1latban a tulajdons\u00e1gok. Jel\u00f6lje be az elt\u00e1vol\u00edtani k\u00edv\u00e1nt tulajdons\u00e1gok jel\u00f6l\u0151n\u00e9gyzeteit. Ha nem biztos benne, nem baj, ha itt hagyja \u0151ket."
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "Meg\u0151rzi a mez\u0151 be\u00e1ll\u00edt\u00e1sait?"
+        },
+        "7d912a6056deaad44add9eda5494d120": {
+            "text": "Jel\u00f6lje be ezt a jel\u00f6l\u0151n\u00e9gyzetet ezen mez\u0151 \u00f6sszes egy\u00e9ni be\u00e1ll\u00edt\u00e1s\u00e1nak meg\u0151rz\u00e9s\u00e9hez (a R\u00e9szletek \u00e9s a Bevitel f\u00fclr\u0151l). Ez akkor k\u00edv\u00e1natos, ha az \u00faj mez\u0151 t\u00edpus\u00e1nak azonos vagy hasonl\u00f3 konfigur\u00e1ci\u00f3s tulajdons\u00e1gai vannak a r\u00e9gi mez\u0151t\u00edpushoz. Ez azonban azt eredm\u00e9nyezheti, hogy a f\u00f6l\u00f6sleges vagy redund\u00e1ns konfigur\u00e1ci\u00f3s adatok sok helyet foglalnak el a mez\u0151ben. K\u00e9s\u0151bb mindig elemezheti ezt innen: Speci\u00e1lis > Mez\u0151adatok ellen\u0151rz\u00e9se "
+        },
+        "887c58e4743e8c789e4ebea161c6fdfe": {
+            "text": "K\u00e9t v\u00e1laszt\u00f3mez\u0151t ad hozz\u00e1 a mez\u0151lista elej\u00e9hez, amivel sablon vagy t\u00edpus szerint sz\u0171rhet\u0151 a mez\u0151k kijelz\u00e9se."
+        },
+        "678cad4866392ed0961cbce7d6ff550d": {
+            "text": "automatikus \u00f6sszekapcsol\u00e1s"
+        }
+    }
+}

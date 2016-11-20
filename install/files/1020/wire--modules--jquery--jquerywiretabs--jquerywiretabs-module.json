@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Jquery\/JqueryWireTabs\/JqueryWireTabs.module",
+    "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
+    "translations": {
+        "4778324acb050ad87cef45324610ff81": {
+            "text": "jQuary Wire f\u00fclek b\u0151v\u00edtm\u00e9ny"
+        },
+        "9fdc49adcef1b65060a39f7a096d09e2": {
+            "text": "jQuery b\u0151v\u00edtm\u00e9ny f\u00fclek gener\u00e1l\u00e1s\u00e1hoz a ProcessWire-ben."
+        },
+        "d9f813a897729ef85bdc36fe6f9bc91a": {
+            "text": "A f\u00fclek hely\u00e9nek megjegyz\u00e9se a k\u00e9r\u00e9sek k\u00f6z\u00f6tt?"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Soha"
+        },
+        "3f8dfcf012a1f2c00ebbe7cc3fe0f265": {
+            "text": "Csak az \u0171rlap elk\u00fcld\u00e9se ut\u00e1n"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Mindig"
+        }
+    }
+}

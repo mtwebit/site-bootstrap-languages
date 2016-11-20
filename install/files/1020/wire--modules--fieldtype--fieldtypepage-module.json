@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "d1d7182c9905811b10bcd1f5bdcb9eda": {
+            "text": "Visszakeres\u00e9s az API-ban mint"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "A k\u00f6zz\u00e9 nem tett lapok enged\u00e9lyez\u00e9se?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Ha bejel\u00f6li, akkor a k\u00f6zz\u00e9 nem tett lapok enged\u00e9lyezettek a mez\u0151\u00e9rt\u00e9kben. A k\u00f6zz\u00e9 nem tett lapok, a hozz\u00e1f\u00e9r\u00e9ssel rendelkez\u0151k kiv\u00e9tel\u00e9vel, nem fognak megjelenni a felhaszn\u00e1l\u00f3i oldalon."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "A lap nem tal\u00e1lhat\u00f3"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "A sablon nem tal\u00e1lhat\u00f3"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Az \u00e1rva laphivatkoz\u00e1sok keres\u00e9se \u00e9s t\u00f6rl\u00e9se"
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Figyelmeztet\u00e9s: Lefuttat\u00e1sa el\u0151tt a saj\u00e1t biztons\u00e1ga \u00e9rdek\u00e9ben k\u00e9sz\u00edtsen biztons\u00e1gi m\u00e1solatot az adatb\u00e1zisr\u00f3l."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Keres\u00e9s \u00e9s t\u00f6rl\u00e9s..."
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Ha a mez\u0151 t\u00f6bb lapot fog tartalmazni, akkor v\u00e1lassza az els\u0151 lehet\u0151s\u00e9get (PageArray). Ha a mez\u0151nek csak egy lapot kell tartalmaznia, akkor v\u00e1lassza az egyik egylapos lehet\u0151s\u00e9get (ha nem tudja melyiket, akkor v\u00e1lassza az utols\u00f3t)."
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "T\u00f6bb lap (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Egy lap (Page) vagy a logikai v\u00e1ltoz\u00f3 \u00e9rt\u00e9ke hamis, ha egyiket sem v\u00e1lasztja"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Egy lap (Page) vagy \u00fcres lap (NullPage), ha egyiket sem v\u00e1lasztja"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Ez kitiszt\u00edtja a ProcessWire r\u00e9gebbi verzi\u00f3iban azt, ami egy hiba miatt t\u00f6r\u00f6lt lapok \u00e1rva laphivatkoz\u00e1sait hagyhatta. Ha pontatlan eredm\u00e9nyeket kap egy m\u0171veleteket keres\u0151 lapb\u00f3l (els\u0151sorban a pageref.count \u00e9rt\u00e9ket haszn\u00e1l\u00f3 v\u00e1laszt\u00f3kkal), akkor \u00e9rdemes ezt lefuttathatnia."
+        },
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Mennyis\u00e9g"
+        }
+    }
+}

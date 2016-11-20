@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageParser.php",
+    "textdomain": "wire--modules--languagesupport--languageparser-php",
+    "translations": {
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "sz\u00f6veg"
+        },
+        "66ef52d19e012c9f6308ff584832f408": {
+            "text": "sz\u00f6veg"
+        },
+        "6558000adbdbb1f87a94fe236eeae5e8": {
+            "text": "egyes sz\u00e1m"
+        },
+        "a6d538d13b6e5de7912a9eb02882889c": {
+            "text": "t\u00f6bbes sz\u00e1m"
+        },
+        "13a827b23bd3064a782e5e9589428db9": {
+            "text": "egyes sz\u00e1m\u00fa sz\u00f6veg"
+        },
+        "193b25fbcad1c2bb7704cd3adb3007ce": {
+            "text": "t\u00f6bbes sz\u00e1m\u00fa sz\u00f6veg"
+        }
+    }
+}

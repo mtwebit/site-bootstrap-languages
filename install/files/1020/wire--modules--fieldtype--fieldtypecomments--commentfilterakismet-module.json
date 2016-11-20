@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentFilterAkismet.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentfilterakismet-module",
+    "translations": {
+        "4f56cc1383c1e4170dfe1e715a97f5d6": {
+            "text": "Hozz\u00e1sz\u00f3l\u00e1ssz\u0171r\u0151: Akismet"
+        },
+        "c6fbad5a67362793950bf96bd0e6dad5": {
+            "text": "Az Akismet szolg\u00e1ltat\u00e1st haszn\u00e1lja a hozz\u00e1sz\u00f3l\u00e1sszem\u00e9t beazonos\u00edt\u00e1s\u00e1hoz. Modul b\u0151v\u00edtm\u00e9ny a Hozz\u00e1sz\u00f3l\u00e1sok mez\u0151t\u00edpushoz."
+        },
+        "00fee5e9143358a3b00c985f3ed3c43e": {
+            "text": "Akismet-kulcs"
+        },
+        "69dccaed52b0f6af3c11c97b72d0b963": {
+            "text": "Ha automatikusan k\u00edv\u00e1nja beazonos\u00edtani szem\u00e9tk\u00e9nt a hozz\u00e1sz\u00f3l\u00e1sokat, akkor a Hozz\u00e1sz\u00f3l\u00e1sok mez\u0151t\u00edpus v\u00e9grehajt\u00e1s\u00e1hoz fel tudja haszn\u00e1lni az Akismet-szolg\u00e1ltat\u00e1st. Haszn\u00e1lat\u00e1hoz meg kell adnia az akismet.com webhelyr\u0151l beszerzett Akismet API-kulcsot. Ennek a szolg\u00e1ltat\u00e1snak a haszn\u00e1lata nem k\u00f6telez\u0151, viszont aj\u00e1nlott."
+        }
+    }
+}

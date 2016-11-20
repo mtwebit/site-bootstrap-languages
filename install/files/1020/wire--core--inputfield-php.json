@@ -1,0 +1,72 @@
+{
+    "file": "wire\/core\/Inputfield.php",
+    "textdomain": "wire--core--inputfield-php",
+    "translations": {
+        "2d7ff3fa8a1a844b270d96878d358762": {
+            "text": "Tov\u00e1bbi inform\u00e1ci\u00f3 a [haszn\u00e1lat\u00e1r\u00f3l](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
+        },
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "L\u00e1that\u00f3s\u00e1g"
+        },
+        "c7bc3fddddb62d5b656adc30cea77a55": {
+            "text": "Megjelen\u00edt\u00e9s"
+        },
+        "49632d1c8309d42371ab31fe84d56c91": {
+            "text": "Hogyan jelenjen meg ez a mez\u0151 a szerkeszt\u0151ben?"
+        },
+        "604b97c67341baddd9547c714add721c": {
+            "text": "Mindig nyitva (alap\u00e9rtelmezett)"
+        },
+        "d7a1a486818eebace651ff191e42984f": {
+            "text": "Csak akkor \u00f6sszecsukott, ha \u00fcres"
+        },
+        "996d9abb10eeff734a994fcd5b449db6": {
+            "text": "Csak akkor \u00f6sszecsukott, ha kit\u00f6lt\u00f6tt"
+        },
+        "c0b4e286b96d6d694cb7ecb152fe3e9d": {
+            "text": "Mindig \u00f6sszecsukott, kattintani kell a megnyit\u00e1s\u00e1hoz"
+        },
+        "8263d549648f539508587a67f38d008b": {
+            "text": "Rejtett, nem l\u00e1tszik a szerkeszt\u0151ben"
+        },
+        "3cfa4a6238e2b559d3f52474e7545485": {
+            "text": "Ez a mez\u0151 csak akkor jelenjen meg, ha..."
+        },
+        "a785c32894aad6d7c1dc826a4bc0a4a3": {
+            "text": "Oszlopsz\u00e9less\u00e9g (%d%%)"
+        },
+        "6e18e908568ef24580d93bfd3e0f40d7": {
+            "text": "K\u00f6telez\u0151?"
+        },
+        "8183d67b5c53c5fb254741c64ae6f98d": {
+            "text": "Csak akkor k\u00f6telez\u0151, ha..."
+        },
+        "efdf8051d64766330e13627274b01787": {
+            "text": "A felt\u00e9telek kifejez\u00e9se megfeleltetend\u0151 mez\u0151ket \u00e9s \u00e9rt\u00e9keket tartalmaz\u00f3 \"mez\u0151=\u00e9rt\u00e9k\" v\u00e1laszt\u00f3val t\u00f6rt\u00e9nik. T\u00f6bb felt\u00e9telt vessz\u0151vel kell elv\u00e1lasztani."
+        },
+        "c412235f3700a685388546e557292a7e": {
+            "text": "Mindig nyitva \u00e9s nem csukhat\u00f3 \u00f6ssze"
+        },
+        "3c5df14c7c43b1d43c41b15476154474": {
+            "text": "Mindig \u00f6sszecsukott \u00e9s nem szerkeszthet\u0151 (z\u00e1rolt)"
+        },
+        "5b6a6f08f86510a9580df3bb8b31bb2a": {
+            "text": "Megnyit\u00e1s, ha kit\u00f6lt\u00f6tt \u00e9s nem szerkeszthet\u0151 (z\u00e1rolt)"
+        },
+        "3b57940d51a0ed7f2d5c49363114bd0e": {
+            "text": "\u00cdrja be a felt\u00e9teleket, melyek alatt meg fog jelenni a mez\u0151."
+        },
+        "0eb0b305235144ffe99e247b24200b09": {
+            "text": "A mez\u0151 t\u00e1rol\u00f3j\u00e1nak sz\u00e9less\u00e9ge sz\u00e1zal\u00e9kban (10%-100%). Ha m\u00e1sik cs\u00f6kkentett sz\u00e9less\u00e9g\u0171 mez\u0151k mell\u00e9 helyezi, akkor lebegtetett oszlopokat hoz l\u00e9tre."
+        },
+        "8387772e28e9c2b81fa8cb674e569663": {
+            "text": "Nem minden mez\u0151 haszn\u00e1lhat\u00f3 cs\u00f6kkentett sz\u00e9less\u00e9geken, vagyis m\u00f3dos\u00edt\u00e1s ut\u00e1n le kell tesztelnie az eredm\u00e9nyt."
+        },
+        "c48c7243fc307fd425df738c9f0f4324": {
+            "text": "Ha bejel\u00f6li, akkor meg kell adni ennek a mez\u0151nek az \u00e9rt\u00e9k\u00e9t."
+        },
+        "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
+            "text": "Adja meg azokat a felt\u00e9teleket, melyek alatt ennek a mez\u0151nek \u00e9rt\u00e9kre lesz sz\u00fcks\u00e9ge."
+        }
+    }
+}

@@ -1,0 +1,798 @@
+{
+    "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplate.module",
+    "textdomain": "wire--modules--process--processtemplate--processtemplate-module",
+    "translations": {
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Igen"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nem"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Biztos?"
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "C\u00edmke n\u00e9lk\u00fcli"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Sz\u0171r\u0151k"
+        },
+        "1ada25378d2f81d6394cb823cda822ad": {
+            "text": "Sz\u0171r\u00e9s mez\u0151 szerint"
+        },
+        "602717d1b0adbf6ff41366d6371e375d": {
+            "text": "V\u00e1lasszon egy mez\u0151t, \u00e9s csak az azt a mez\u0151t haszn\u00e1l\u00f3 sablonok lesznek l\u00e1that\u00f3k."
+        },
+        "86ec8350e4740a4cc47328ee7c984d40": {
+            "text": "\u00daj sablonok hozz\u00e1ad\u00e1sa"
+        },
+        "66c97c50054d31c710d96c0073ec4c78": {
+            "text": "A k\u00f6vetkez\u0151 \u00faj sablonok tal\u00e1lhat\u00f3k. Jel\u00f6lje be minden hozz\u00e1adni k\u00edv\u00e1nt sablon mellett a jel\u00f6l\u0151n\u00e9gyzetet."
+        },
+        "01582c3e65dc06c2cf178a0bdce2b4dd": {
+            "text": "\u00daj sablon l\u00e9trehoz\u00e1sa f\u00e1jl n\u00e9lk\u00fcl"
+        },
+        "24a144ffc0e6aae299d3a23c2152e7fa": {
+            "text": "Sablon szerkeszt\u00e9se: %s"
+        },
+        "23f23b8b2e4cc5c8517468a6d001b3fd": {
+            "text": "Kimeneti gyors\u00edt\u00f3t\u00e1raz\u00e1s"
+        },
+        "5dd56426fff182e0610cc0bf9d389437": {
+            "text": "Rendszerspecifikus sablonbe\u00e1ll\u00edt\u00e1sok"
+        },
+        "bef497d3a07d13fedba143fc543e606d": {
+            "text": "Mez\u0151k import\u00e1l\u00e1sa \u00faj sablonb\u00f3l"
+        },
+        "0d4ca2b82aa1381b25348c8509009839": {
+            "text": "Sablon t\u00f6rl\u00e9se"
+        },
+        "f89bc18e7afb05b3ac03300bec624b63": {
+            "text": "A t\u00f6rl\u00e9s meger\u0151s\u00edt\u00e9se"
+        },
+        "833914963b9e76310195f43171e185a6": {
+            "text": "Ezt a sablont nem lehet t\u00f6r\u00f6lni"
+        },
+        "f7c9b4730186dec196b0eaf4be43f530": {
+            "text": "A rendszersablonok nem t\u00f6r\u00f6lhet\u0151k"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(alap\u00e9rtelmezett)"
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "- V\u00e1lasszon mez\u0151t"
+        },
+        "787f82b093280bcb87901ea228d7b083": {
+            "text": "Csak vend\u00e9gek"
+        },
+        "8a8e700d3ef2487708d671db81ed8ce3": {
+            "text": "Vend\u00e9gek \u00e9s bejelentkezett felhaszn\u00e1l\u00f3k"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "C\u00edmk\u00e9k"
+        },
+        "f9c716f29bd379e49e4485ea8afd1556": {
+            "text": "A sablon \u00e1tnevez\u00e9se"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Export\u00e1l\u00e1s"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Import\u00e1l\u00e1s"
+        },
+        "225237dc381e612f4bbf08dd75efdb71": {
+            "text": "\u00c1tir\u00e1ny\u00edt\u00e1s m\u00e1sik URL-c\u00edmre"
+        },
+        "6b01f3d73dbcea918c2e08424f41c87c": {
+            "text": "Adja meg azt az \u00e1tir\u00e1ny\u00edt\u00e1si URL-c\u00edmet, ha egy felhaszn\u00e1l\u00f3nak nincs hozz\u00e1f\u00e9r\u00e9se"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(mindenki)"
+        },
+        "dbb2a9bf7f53894204e7b75a4a323fa2": {
+            "text": "Hiba t\u00f6rt\u00e9nt ezen sablon kl\u00f3nj\u00e1nak a l\u00e9trehoz\u00e1sakor"
+        },
+        "fddc330c21a2e3fa08c9af7307dd2046": {
+            "text": "T\u00f6rl\u00e9sre ker\u00fcl\u0151 mez\u0151k"
+        },
+        "690d663be740c77b16476dfd06a4a4b7": {
+            "text": "A(z) \"%s\" n\u00e9v m\u00e1r haszn\u00e1latban van"
+        },
+        "7df96b18c230f90ada0a9e2307226338": {
+            "text": "Sablonok"
+        },
+        "31a0330754505f0778be18e7b4dbc661": {
+            "text": "A lapkimenetet vez\u00e9rl\u0151 sablonok kilist\u00e1z\u00e1sa \u00e9s szerkeszt\u00e9se"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "Rendszer"
+        },
+        "b16492fba46029659b0d16ce05bab82f": {
+            "text": "\u00daj sablon hozz\u00e1ad\u00e1sa"
+        },
+        "2da33125162e59b2ff307fb050040ead": {
+            "text": "N\u00e9v"
+        },
+        "0934f0c8ef59c46cd3f23477dc242642": {
+            "text": "Felirat"
+        },
+        "6468942ecc94c202802ee17efdbda184": {
+            "text": "Mez\u0151k"
+        },
+        "adc3250d7ccf9a0303cc0b44d70917d6": {
+            "text": "Lapok"
+        },
+        "9aa8f6fc386e155886938a352548a81c": {
+            "text": "M\u00f3dos\u00edtva"
+        },
+        "bd1ab8d7a2147046de89d54d6d03f39d": {
+            "text": "rendszer"
+        },
+        "7de04564993d28e2b32be513c1575777": {
+            "text": "hozz\u00e1f\u00e9r\u00e9s"
+        },
+        "ce74097d91e1181f033e39e38736dd5a": {
+            "text": "gyors\u00edt\u00f3r\u00e1e"
+        },
+        "289abb71620e21f484c91df47d263eec": {
+            "text": "Lapsz\u00e1mok"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Alapbe\u00e1ll\u00edt\u00e1sok"
+        },
+        "2a138a3c1a54958a39f65b80e666b643": {
+            "text": "Felirat"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Hozz\u00e1f\u00e9r\u00e9s"
+        },
+        "0daea515bb26aec31f4e6ebbee953cd7": {
+            "text": "Csal\u00e1d"
+        },
+        "21ddd66d87bebbaaf6bba5319e5b7f97": {
+            "text": "URL-c\u00edmek"
+        },
+        "ff2e33d2066471fd192bf41c39322cd1": {
+            "text": "Gyors\u00edt\u00f3t\u00e1raz\u00e1s"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Speci\u00e1lis"
+        },
+        "08b4ed72628b718cbe3158eb2eaf10a2": {
+            "text": "Rendszer"
+        },
+        "ac97a1ad01bd7b48508de449e229a73d": {
+            "text": "Import\u00e1l\u00e1s"
+        },
+        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
+            "text": "T\u00f6rl\u00e9s"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "Ment\u00e9s"
+        },
+        "03a481d8869ea4aa815e15943c4577dd": {
+            "text": "Mez\u0151csoport"
+        },
+        "2bcb87bddf14231177c0d5a7be879871": {
+            "text": "Mez\u0151k"
+        },
+        "c900d3e459e4a6e87b601d950c86a3bb": {
+            "text": "Mez\u0151k"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Szerepk\u00f6r"
+        },
+        "30a75d09489b9f6a393c3885b81ec0b1": {
+            "text": "Lapok megtekint\u00e9se"
+        },
+        "a42aa7fb5a74afbdcaf92c44bd99bd3c": {
+            "text": "Lapok szerkeszt\u00e9se"
+        },
+        "e431e1335b3c843758bbed8b021eeee9": {
+            "text": "Lapok l\u00e9trehoz\u00e1sa"
+        },
+        "46c22ba22392809d478c6f312de87f62": {
+            "text": "Gyermekek hozz\u00e1ad\u00e1sa"
+        },
+        "a7e26a26319b0fc9973181a9d9c1baaa": {
+            "text": "Folytat\u00e1s"
+        },
+        "af497bbd8d42241e09e0f593a8550aa3": {
+            "text": "Mez\u0151k elt\u00e1vol\u00edt\u00e1sa"
+        },
+        "e37f4fc0441c524ee5a89453f12178c8": {
+            "text": "Sablon hozz\u00e1ad\u00e1sa"
+        },
+        "0f12f2b440ad104a1ee7cb027aba8b18": {
+            "text": "Sablonok hozz\u00e1ad\u00e1sa"
+        },
+        "adf92855ccc9fe04707fd12688a17c59": {
+            "text": "Ezt a sablont 1 lap haszn\u00e1lja"
+        },
+        "d26c2f7eb253b0202c2769f3dd232d96": {
+            "text": "Ezt a sablont %d lap haszn\u00e1lja"
+        },
+        "14bcc27345b2325a5e492384a734c1aa": {
+            "text": "A sablont 1 lap haszn\u00e1lja"
+        },
+        "957ba77c721f931f1ad38ed47b98fd0d": {
+            "text": "A sablont %d lap haszn\u00e1lja"
+        },
+        "65f037a0e08b94d9e42932b68c5eaf29": {
+            "text": "Ennek a sablonnak a mez\u0151csoportj\u00e1t 1 m\u00e1sik sablon haszn\u00e1lja"
+        },
+        "18dec3122ea08276dd94476904bcef7b": {
+            "text": "Ennek a sablonnak a mez\u0151csoportj\u00e1t %d m\u00e1sik sablon haszn\u00e1lja"
+        },
+        "3f8255a0588417dee11d58e2b92c59b4": {
+            "text": "A k\u00f6vetkez\u0151 mez\u0151t haszn\u00e1l\u00f3 sablonok: %s"
+        },
+        "487cc58bb37a22e2cfc4d04c92267fee": {
+            "text": "A rendszersablonok megjelen\u00edt\u00e9se?"
+        },
+        "19a3fc9f896f1ef86f69f782be122c37": {
+            "text": "Alap\u00e9rtelmez\u00e9sk\u00e9nt a rendszer-\/bels\u0151 sablonok nem l\u00e1that\u00f3k. V\u00e1lassza az 'Igen' lehet\u0151s\u00e9get, hogy szerepeljenek az al\u00e1bbi sablonlist\u00e1ban."
+        },
+        "ff6be05386ed6fc79ccf24b5eb9432ac": {
+            "text": "Hozz\u00e1adott sablon \u00e9s mez\u0151csoport: %s"
+        },
+        "0dea25b9c7f4d4afbe59f7f9b2741d29": {
+            "text": "Sablonok tal\u00e1lhat\u00f3k itt: %s"
+        },
+        "f392144a3652c7daf4ee4f0377497709": {
+            "text": "Nem tal\u00e1lhat\u00f3k \u00faj sablonf\u00e1jlok a k\u00f6vetkez\u0151ben: %s"
+        },
+        "524fe63ba99d979ba854d38529c9abc1": {
+            "text": "Ha akkor is akar \u00faj sablont l\u00e9trehozni, ha jelenleg nincs hozz\u00e1 t\u00e1rs\u00edtott f\u00e1jl, adja meg itt a sablon nev\u00e9t."
+        },
+        "0e2511c51c799246bc640afd3b4cc07b": {
+            "text": "T\u00f6bb sablonnevet sz\u00f3k\u00f6zzel elv\u00e1lasztva adhat meg."
+        },
+        "088244ca195e0e9e57bd38027406b66b": {
+            "text": "Ne tartalmazzon f\u00e1jlkiterjeszt\u00e9st"
+        },
+        "545d923164ab07a1b18e48e526f51259": {
+            "text": "Az ezt a lapot haszn\u00e1l\u00f3 sablonok nem tekinthet\u0151k meg, mert a sablonf\u00e1jl (%s) nem l\u00e9tezik  [nincs-f\u00e1jl]."
+        },
+        "a6cdf6c364498c02bdaa499492780445": {
+            "text": "A sablont le\u00edr\u00f3, tetsz\u00e9s szerinti felirat."
+        },
+        "b5b8f523cefee8895f19a223c85f431f": {
+            "text": "A sablonhoz val\u00f3 hozz\u00e1f\u00e9r\u00e9s kezel\u00e9se"
+        },
+        "7a91f878f0e4c02c502a8d0583b0c6be": {
+            "text": "Tetsz\u00e9s szerinti haszn\u00e1lat \u00e9s elhelyez\u00e9s a lapf\u00e1ban"
+        },
+        "501dba7089bbfb45c7c1a733477bcdc5": {
+            "text": "Az ezt a sablont haszn\u00e1l\u00f3 lapok URL-c\u00edmeinek opcion\u00e1lis be\u00e1ll\u00edt\u00e1sai"
+        },
+        "244561833b6ce4599891cf9e33fb33d6": {
+            "text": "V\u00e1laszthat\u00f3 speci\u00e1lis sablonbe\u00e1ll\u00edt\u00e1sok"
+        },
+        "890f96a8e633d19ff700b360949982af": {
+            "text": "Megjegyz\u00e9s: A sablon t\u00f6rl\u00e9s\u00e9vel csak az adatb\u00e1zisb\u00f3l ker\u00fcl elt\u00e1vol\u00edt\u00e1sra, a sablonf\u00e1jl nem ker\u00fcl t\u00f6rl\u00e9sre a lemezr\u0151l."
+        },
+        "b82a3ccab15c9f7ea79ccae4fb4b7c3a": {
+            "text": "Mez\u0151k elt\u00e1vol\u00edt\u00e1sa a sablonb\u00f3l"
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "A(z) \"%1$s\" mez\u0151 elt\u00e1vol\u00edt\u00e1sa a(z) \"%2$s\" sablonb\u00f3l"
+        },
+        "3617ad2fed81de1357bb35b0459bf8b8": {
+            "text": "Ez a sablon nem nevezhet\u0151 \u00e1t, mert rendszersablon"
+        },
+        "7b2365f3c03bbf66c17531b39af975f9": {
+            "text": "A(z) \"%1$s\" sablon \u00e1tnevezve \"%2$s\" n\u00e9vre"
+        },
+        "348267a4dada558acc9b2cd1b68ad41e": {
+            "text": "A(z) \"%1$s\" sablonf\u00e1jl \u00e1tnevezve \"%2$s\" n\u00e9vre"
+        },
+        "ea24ff7efc7e185e1c6f8d52266fefdc": {
+            "text": "A(z) \"%1$s\" sablon nem nevezhet\u0151 \u00e1t \"%2$s\" n\u00e9vre a(z) \"%3$s\" k\u00f6nyvt\u00e1rban. A f\u00e1jlt k\u00e9zzel kell \u00e1tneveznie a f\u00e1jlrendszer\u00e9ben."
+        },
+        "d40a1614c5e9e10db2d5d9f94a0482bb": {
+            "text": "A(z) \"%1$s\" sablon \u00e1tnevez\u00e9se \"%2$s\" n\u00e9vre"
+        },
+        "f7c1d3ba270aa43fe36e00ee3a1e9718": {
+            "text": "Er\u0151s\u00edtse meg az al\u00e1bbi jel\u00f6l\u0151n\u00e9gyzet bejel\u00f6l\u00e9s\u00e9vel, hogy \u00e1t akarja nevezni ezt a sablont."
+        },
+        "82ae9be0c318ed67592703448c77d4d6": {
+            "text": "A(z) \"%s\" sablonf\u00e1jl \u00edrhat\u00f3nak t\u0171nik, ez\u00e9rt az Ind\u00edt\u00e1s gombra kattint\u00e1skor megk\u00eds\u00e9relj\u00fck \u00e1tnevezni."
+        },
+        "df3f89873c6527f24453345a6b7f263f": {
+            "text": "A(z) \"%1$s\" sablonf\u00e1jl nem \u00edrhat\u00f3. Az ind\u00edt\u00e1s gombra kattint\u00e1s el\u0151tt nevezze \u00e1t azt a f\u00e1jlt \"%2$s\" n\u00e9vre."
+        },
+        "0968f67bf85224770756cc134016da2b": {
+            "text": "Alap\u00e9rtelmez\u00e9sk\u00e9nt mindegyik sablon a saj\u00e1t mez\u0151csoportj\u00e1t kezeli. Ha azt akarja, hogy ez a sablon m\u00e1sik sablonb\u00f3l haszn\u00e1lja a mez\u0151ket, akkor v\u00e1lassza \u0151ket itt ki."
+        },
+        "7fc1fde9711c421115c890cd0d181100": {
+            "text": "Adja meg a sablon \u00e1ltal haszn\u00e1lt mez\u0151ket. A mez\u0151ket h\u00faz\u00e1ssal is a k\u00edv\u00e1nt sorrendbe rendezheti."
+        },
+        "71bb941583eef6e3e5ed3eaad39cc315": {
+            "text": "M\u00e1sik sablon \u00e1ltal haszn\u00e1lt mez\u0151k megkett\u0151z\u00e9se"
+        },
+        "0a18045f3c2d800b18fc146d3f16b97e": {
+            "text": "Ha m\u00e1sik sablon \u00e1ltal haszn\u00e1lt mez\u0151ket akar megkett\u0151zni, akkor v\u00e1lassza itt ki a sablont. Az ebben a sablonban m\u00e1r megtal\u00e1lhat\u00f3 mez\u0151k v\u00e1ltozatlanok fognak maradni."
+        },
+        "0f79346b34fe5a07bf9ad38ef37e1723": {
+            "text": "Haszn\u00e1lhat\u00f3 \u00faj lapokhoz ez a sablon?"
+        },
+        "1e791aefe4014d2551110c4348279487": {
+            "text": "A gyermekek sz\u00e1m\u00e1ra enged\u00e9lyezett sablon(ok)"
+        },
+        "1b50b9bdfa1846ef031dc3cc190267d6": {
+            "text": "A sz\u00fcl\u0151k sz\u00e1m\u00e1ra enged\u00e9lyezett sablon(ok)"
+        },
+        "92fe79a8aa59b037f5f6e2b43f89fea8": {
+            "text": "A gyermekek n\u00e9vform\u00e1tuma"
+        },
+        "de4914b2943f3cfce0232ae281a8b155": {
+            "text": "L\u00e1that\u00f3 a lap hozz\u00e1ad\u00e1sa a helyi men\u00fcben?"
+        },
+        "fd80e24b28f66f7a579ced68340fd3fa": {
+            "text": "A lapsz\u00e1mok enged\u00e9lyez\u00e9se?"
+        },
+        "115162847e362551c1dcaff31e64fa80": {
+            "text": "S\u00e9ma\/Protokoll"
+        },
+        "249e45d525f325778f98cdd90eaf0b32": {
+            "text": "HTTP vagy HTTPS"
+        },
+        "d50c90d8cbe8ba3ac7178aeb59f93b68": {
+            "text": "Csak HTTPS (SSL-titkos\u00edt\u00e1ssal)"
+        },
+        "ea43e91e88d8e9dd3cd46d5470fb71d6": {
+            "text": "Csak HTTP"
+        },
+        "26b6d64574e88f30f407e16212dc4d57": {
+            "text": "Mi a teend\u0151, ha a felhaszn\u00e1l\u00f3 megpr\u00f3b\u00e1l megtekinteni egy lapot, \u00e9s nem f\u00e9rhet hozz\u00e1?"
+        },
+        "998806f5cd0395d2ea2c406b57463397": {
+            "text": "404-es lap megjelen\u00edt\u00e9se"
+        },
+        "1adb25e12d2b0d06683c3dc04e833631": {
+            "text": "A bejelentkez\u00e9si lap megjelen\u00edt\u00e9se: %s"
+        },
+        "0cd878f5f6c3ecd2d309d74c608cf0e3": {
+            "text": "A k\u00f6vetkez\u0151 mez\u0151k v\u00e9gleg t\u00f6rl\u00e9sre fognak ker\u00fclni az ezt a sablont haszn\u00e1l\u00f3 lapokon."
+        },
+        "3bba41317ab3da84fd247ebaa32ea821": {
+            "text": "A mentett lap \u00e9s a sz\u00fcl\u0151k gyors\u00edt\u00f3t\u00e1r\u00e1nak t\u00f6rl\u00e9se (a f\u0151lappal)"
+        },
+        "f841b3150a439220f669e77e12ea0bda": {
+            "text": "A mentett lap \u00e9s az \u00e1ltalam megadott t\u00f6bbi lap gyors\u00edt\u00f3t\u00e1r\u00e1nak t\u00f6rl\u00e9se..."
+        },
+        "cac7796ca8e88c31d8b23733cb7aaf03": {
+            "text": "*A teljes\u00edtm\u00e9nyn\u00f6vel\u00e9s \u00e9rdek\u00e9ben a gyors\u00edt\u00f3t\u00e1rf\u00e1jlok csoportk\u00e9nt mind lej\u00e1rtak az egyenk\u00e9nt val\u00f3 t\u00f6rl\u00e9s helyett."
+        },
+        "e71a260bc8db16e30f2dedeba9440a25": {
+            "text": "P\u00e9ld\u00e1ul: 60 = 1 perc, 600 = 10 perc, 3600 = 1 \u00f3ra, 86400 = 1 nap, 604800 = 1 h\u00e9t, 2419200 = 1 h\u00f3nap."
+        },
+        "fa15c33b6ad59f9f8183f1b3c68ab082": {
+            "text": "Lap ment\u00e9se \/ Gyors\u00edt\u00f3t\u00e1r lej\u00e1rata"
+        },
+        "7ff5f438d6cc10c5f333e97329c72daa": {
+            "text": "Ha az ezt a sablont haszn\u00e1l\u00f3 lap ment\u00e9sre ker\u00fcl, mi t\u00f6rt\u00e9njen a gyors\u00edt\u00f3t\u00e1rral?"
+        },
+        "fe4a994d36e75cfb408bdf0b5dd7af09": {
+            "text": "Csak a mentett lap gyors\u00edt\u00f3t\u00e1r\u00e1nak t\u00f6rl\u00e9se (alap\u00e9rtelmezett)."
+        },
+        "e83d2e6601e2f724159034563ad4fde0": {
+            "text": "A teljes webhely gyors\u00edt\u00f3t\u00e1r\u00e1nak t\u00f6rl\u00e9se*"
+        },
+        "7ebdcad871020558be972578bdf46a10": {
+            "text": "Adja meg a t\u00f6bbi lapot, melyeknek t\u00f6r\u00f6lni kell a gyors\u00edt\u00f3t\u00e1r\u00e1t"
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Minden c\u00edmk\u00e9nek egy sz\u00f3b\u00f3l kell \u00e1llnia (az elv\u00e1laszt\u00e1s az j\u00f3)."
+        },
+        "9238cda6a9c91cd5cc846791a49ba3ab": {
+            "text": "Egy c\u00edmk\u00e9nek a sablonlist\u00e1ban \u00f6sszecsukott\u00e1 t\u00e9tel\u00e9hez f\u0171zz\u00f6n k\u00f6t\u0151jelet az elej\u00e9hez, p\u00e9ld\u00e1ul: -hello"
+        },
+        "04f22e1af73c705475a4cc38a5c89ae3": {
+            "text": "A sablon f\u00e1jlneve \u00edrhat\u00f3, \u00e9s \u00e1tnevez\u00e9sre is fog ker\u00fclni."
+        },
+        "8d5a5a7af810d2ef80cf02082615c9dd": {
+            "text": "A sablonf\u00e1jl nem \u00edrhat\u00f3, ez\u00e9rt k\u00e9zzel kell \u00e1tneveznie (utas\u00edt\u00e1sokat a ment\u00e9s ut\u00e1n fog kapni)."
+        },
+        "30281e3b2fa626d5f52c833c541c84ac": {
+            "text": "A sablon megkett\u0151z\u00e9se\/kl\u00f3noz\u00e1sa?"
+        },
+        "5c9171f7b16eac3245d2e5f3e79aadbc": {
+            "text": "API: $template->noChangeTemplate = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val"
+        },
+        "29f47bc61ea7a6f45ee3d36da3a3feff": {
+            "text": "A visszavont lapok nem enged\u00e9lyezettek"
+        },
+        "691edb2dd99517cf0e15dbf596e10cc5": {
+            "text": "API: $template->noUnpublish = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val"
+        },
+        "1684cd1767cda6618ed92febec9e78c6": {
+            "text": "API: $template->allowChangeUser = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val, alap\u00e9rtelmez\u00e9s: 0."
+        },
+        "8a08c3b7f2922be4ad8e59744781b796": {
+            "text": "Lapn\u00e9v form\u00e1tuma"
+        },
+        "86c66b6c28f25016de70be40475eb881": {
+            "text": "API: $template->flagSystem = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val"
+        },
+        "381e3cba7a92b2d007d0d534a58b17ff": {
+            "text": "API: $template->noGlobal = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val"
+        },
+        "e864c0d94cbc5dc0faf1ce78d9021e63": {
+            "text": "API: $template->nameContentTab = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val"
+        },
+        "7ee14ea7ba968378f99fb3efa7ac22da": {
+            "text": "API: $template->noMove = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val"
+        },
+        "69385004eb4f22d17482beb09e549453": {
+            "text": "API: $template->noTrash = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val"
+        },
+        "a7c1ec59b9f4fea9e41e1ca799437193": {
+            "text": "Letiltja a Be\u00e1ll\u00edt\u00e1sok lapot?"
+        },
+        "6a90024dcca935af3329542c3f346229": {
+            "text": "API: $template->noSettings = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val"
+        },
+        "a8d7050d17168bae58f775f20d56eeba": {
+            "text": "Lehetnek gyermekeik azt ezt a sablont haszn\u00e1l\u00f3 lapoknak?"
+        },
+        "8d5e98c594942c49efea1af30c90efe5": {
+            "text": "Megjegyz\u00e9s: Azoknak a lapoknak mindig letiltott a gyors\u00edt\u00f3t\u00e1raz\u00e1sa, melyekhez a felhaszn\u00e1l\u00f3nak szerkeszt\u00e9si hozz\u00e1f\u00e9r\u00e9se van, f\u00fcggetlen\u00fcl att\u00f3l, hogy mit jel\u00f6l itt be."
+        },
+        "f32d42af055544c46a989bceee851733": {
+            "text": "Adjon meg tetsz\u00e9s szerint egy vagy t\u00f6bb v\u00e1ltoz\u00f3nevet. Ha t\u00f6bbet ad meg, akkor sz\u00f3k\u00f6zzel v\u00e1lassza \u0151ket el."
+        },
+        "f1a2199b60e95006b3d66f9eb5a9e621": {
+            "text": "Az erre a sablonra utal\u00e1sk\u00e9nt haszn\u00e1lt n\u00e9v. A \/site\/templates\/ k\u00f6nyvt\u00e1rban ez a (.php kiterjeszt\u00e9s\u0171) sablonf\u00e1jl alap\u00e9rtelmezett f\u00e1jlneve is. "
+        },
+        "f8faba0e1d9c277a84bb16a48f9d57f6": {
+            "text": "A sablon f\u00e1jlneve, ha elt\u00e9r a k\u00f6vetkez\u0151t\u0151l: %s"
+        },
+        "e1f4b06346cdbed5063a5e42a9593f59": {
+            "text": "\u00cdrja be bet\u0171k (a-z), sz\u00e1mok (0-9), k\u00f6t\u0151jelek vagy al\u00e1h\u00faz\u00e1sjelek b\u00e1rmilyen kombin\u00e1ci\u00f3j\u00e1t (sz\u00f3k\u00f6z\u00f6k n\u00e9lk\u00fcl). Ne vegye bele a .php f\u00e1jlkiterjeszt\u00e9st."
+        },
+        "b919a5aafc6740109c0c58fe51916178": {
+            "text": "A lapok sz\u00e1m\u00e1ra nem enged\u00e9lyezett a sablonjaik m\u00f3dos\u00edt\u00e1sa?"
+        },
+        "6bb5af6d5240fb8b1d720a7e5bec4497": {
+            "text": "Ha bejel\u00f6li, akkor az ezt a sablont haszn\u00e1l\u00f3 lapok nem tudnak \u00e1tv\u00e1ltozni m\u00e1sik sablonn\u00e1."
+        },
+        "94c9fe9ddbd9380ceb726bef40232ea3": {
+            "text": "Ha bejel\u00f6li, akkor az ezt a sablont haszn\u00e1l\u00f3 lapok csak k\u00f6zz\u00e9tett \u00e1llapotban l\u00e9tezhetnek, \u00e9s nem vonhat\u00f3k vissza."
+        },
+        "dc8ce981931b1e9b1f784c57730a67c1": {
+            "text": "Megjegyz\u00e9s: Az \u00f6sszes ilyen rendszerbe\u00e1ll\u00edt\u00e1snak a ProcessWire rendszerfejleszt\u00e9se a c\u00e9lja (nem a webhely fejleszt\u00e9s). A saj\u00e1t felel\u0151ss\u00e9g\u00e9re haszn\u00e1lja \u0151ket. "
+        },
+        "77b116ba76d6cad7420de0729f5437cb": {
+            "text": "Legyenek kereshet\u0151k a lapok, ha a felhaszn\u00e1l\u00f3 nem f\u00e9rhet hozz\u00e1juk?"
+        },
+        "95faabcca5ce9361cfbbfdac564540a6": {
+            "text": "A k\u00f6vetkez\u0151 sablon mez\u0151csoportj\u00e1nak m\u00f3dos\u00edt\u00e1sa: %s"
+        },
+        "48a72eabb7f3f13f0d942bb2cdfe9811": {
+            "text": "A mez\u0151csoport m\u00f3dos\u00edt\u00e1s\u00e1nak megszak\u00edt\u00e1sa megt\u00f6rt\u00e9nt"
+        },
+        "b58b1fada0411080ca80b5199d2e56ce": {
+            "text": "Mez\u0151k elt\u00e1vol\u00edt\u00e1sa a sablonb\u00f3l: %s"
+        },
+        "cbb29209ccd6a869e389572e793b1f1b": {
+            "text": "A(z) \"%1$s\" sablonf\u00e1jl nem tal\u00e1lhat\u00f3 a(z) \"%2$s\" k\u00f6nyvt\u00e1rban. A(z) \"%3$s\" f\u00e1jlt k\u00e9zzel kell \u00e1tneveznie \"%1$s\" n\u00e9vre a f\u00e1jlrendszer\u00e9ben."
+        },
+        "29a2d50c9d90354a16943888d8e700da": {
+            "text": "A(z) \"%1$s\" mez\u0151 elt\u00e1vol\u00edt\u00e1sa a(z) \"%2$s\" sablonb\u00f3l\/mez\u0151csoportb\u00f3l megt\u00f6rt\u00e9nt"
+        },
+        "da49c8bb3f9748634bedc77fac9221f9": {
+            "text": "A(z) \"%1$s\" mez\u0151 hozz\u00e1adva a(z) \"%2$s\" sablonhoz\/mez\u0151csoporthoz"
+        },
+        "0b81495a48a77b7743e0a20fa02e6af9": {
+            "text": "Lap oszt\u00e1ly neve"
+        },
+        "abad59d4cf5691fd0506cb650dff0f5b": {
+            "text": "Ha bejel\u00f6li, akkor az ezt a sablont haszn\u00e1l\u00f3 lapokon nem fog megjelenni a \"Be\u00e1ll\u00edt\u00e1sok\" f\u00fcl a szerkeszt\u0151ben."
+        },
+        "0630333bf0b09b371182fe756dec526a": {
+            "text": "URL-szegmensek"
+        },
+        "501a09415d30cab1819195e5566a0c0d": {
+            "text": "Az ezt a sablont haszn\u00e1l\u00f3 lapok ment\u00e9sekor a gyors\u00edt\u00f3t\u00e1rf\u00e1jljaik t\u00f6rl\u00e9sre fognak ker\u00fclni. V\u00e1lassza ki al\u00e1bb a t\u00f6bbi lapot, melyek gyors\u00edt\u00f3t\u00e1rf\u00e1jljait is t\u00f6r\u00f6lni kell."
+        },
+        "dcc07e185c0c88ca7c4439fbaa56e4cb": {
+            "text": "A sablon kimenet\u00e9nek gyors\u00edt\u00f3t\u00e1raz\u00e1sakor az ilyen t\u00edpus\u00fa v\u00e1ltoz\u00f3k alap\u00e9rtelmez\u00e9sk\u00e9nt kihagy\u00e1sra ker\u00fclnek. Sz\u00fcks\u00e9g eset\u00e9n megadhat egy vagy t\u00f6bb v\u00e1ltoz\u00f3nevet, melyek letiltj\u00e1k annak a k\u00e9relemnek a gyors\u00edt\u00f3t\u00e1raz\u00e1s\u00e1t, ami a lap gyors\u00edt\u00f3t\u00e1raz\u00e1s n\u00e9lk\u00fcli lek\u00e9pez\u00e9s\u00e9t okozza."
+        },
+        "5cb36b26303f4abb0dea36f9bb96887f": {
+            "text": "Ha ezt a sablont virtu\u00e1lisan akarja csoportos\u00edtani a t\u00f6bbivel a sablonlist\u00e1ban, akkor \u00edrjon be egy egyszavas c\u00edmk\u00e9t. Ugyanezt a c\u00edmk\u00e9t adja meg azokn\u00e1l a sablonokn\u00e1l is, melyekkel csoportos\u00edtani akarja. T\u00f6bb c\u00edmk\u00e9t sz\u00f3k\u00f6zzel elv\u00e1lasztva \u00edrhat be. A c\u00edmk\u00e9ket akkor \u00e9rdemes haszn\u00e1lni, ha a webhelynek nagysz\u00e1m\u00fa sablonja van."
+        },
+        "b69fde670b130ace1c7890c8be5b289b": {
+            "text": "Jel\u00f6lje be az al\u00e1bbi jel\u00f6l\u0151n\u00e9gyzetet, ha el akarja k\u00e9sz\u00edteni ennek a sablonnak a duplum\u00e1t\/kl\u00f3nj\u00e1t. A kl\u00f3n ment\u00e9skor fog elk\u00e9sz\u00fclni. Ha a sablonok k\u00f6nyvt\u00e1ra \u00edrhat\u00f3, \u00e9s a sablonnak van egy f\u00e1jlja, akkor az is kl\u00f3noz\u00e1sra fog ker\u00fclni."
+        },
+        "7328590933d4202f89220d6b435b0e8f": {
+            "text": "Az adminisztr\u00e1ci\u00f3 laplist\u00e1j\u00e1ban kijelezend\u0151 mez\u0151k list\u00e1ja"
+        },
+        "b1a8a50c7276f36aeca631c5f4d18c9d": {
+            "text": "Ezek k\u00f6z\u00fcl a mez\u0151k k\u00f6z\u00fcl adhat meg egyet vagy t\u00f6bbet:"
+        },
+        "75b29cfc6e6beeb50a4e6b005ee2cab1": {
+            "text": "Megadhatja egy [ikon nev\u00e9t](http:\/\/fontawesome.io\/cheatsheet\/) is, p\u00e9ld\u00e1ul: icon-file vagy fa-file (mindk\u00e9t form\u00e1tum m\u0171k\u00f6dik)."
+        },
+        "8f0944546d02e3fd7de73e9418494b3b": {
+            "text": "Sablonkapcsol\u00f3k"
+        },
+        "249d044ac9d6d23ba96d1515cc4717e4": {
+            "text": "Ezeket a kapcsol\u00f3kat \u00e1ltal\u00e1ban bejel\u00f6letlen\u00fcl hagyhatja, ha konkr\u00e9tan nincs sz\u00fcks\u00e9ge r\u00e1juk."
+        },
+        "6058394e74833c97153b0edaec2fb369": {
+            "text": "Ide b\u00e1rmilyen sz\u00f6veget be\u00edrhat. Egy \u00faj lap l\u00e9trehoz\u00e1sakor, \u00e9s a n\u00e9v nem egyedi, mindaddig egy n\u00f6vekv\u0151 sz\u00e1m ker\u00fcl hozz\u00e1f\u0171z\u00e9sre a v\u00e9g\u00e9hez, am\u00edg nem egyedi."
+        },
+        "3920cc9a9feba6acfae659a68688f13c": {
+            "text": "Rendszerjelz\u0151?"
+        },
+        "e92f2f24e876c414f6cca0e1ed3bfa73": {
+            "text": "Ha bejel\u00f6li, akkor ez a sablon a rendszer sz\u00e1m\u00e1ra lesz defini\u00e1lva, \u00e9s nem lesz t\u00f6r\u00f6lhet\u0151. A rendszerjelz\u0151 enged\u00e9lyez\u00e9se ut\u00e1n csak az API-n kereszt\u00fcl t\u00e1vol\u00edthat\u00f3 el (flagSystemOverride)."
+        },
+        "9278bd133a7f5cd50f24a5a253f8ac9b": {
+            "text": "API: $template->pageClass = \"Oszt\u00e1lyN\u00e9v\";"
+        },
+        "85ac227eb16808008afaf07f66cf0f7e": {
+            "text": "Figyelmen k\u00edv\u00fcl hagyja a glob\u00e1lis mez\u0151ket?"
+        },
+        "b6b0afb901a4db116f6b8403cf434280": {
+            "text": "T\u00e1j\u00e9koztat\u00e1sul, ez az ezen sablon \u00e1ltal haszn\u00e1lt mez\u0151k list\u00e1ja. Ez a sablon a(z) '%s' sablonb\u00f3l kapja a mez\u0151it."
+        },
+        "0f62a8abd379b96004d8118b0d9a2399": {
+            "text": "Ezen sablon kimenet\u00e9nek gyors\u00edt\u00f3t\u00e1raz\u00e1s\u00e1hoz adja meg azt az id\u0151tartamot (m\u00e1sodpercben), ameddig a kimenetet gyors\u00edt\u00f3t\u00e1razni kell. A gyors\u00edt\u00f3t\u00e1raz\u00e1s jelent\u0151s m\u00e9rt\u00e9kben seg\u00edtheti az er\u0151forr\u00e1s-ig\u00e9nyes lapok lapmegjelen\u00edt\u00e9si idej\u00e9t. A gyors\u00edt\u00f3t\u00e1raz\u00e1st azonban ne haszn\u00e1lja olyan sablonokn\u00e1l, melyeknek \u00e1lland\u00f3an v\u00e1ltoz\u00f3 adatokat, p\u00e9ld\u00e1ul \u0171rlapokat vagy munkameneteket kell feldolgozniuk. Megjegyz\u00e9s: Az URL-szegmensek gyors\u00edt\u00f3t\u00e1razhat\u00f3k, a GET \u00e9s a POST v\u00e1ltoz\u00f3k viszont nem."
+        },
+        "cd88ce600576fcc630878b5e374835a5": {
+            "text": "Ne tegyen semmit"
+        },
+        "d6b522c2ed20093505dfa63be2ba0454": {
+            "text": "Gyors\u00edt\u00f3t\u00e1raz\u00e1s a lapok ezen felhaszn\u00e1l\u00f3k sz\u00e1m\u00e1ra val\u00f3 megjelen\u00edt\u00e9sekor"
+        },
+        "d1db89af3df82862d45c9755e9aa0075": {
+            "text": "Gyors\u00edt\u00f3t\u00e1raz\u00e1s a GET v\u00e1ltoz\u00f3k letilt\u00e1s\u00e1val"
+        },
+        "ad63801f30d93a9f54257aa637d5ed89": {
+            "text": "Gyors\u00edt\u00f3t\u00e1raz\u00e1s a POST v\u00e1ltoz\u00f3k letilt\u00e1s\u00e1val"
+        },
+        "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
+            "text": "A lapok \u00e1thelyez\u00e9se nem enged\u00e9lyezett?"
+        },
+        "487b2fe79edc18261ed2e37e657c0b58": {
+            "text": "4. Az adminisztr\u00e1ci\u00f3s t\u00e9m\u00e1nak t\u00e1mogatnia kell ezt a funkci\u00f3t."
+        },
+        "3a426f05b968cc7c6022ac1388e7d8e7": {
+            "text": "Az URL-szegmensek enged\u00e9lyez\u00e9se?"
+        },
+        "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
+            "text": "Perjellel v\u00e9gz\u0151djenek a lapok URL-c\u00edmei?"
+        },
+        "ce79a399cbe0a2128106c428d5f5227c": {
+            "text": "A sablon mentve: %s"
+        },
+        "a2b2765c9702ca543cd769b157062377": {
+            "text": "A(z) \"%s\" mez\u0151t nem lehet elt\u00e1vol\u00edtani, mert glob\u00e1lisan sz\u00fcks\u00e9ge van r\u00e1 az \u00f6sszes mez\u0151csoportnak"
+        },
+        "6e82edd479b2b5c07f250031d13a9b92": {
+            "text": "A mez\u0151csoport ment\u00e9se megt\u00f6rt\u00e9nt: %s"
+        },
+        "c69da3a709ad376098eb517be436a12b": {
+            "text": "\u00d6n a mez\u0151csoport m\u00f3dos\u00edt\u00e1s\u00e1t k\u00e9rte err\u0151l: \"%1$s\" erre \"%2$s\"."
+        },
+        "794ed990b58e042f53c8e1b0f9c48b77": {
+            "text": "Er\u0151s\u00edtse meg, hogy meg\u00e9rtette a fentieket, \u00e9s a jel\u00f6l\u0151n\u00e9gyzet bejel\u00f6l\u00e9s\u00e9vel, majd ezen \u0171rlap elk\u00fcld\u00e9s\u00e9vel m\u00f3dos\u00edtani akarja a mez\u0151csoportot."
+        },
+        "e08a48beb01151e3dbd6c4b01d14d641": {
+            "text": "Az \u00f6sszes megjelen\u00edt\u00e9se"
+        },
+        "b81ec9ff37dd594fd51bb7b72bc82e34": {
+            "text": "nincs-fajl"
+        },
+        "323686db2bb70f95c6bedc86d5c3387d": {
+            "text": "F\u00e1jlok"
+        },
+        "3542eba15a5738faa3ec20dac5e8c2b1": {
+            "text": "A gyors\u00edt\u00f3t\u00e1raz\u00e1s id\u0151tartama"
+        },
+        "cfab2e7a62a89871220c3ebac5367331": {
+            "text": "A PHP-oszt\u00e1ly neve, mely az ezt a sablont haszn\u00e1l\u00f3 lapok l\u00e9trehoz\u00e1s\u00e1hoz fog felhaszn\u00e1l\u00e1sra ker\u00fclni. A program alap\u00e9rtelmez\u00e9sk\u00e9nt a Page oszt\u00e1lyb\u00f3l fogja l\u00e9trehozni a lapokat. Hagyja \u00fcresen ezt, ha nincs m\u00e1sik, a lapb\u00f3l sz\u00e1rmaztatott oszt\u00e1ly, melyet haszn\u00e1lni k\u00edv\u00e1n."
+        },
+        "67c0041f81951ac9b6b46dd2311fb9aa": {
+            "text": "A gyermekek rendez\u00e9si be\u00e1ll\u00edt\u00e1sai"
+        },
+        "f048d404737b6fafd4849b8cd850e983": {
+            "text": "Figyelmeztet\u00e9s: A f\u00e1jl nem l\u00e9tezik"
+        },
+        "724da4546b6908025f8a9fa99885297f": {
+            "text": "API megjegyz\u00e9s: Ez a be\u00e1ll\u00edt\u00e1s a $pages->find(), $page->children() \u00e1ltal visszaadott eredm\u00e9nyekre, \u00e9s a PageArrays oszt\u00e1lyt visszaad\u00f3 m\u00e1s f\u00fcggv\u00e9nyekre van hat\u00e1ssal."
+        },
+        "e91c9dce55b792f0254aeb69ba314f17": {
+            "text": "Melyik szerepk\u00f6r\u00f6k sz\u00e1m\u00e1ra hozz\u00e1f\u00e9rhet\u0151ek az ezt a sablont haszn\u00e1l\u00f3 (\u00e9s a t\u0151le \u00f6r\u00f6k\u00f6lt) lapok?"
+        },
+        "61b468c296e8ff1ed4c18bd86392e1cc": {
+            "text": "Adjon meg ehhez a sablonhoz hozz\u00e1rendelt egy vagy t\u00f6bb mez\u0151nevet az adminisztr\u00e1ci\u00f3 laplist\u00e1j\u00e1ban val\u00f3 kijelz\u00e9shez, ha a list\u00e1zand\u00f3 lapok ezt a sablont haszn\u00e1lj\u00e1k. Ha \u00fcresen hagyja, akkor a ProcessPageList modul konfigur\u00e1ci\u00f3j\u00e1ban megadott mez\u0151ket fogja haszn\u00e1lni helyette. A mez\u0151neveket sz\u00f3k\u00f6zzel \u00e9s\/vagy vessz\u0151vel kell elv\u00e1lasztani. Az \u00fcres mez\u0151k kihagy\u00e1sra fognak ker\u00fclni."
+        },
+        "8a396099e3eecefcbbbbac1715a464de": {
+            "text": "Sz\u00fcks\u00e9g eset\u00e9n adja meg \u00faj lap hozz\u00e1ad\u00e1sakor haszn\u00e1land\u00f3 lapnevek form\u00e1tum\u00e1t. \u00daj lap hozz\u00e1ad\u00e1sakor ez enged\u00e9lyezi a \"Lap hozz\u00e1ad\u00e1sa\" l\u00e9p\u00e9s kihagy\u00e1s\u00e1t. Haszn\u00e1lat\u00e1hoz a sz\u00fcl\u0151lap(ok) \u00e1ltal haszn\u00e1lt sablonnak kell meghat\u00e1roznia ezt a sablont (%s) a gyermekek sz\u00e1m\u00e1ra megengedett egyetlenk\u00e9nt (l\u00e1sd a sz\u00fcl\u0151 \u00e1ltal haszn\u00e1lt sablon \"Csal\u00e1d\" f\u00fcl\u00e9t)."
+        },
+        "026e4114c3bd578141d593edfdcba4b6": {
+            "text": "Ha a c\u00edm mez\u0151b\u0151l akarja sz\u00e1rmaztatni a lapnevek \u00e9rt\u00e9keit: adja meg fent a \"title\" \u00e9rt\u00e9ket (id\u00e9z\u0151jelek n\u00e9lk\u00fcl)."
+        },
+        "6064635b0dec3189859052c02adc0fc5": {
+            "text": "A 'l\u00e9trehoz\u00f3 felhaszn\u00e1l\u00f3' m\u00f3dos\u00edt\u00e1s\u00e1nak enged\u00e9lyez\u00e9se a lapokon?"
+        },
+        "16a657e6bf4576ef101f1bcca129694c": {
+            "text": "Ha bejel\u00f6li, akkor az ezt a sablont haszn\u00e1l\u00f3 lapoknak be\u00e1ll\u00edt\u00e1suk lesz a 'l\u00e9trehoz\u00f3 felhaszn\u00e1l\u00f3' m\u00f3dos\u00edt\u00e1s\u00e1hoz (csak rendszergazd\u00e1k sz\u00e1m\u00e1ra). Ez enged\u00e9lyezi az API-n kereszt\u00fcl menthet\u0151 $page->createdUser vagy a $page->created_users_id mez\u0151t."
+        },
+        "cde43753349041653da0d29cc52a15fa": {
+            "text": "**Ha azt k\u00edv\u00e1nja, hogy a lapnevek t\u00fckr\u00f6zz\u00e9k a l\u00e9trehoz\u00e1s d\u00e1tum\u00e1t\/id\u0151pontj\u00e1t:** adjon meg egy fenti [d\u00e1tumform\u00e1tumot](http:\/\/www.php.net\/manual\/en\/function.date.php). A d\u00e1tumform\u00e1tumnak tartalmaznia kell legal\u00e1bb egy nem alfanumerikus karaktert (mint p\u00e9ld\u00e1ul a perjel \"\/\" vagy a kett\u0151spont \":\") hogy d\u00e1tumform\u00e1tumk\u00e9nt felismerhet\u0151 legyen. P\u00e9ld\u00e1ul: a \"Y\/m\/d H:i:s\"  olyan lapneveket eredm\u00e9nyezne, mint: \"2014-10-30-12-39-01\". Ahogy l\u00e1that\u00f3, a form\u00e1zott d\u00e1tumban m\u00e9g megl\u00e9v\u0151 nem alfanumerikus karakterek k\u00f6t\u0151jelekk\u00e9 ker\u00fclnek \u00e1talak\u00edt\u00e1sra."
+        },
+        "fd83133f05e8bacf7eb368a2d95de8fe": {
+            "text": "Ha egy mez\u0151 alap\u00e9rtelmez\u00e9sk\u00e9nt \"glob\u00e1lisk\u00e9nt\" megjel\u00f6lt, akkor az \u00f6sszes sablonon sz\u00fcks\u00e9g lesz r\u00e1 (\u00e9s automatikusan hozz\u00e1ad\u00e1sra ker\u00fcl olyan sablonokhoz, melyeken nincs. Ha ennek a sablonnak van egy speci\u00e1lis sz\u00e1nd\u00e9ka, ahol a 'glob\u00e1lis' mez\u0151ket nem kell alkalmazni, akkor bejel\u00f6lheti ezt a jel\u00f6l\u0151n\u00e9gyzetet, hogy ez a sablon figyelmen k\u00edv\u00fcl hagyja a 'glob\u00e1lis' mez\u0151ket."
+        },
+        "0176d878928026caefe7c81262335e1d": {
+            "text": "Megjelenjen a 'n\u00e9v' mez\u0151 a tartalom f\u00fcl\u00f6n?"
+        },
+        "61788997b579a9bcfe17e394d394ad01": {
+            "text": "A be\u00e9p\u00edtett 'n\u00e9v' mez\u0151 alap\u00e9rtelmez\u00e9sk\u00e9nt megjelenik a lapszerkeszt\u0151 'be\u00e1ll\u00edt\u00e1sok' f\u00fcl\u00e9n. Ha azt szeretn\u00e9, hogy a 'tartalom' f\u00fcl\u00f6n jelenjen meg ink\u00e1bb, akkor jel\u00f6lje be ezt a jel\u00f6l\u0151n\u00e9gyzetet."
+        },
+        "518270f594c5488ff1f8de2ac0429f0e": {
+            "text": "Ha meg akarja akad\u00e1lyozni az ezt a sablont haszn\u00e1l\u00f3 lapok \u00e1thelyez\u00e9s\u00e9t (a sz\u00fcl\u0151 m\u00f3dos\u00edt\u00e1sa), akkor jel\u00f6lje be ezt a jel\u00f6l\u0151n\u00e9gyzetet."
+        },
+        "19a460b1edf9cc0616cd0ce03e9a0ddf": {
+            "text": "Letiltja a Kuka be\u00e1ll\u00edt\u00e1st?"
+        },
+        "38354c9531a0d7056f7f98de8810a2f1": {
+            "text": "Ha bejel\u00f6li, akkor az ezt a sablont haszn\u00e1l\u00f3 lapoknak nem lesz lehet\u0151s\u00e9g\u00fck a kuk\u00e1ba k\u00fcld\u00e9sre."
+        },
+        "6ab8ac5b13a48347d2ca00a38bb06f94": {
+            "text": "Egy sablon p\u00e9ld\u00e1ja, melyet nem akar \u00faj lapokhoz felhaszn\u00e1lni a 'f\u0151lap' sablon."
+        },
+        "fcdd2e278208618dfa795ed85ba1eb06": {
+            "text": "V\u00e1lassza ki az(oka)t a sablon(oka)t, mely(ek) lapjai gyermekei sz\u00e1m\u00e1ra enged\u00e9lyezett lesz ennek a sablonnak a haszn\u00e1lata. Csak akkor haszn\u00e1lja, ha kifejezetten korl\u00e1tozni akarja az ezt a sablont haszn\u00e1l\u00f3 lapok elhelyez\u00e9s\u00e9t."
+        },
+        "9927f70231db8b53612513d00b934a7c": {
+            "text": "Ha egyet sem v\u00e1laszt ki, akkor a felhaszn\u00e1l\u00f3 hozz\u00e1f\u00e9r\u00e9si korl\u00e1toz\u00e1sain bel\u00fcl b\u00e1rmelyik enged\u00e9lyezett. P\u00e9lda lehet a haszn\u00e1lat\u00e1ra egy 'news-list' sablon, melynek csak a 'news-item' vagy a 'press-release' sablon haszn\u00e1lat\u00e1val enged\u00e9lyezettek a gyermekek."
+        },
+        "8d3a827d5474c79dc3434e5e29f7a80f": {
+            "text": "V\u00e1lassza ki az(oka)t a sablon(oka)t, mely(ek) az ezt a sablont haszn\u00e1l\u00f3 lapok sz\u00fcl\u0151ik\u00e9nt lesz(nek) enged\u00e9lyezett(ek). Csak akkor haszn\u00e1lja, ha kifejezetten korl\u00e1tozni akarja az ezt a sablont haszn\u00e1l\u00f3 lapok elhelyez\u00e9s\u00e9t."
+        },
+        "dc70febc65985c326b6d7a85502ddc0a": {
+            "text": "Ha egyet sem v\u00e1laszt ki, akkor a felhaszn\u00e1l\u00f3 hozz\u00e1f\u00e9r\u00e9si korl\u00e1toz\u00e1sain bel\u00fcl b\u00e1rmilyen sz\u00fcl\u0151sablon enged\u00e9lyezett. P\u00e9lda lehet a haszn\u00e1lat\u00e1ra egy 'employee' sablon, melynek csak egy 'company-directory' sablont haszn\u00e1l\u00f3 sz\u00fcl\u0151lapja enged\u00e9lyezett."
+        },
+        "5cf485ae4559df60232a5ff0f87783cb": {
+            "text": "Sz\u00fcks\u00e9g eset\u00e9n adja meg a lapnevek form\u00e1tum\u00e1t, mely \u00faj gyermeklap hozz\u00e1ad\u00e1sakor ker\u00fcl felhaszn\u00e1l\u00e1sra. \u00daj lap hozz\u00e1ad\u00e1sakor ez teszi lehet\u0151v\u00e9 a \"Lap hozz\u00e1ad\u00e1sa\" l\u00e9p\u00e9s kihagy\u00e1s\u00e1t. Haszn\u00e1lat\u00e1hoz egy (1) sablont kell fent kiv\u00e1lasztania a \"Gyermekek enged\u00e9lyezett sablonja(i)\" mez\u0151 sz\u00e1m\u00e1ra."
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "Hagyja \u00fcresen a letilt\u00e1s\u00e1hoz. \u00cdrja be a \"title\" sz\u00f3t (id\u00e9z\u0151jelek n\u00e9lk\u00fcl) a n\u00e9v automatikus l\u00e9trehoz\u00e1s\u00e1hoz a lapc\u00edmb\u0151l. Tov\u00e1bbi be\u00e1ll\u00edt\u00e1sok, t\u00f6bbek k\u00f6zt a d\u00e1tumform\u00e1tumok, is el\u00e9rhet\u0151k. [B\u0151vebben](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "eaf9115aadc503ff009e4c769963a877": {
+            "text": "Ha bejel\u00f6li, akkor ez a sablon jogosult arra, hogy megjelenjen az \"\u00faj lap hozz\u00e1ad\u00e1sa\" parancsgombon\/men\u00fcben, mely a f\u0151 Lapok k\u00e9perny\u0151n l\u00e1that\u00f3. Ez minden egy\u00e9b felt\u00e9tel teljes\u00fcl\u00e9s\u00e9t felt\u00e9telezi (l\u00e1sd al\u00e1bb)."
+        },
+        "91426b7105692d7c29b6307385ea99d1": {
+            "text": "**A haszn\u00e1lat\u00e1hoz sz\u00fcks\u00e9ges felt\u00e9telek**"
+        },
+        "635a2459897d3f0072993713558c84b0": {
+            "text": "1. Ki kell v\u00e1lasztania egy sz\u00fcl\u0151sablont (l\u00e1sd fent: \"A sz\u00fcl\u0151k sz\u00e1m\u00e1ra enged\u00e9lyezett sablonok\"). Ha t\u00f6bb van kijel\u00f6lve, akkor csak az els\u0151 ker\u00fcl felhaszn\u00e1l\u00e1sra."
+        },
+        "b14d306525e8d6e9927d577a59064048": {
+            "text": "2. A kiv\u00e1lasztott sz\u00fcl\u0151sablonnak a gyermekek sz\u00e1m\u00e1ra enged\u00e9lyezettk\u00e9nt kell meghat\u00e1roznia ezt a sablont."
+        },
+        "b31e82dcc61dd6ba650389f38c6e154e": {
+            "text": "3. A sz\u00fcl\u0151sablont haszn\u00e1l\u00f3 lapnak csak egy p\u00e9ld\u00e1nya lehet a rendszerben."
+        },
+        "69b2806a857d0fb5778a31c1f88f59a0": {
+            "text": "A jelenlegi lapsz\u00e1mot a $input->pageNum; v\u00e1ltoz\u00f3n\u00e1l \u00e9ri el a sablonb\u00f3l."
+        },
+        "217ca16c1e160b229a71c244512c3d4d": {
+            "text": "A sablonf\u00e1jlok felt\u00e9telezhet\u0151en a k\u00f6vetkez\u0151 k\u00f6nyvt\u00e1rban tal\u00e1lhat\u00f3k: %s"
+        },
+        "043008c261f9d0e109c03ab63e047bcd": {
+            "text": "A sablonf\u00e1jl kiterjeszt\u00e9se felt\u00e9telezhet\u0151en a k\u00f6vetkez\u0151: %s"
+        },
+        "0f7b5e8d336c577672820ac8d848fb4f": {
+            "text": "F\u00e1jl hozz\u00e1f\u0171z\u00e9se"
+        },
+        "9c33f36534809a059d32ae185a28ad0e": {
+            "text": "A sablonf\u00e1jlhoz hozz\u00e1f\u0171zend\u0151 f\u00e1jl a lap megjelen\u00edt\u00e9sekor. Relat\u00edvnak kell lennie a \/site\/templates\/ el\u00e9r\u00e9si \u00faton."
+        },
+        "95dac43782405c335b194c4f4ff28436": {
+            "text": "A k\u00f6vetkez\u0151 f\u00e1jl automatikus hozz\u00e1f\u0171z\u00e9s\u00e9nek letilt\u00e1sa: %s"
+        },
+        "438f365e84607c69184559ff2e9d974b": {
+            "text": "Ez a be\u00e1ll\u00edt\u00e1s csak ehhez a sablonhoz letiltja a $config->appendTemplateFile be\u00e1ll\u00edt\u00e1st a \/site\/config.php f\u00e1jlban."
+        },
+        "707380d7bcc2ece9eead5a5879fb1c22": {
+            "text": "K\u00edv\u00e1nja kezelni az ezt a sablont haszn\u00e1l\u00f3 lapok megtekint\u00e9si \u00e9s szerkeszt\u00e9si hozz\u00e1f\u00e9r\u00e9s\u00e9t?"
+        },
+        "e13c4cbb7f089450e12b10561001f9e1": {
+            "text": "Ha egy felhaszn\u00e1l\u00f3 megk\u00eds\u00e9rel egy ezt a sablont haszn\u00e1l\u00f3 lapot el\u00e9rni, \u00e9s nincs hozz\u00e1f\u00e9r\u00e9se a laphoz, akkor mit tegyen?"
+        },
+        "62596dd3b1918d492b97f5945dc8aea8": {
+            "text": "A sablon mez\u0151csoport m\u00f3dos\u00edt\u00e1sa megt\u00f6rt\u00e9nt a k\u00f6vetkez\u0151re: %s"
+        },
+        "52ca64db1f0ca50831b3af91db6cd643": {
+            "text": "F\u00e1jl el\u00e9f\u0171z\u00e9se"
+        },
+        "58a0dd4014386dd156c47a6d69cdd5f8": {
+            "text": "A sablonf\u00e1jl el\u00e9 f\u0171zend\u0151 f\u00e1jl a lap megjelen\u00edt\u00e9se sor\u00e1n. Relat\u00edvnak kell lennie a \/site\/templates\/ el\u00e9r\u00e9si \u00fathoz."
+        },
+        "ab6b38f8849f9837a2fbb24721ab5e99": {
+            "text": "A k\u00f6vetkez\u0151 f\u00e1jl automatikus el\u00e9f\u0171z\u00e9s\u00e9nek letilt\u00e1sa: %s"
+        },
+        "07bbc1cae53fb8d26759b5564e6a5824": {
+            "text": "Ez a be\u00e1ll\u00edt\u00e1s csak ehhez a sablonhoz letiltja a $config->prependTemplateFile be\u00e1ll\u00edt\u00e1st a \/site\/config.php f\u00e1jlban."
+        },
+        "22ac5f69365966a7ce509e349b23539a": {
+            "text": "Az Igen' v\u00e1laszt\u00e1sakor meghat\u00e1rozhatja, hogy mely szerepk\u00f6r\u00f6k f\u00e9rhetnek hozz\u00e1 az ezt a sablont haszn\u00e1l\u00f3 lapokhoz. A 'Nem' v\u00e1laszt\u00e1sakor az ezt a sablont haszn\u00e1l\u00f3 lapok  a sz\u00fcl\u0151lapjaikt\u00f3l fogj\u00e1k \u00f6r\u00f6k\u00f6lni a hozz\u00e1f\u00e9r\u00e9st."
+        },
+        "b12715241d6f9d36629e189651930f08": {
+            "text": "Ez a mez\u0151 csak akkor alkalmazhat\u00f3, ha fenti mez\u0151ben az \"\u00e1tir\u00e1ny\u00edt\u00e1s m\u00e1sik URL-c\u00edmre\" be\u00e1ll\u00edt\u00e1st v\u00e1lasztotta."
+        },
+        "2f2055affca16d8404e278fc1d6c3a07": {
+            "text": "V\u00e1laszthat\u00f3: Az URL-c\u00edmbe (tal\u00e1n GET v\u00e1ltoz\u00f3k\u00e9nt) beleveheti az '{id}' c\u00edmk\u00e9t, ami lecser\u00e9l\u00e9sre fog ker\u00fclni a k\u00e9rt lap azonos\u00edt\u00f3sz\u00e1m\u00e1val, ha szeretn\u00e9."
+        },
+        "6ceb6814781363fa5e58fc38fe5910a1": {
+            "text": "Ha egy felhaszn\u00e1l\u00f3nak nincs hozz\u00e1f\u00e9r\u00e9se egy ezt a sablont haszn\u00e1l\u00f3 lap megtekint\u00e9s\u00e9hez, akkor mi t\u00f6rt\u00e9njen a keres\u00e9sekben \u00e9s a laplist\u00e1kban?"
+        },
+        "9afb9f536d5471f188308f8e160a555c": {
+            "text": "Igen - A lapok akkor is megjelenhetnek keres\u00e9sekben\/list\u00e1kban, ha a felhaszn\u00e1l\u00f3nak nincs hozz\u00e1f\u00e9r\u00e9se a megtekint\u00e9s\u00fckh\u00f6z"
+        },
+        "ac32650de5a87d0e83f088edcefbc9a8": {
+            "text": "Nem - A lapok NEM jelenhetnek meg keres\u00e9sekben\/list\u00e1kban, ha a felhaszn\u00e1l\u00f3nak nincs hozz\u00e1f\u00e9r\u00e9se a megtekint\u00e9s\u00fckh\u00f6z"
+        },
+        "211addf77f182a8c4e3b0911eb82e05f": {
+            "text": "T\u00f6r\u00f6lt sablon"
+        },
+        "0ad1fc6237db839537da704c90b40c53": {
+            "text": "A(z) \"%1$s\" sablon \"%2$s\" nev\u0171 kl\u00f3nja elk\u00e9sz\u00fclt. A(z) \"%2$s\" szerkeszt\u00e9s\u00e9vel \u00e9s a \"speci\u00e1lis\" f\u00fclre kattintva nevezheti \u00e1t."
+        },
+        "a9b81f1f8d87e20c79d70ad42cc924e3": {
+            "text": "A mez\u0151k megkett\u0151z\u00e9se megt\u00f6rt\u00e9nt ebb\u0151l: \"%1$s\" ebbe: \"%2$s\""
+        },
+        "1a1e5b08d1538484177a49ce2168b297": {
+            "text": "Er\u0151s\u00edtse meg, hogy m\u00f3dos\u00edtani akarja a mez\u0151csoportot err\u0151l: \"%1$s\" erre: \"%2$s\""
+        },
+        "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
+            "text": "Ha egy konkr\u00e9t mez\u0151 szerint automatikusan k\u00edv\u00e1nja rendezni a gyermekeket, akkor v\u00e1lassza itt ki a mez\u0151t. Egy\u00e9b esetben v\u00e1lassza az \"Egyik sem\" lehet\u0151s\u00e9get, hogy laponk\u00e9nt legyen ink\u00e1bb be\u00e1ll\u00edthat\u00f3. Ez fel\u00fclb\u00edr\u00e1lja a lap be\u00e1ll\u00edt\u00e1st, vagyis ha b\u00e1rmi m\u00e1st v\u00e1laszt a \"Nincs\" lehet\u0151s\u00e9gen k\u00edv\u00fcl, akkor a rendez\u00e9si be\u00e1ll\u00edt\u00e1s nem fog megjelenni az ezt a sablont haszn\u00e1l\u00f3 lapokn\u00e1l."
+        },
+        "8bda693211f46eb289c8bdadedaf54ae": {
+            "text": "Ha bejel\u00f6li, akkor az ezt a sablont haszn\u00e1l\u00f3 lapok 'page123' form\u00e1ban fogj\u00e1k fogadni a lapsz\u00e1m URL-szegmenst, ahol az '123' b\u00e1rmilyen pozit\u00edv sz\u00e1m lehet. P\u00e9ld\u00e1ul, a '\/widgets\/page3' URL-c\u00edm k\u00e9relme automatikusan \u00e1ll\u00edtja be 3-ra a $input->pageNum \u00e9rt\u00e9k\u00e9t. Ez a lapsz\u00e1moz\u00e1shoz ker\u00fcl felhaszn\u00e1l\u00e1sra, \u00e9s csak azon sablonok sz\u00e1m\u00e1ra kell enged\u00e9lyezni, melyek t\u00e1mogatj\u00e1k a lapsz\u00e1moz\u00e1st. Megjegyzend\u0151, hogy a lapsz\u00e1mok 1-gyel kezd\u0151dnek (nem 0-val). Ha URL-szegmensekkel kombin\u00e1lja (l\u00e1sd a k\u00f6vetkez\u0151r\u00e9szt),akkor a lapsz\u00e1mnak az URL-c\u00edm utols\u00f3 r\u00e9sz\u00e9nek kell lennie."
+        },
+        "edf7d3cbbda60af5148285cec1cd7569": {
+            "text": "Ez a sablon sz\u00fcks\u00e9g eset\u00e9n kiszolg\u00e1lhatja az ezt haszn\u00e1l\u00f3 lap(ok) al\u00e1bbi URL el\u00e9r\u00e9si \u00fat szegmenseit. P\u00e9ld\u00e1ul, \u00d6n szeretne egy lapot \/utvonal\/a\/laphoz\/ el\u00e9r\u00e9si \u00fattal, ami az \/utvonal\/a\/laphoz\/szegmens1\/ vagy az \/utvonal\/a\/laphoz\/szegmens1\/szegmens2\/ sz\u00e1m\u00e1ra is kezeli a k\u00e9relmeket. Alap\u00e9rtelmez\u00e9sk\u00e9nt a ProcessWire  egy '404 A lap nem tal\u00e1lhat\u00f3' hib\u00e1t fog el\u0151id\u00e9zni egy ilyen URL-c\u00edm el\u00e9r\u00e9sekor. Ha viszont azt akarja, hogy a ProcessWire ehelyett a lapot jelen\u00edtse meg, akkor jel\u00f6lje be az al\u00e1bbi jel\u00f6l\u0151n\u00e9gyzetet. Azut\u00e1n k\u00e9zzel ellen\u0151rizheti az URL-szegmenseket a sablonf\u00e1jlb\u00f3l, hogy v\u00e1laszoljanak nekik."
+        },
+        "8c8b0529510e126bc81359c5a2ae3482": {
+            "text": "Legfeljebb 3 URL-szegmens t\u00e1mogatott a lap URL-c\u00edme ut\u00e1n. Ezek kis ASCII-bet\u0171k (a-z), sz\u00e1mok (0-9), k\u00f6t\u0151jelek \u00e9s al\u00e1h\u00faz\u00e1sjelek b\u00e1rmilyen kombin\u00e1ci\u00f3ja lehetnek. Az URL-szegmenseket a sablon API-k\u00f3dj\u00e1b\u00f3l \u00e9rheti el az $input->urlSegment(n) f\u00fcggv\u00e9ny vagy az $input->urlSegment[n] (az [n] 1, 2 vagy 3 \u00e9rt\u00e9kkel val\u00f3 behelyettes\u00edt\u00e9s\u00e9vel) tulajdons\u00e1g \u00e1ltal hivatkozva."
+        },
+        "3f7071fb2ff5f5a0218c696722986007": {
+            "text": "P\u00e9ld\u00e1ul, adott az \/utvonal\/a\/laphoz\/a\/b\/c\/ URL-c\u00edm, ahol az \/utvonal\/a\/laphoz\/ a lap el\u00e9r\u00e9si \u00fatja, \u00e9s az \/a\/b\/c\/ a szegmensek: az $input->urlSegment1 az \"a\", az $input->urlSegment2 a \"b\" \u00e9s az $input->urlSegment3 a \"c\". Ha a sablon ismeretlen URL-szegmenseket fogad, akkor a legjobb gyakorlat a k\u00e9relem megszak\u00edt\u00e1sa egy 404-es hiba el\u0151id\u00e9z\u00e9s\u00e9vel. V\u00e9grehajt\u00e1s\u00e1hoz az API-k\u00f3d: throw new Wire404Exception();"
+        },
+        "60cb362641cd33525562c9d62d0f8d18": {
+            "text": "Az 'Igen' v\u00e1laszt\u00e1sakor az ezt a lapot haszn\u00e1l\u00f3 sablonoknak mindig van z\u00e1r\u00f3 perjellel '\/' v\u00e9gz\u0151d\u0151 URL-c\u00edm\u00fck. \u00c9s ha a lapot perjel n\u00e9lk\u00fcli URL-c\u00edmr\u0151l t\u00f6ltik be, akkor arra fog \u00e1tir\u00e1ny\u00edt\u00e1sra ker\u00fclni. A 'Nem' v\u00e1laszt\u00e1sakor a program a perjel n\u00e9lk\u00fcli v\u00e1ltozatot fogja k\u00e9nyszer\u00edteni helyette. Megjegyzend\u0151, hogy ez a be\u00e1ll\u00edt\u00e1s nem k\u00e9nyszer\u00edti ezt a viselked\u00e9st az URL-szegmensekre vagy lapsz\u00e1mokra, csak a t\u00e9nyleges lap URL-c\u00edmekre. Ha nem adta ezt meg, akkor az 'Igen' meghagy\u00e1sa aj\u00e1nlott."
+        },
+        "ecb1f1de9e0f813e37e40e2aa016c008": {
+            "text": "Ha webhely\u00e9nek van SSL-tan\u00fas\u00edtv\u00e1nya, \u00e9s HTTPS \u00e1ltal el\u00e9rhet\u0151, akkor ennek a sablonnak a haszn\u00e1lat\u00e1val csak HTTPS vagy HTTP protokollon kereszt\u00fcl teheti el\u00e9rhet\u0151v\u00e9 a lapokat. Ha p\u00e9ld\u00e1ul al\u00e1bb a 'csak HTTPS' lehet\u0151s\u00e9get v\u00e1lasztja, \u00e9s HTTP-n kereszt\u00fcl \u00e9rkezik egy k\u00e9r\u00e9s egy ezt a sablont haszn\u00e1l\u00f3 lap sz\u00e1m\u00e1ra, akkor automatikusan \u00e1tir\u00e1ny\u00edt\u00e1sra fog ker\u00fclni a HTTPS-v\u00e1ltozatra. A ProcessWire alap\u00e9rtelmez\u00e9sk\u00e9nt vagy HTTP-r\u0151l, vagy HTTPS-r\u0151l enged\u00e9lyezi a csatlakoz\u00e1st."
+        },
+        "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
+            "text": "Alternat\u00edv sablonf\u00e1jln\u00e9v"
+        },
+        "297401f75a53c46e41a44c9d91738f1e": {
+            "text": "\u00d6n egy vagy t\u00f6bb mez\u0151 elt\u00e1vol\u00edt\u00e1s\u00e1t k\u00e9rte a sablonb\u00f3l. Ez az al\u00e1bbi mez\u0151kh\u00f6z t\u00e1rs\u00edtott adatok v\u00e9gleges t\u00f6rl\u00e9s\u00e9t fogja eredm\u00e9nyezni. Ha az elt\u00e1vol\u00edt\u00e1sra ker\u00fcl\u0151 mez\u0151k sok adatot tartalmaznak, akkor ennek a m\u0171veletnek a meger\u0151s\u00edt\u00e9s \u00e9s ezen \u0171rlap elk\u00fcld\u00e9se ut\u00e1n id\u0151be telhet a befejez\u00e9s. Az al\u00e1bbi jel\u00f6l\u0151n\u00e9gyzetek bejel\u00f6l\u00e9s\u00e9vel er\u0151s\u00edtse meg, hogy meg\u00e9rtette ezt, \u00e9s t\u00f6r\u00f6lni akarja a mez\u0151(ke)t."
+        },
+        "6703f01fb2662a497ae2d29163ed68c2": {
+            "text": "A n\u00e9v m\u00e1r haszn\u00e1latban van"
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Sz\u00fcks\u00e9g eset\u00e9n b\u00edr\u00e1lja fel\u00fcl az alap\u00e9rtelmezett \"Tartalom\" f\u00fcl felirat\u00e1t."
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Sz\u00fcks\u00e9g eset\u00e9n b\u00edr\u00e1lja fel\u00fcl az alap\u00e9rtelmezett \"Gyermeklapok\" f\u00fcl felirat\u00e1t."
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "A Tartalom f\u00fcl felirata"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "A Gyermeklapok f\u00fcl felirata"
+        }
+    }
+}

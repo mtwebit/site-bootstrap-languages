@@ -1,0 +1,102 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "N\u00e9v"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "L\u00e9treozva"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "M\u00f3dos\u00edtva"
+        },
+        "a5e3d3ad4b54f37c48d9391d5ab35eed": {
+            "text": "M\u00f3dos\u00edtotta"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "L\u00e9trehozta"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sablon"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "\u00c1llapot"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Sz\u00fcl\u0151"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Rejtett"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Visszavonva"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Z\u00e1rolva"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Kuka"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Ismeretlen k\u00f6nyvjelz\u0151 vagy m\u00e1r nem akt\u00edv k\u00f6nyvjelz\u0151"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Sz\u0171r\u0151k"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Sz\u0171r\u0151 hozz\u00e1ad\u00e1sa"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "Alap\u00e9rtelmezett oszlopok"
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "Milyen oszlopok jelenjenek meg az eredm\u00e9nyben"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Milyen lapok jelenjenek meg"
+        },
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "\u00dcres"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "szerkeszt"
+        },
+        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
+            "text": "n\u00e9zet"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "\u00faj"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "Nincs eredm\u00e9ny."
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "kijel\u00f6lve"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Az \u00f6sszes be\u00e1ll\u00edt\u00e1s alaphelyzetbe \u00e1ll\u00edt\u00e1sa megt\u00f6rt\u00e9nt."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "\u00daj hozz\u00e1ad\u00e1sa"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Oszlopok"
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "V\u00e1lassza ki \u00e9s rendezze a laplista t\u00e1bl\u00e1zatban megjelen\u0151 oszlopokat."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "A felhaszn\u00e1l\u00f3 tetsz\u00e9s szerint m\u00f3dos\u00edthatja, hogy melyik oszlopok jelenjenek meg, vagyis ezek fognak alap\u00e9rtelmez\u00e9sekk\u00e9nt szolg\u00e1lni."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "Az itt v\u00e9grehajtott m\u00f3dos\u00edt\u00e1soknak azonnal t\u00fckr\u00f6z\u0151dni\u00fck kell az al\u00e1bbi eredm\u00e9nyekben."
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d - %2$d \/ %3$d"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Gyermekek sz."
+        }
+    }
+}

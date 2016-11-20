@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldAsmSelect\/InputfieldAsmSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
+    "translations": {
+        "74c0ecf830d7e594ea8491c932418590": {
+            "text": "T\u00f6bbsz\u00f6r\u00f6s kijel\u00f6l\u00e9s, halad\u00f3 tov\u00e1bbfejleszt\u00e9s t\u00f6bb elem kijel\u00f6l\u00e9s\u00e9hez"
+        },
+        "0c4cf3dd938578951cefc0c5503f4939": {
+            "text": "asmSelect"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Enged\u00e9lyek"
+        },
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "A rendszerenged\u00e9lyek kezel\u00e9se"
+        }
+    }
+}

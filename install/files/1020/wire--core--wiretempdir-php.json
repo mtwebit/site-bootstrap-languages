@@ -1,0 +1,12 @@
+{
+    "file": "wire\\core\\WireTempDir.php",
+    "textdomain": "wire--core--wiretempdir-php",
+    "translations": {
+        "fcecae7cd3a639caff1a6a7c895c954d": {
+            "text": "Nem lehet l\u00e9trehozni az ideiglenes k\u00f6nyvt\u00e1rat"
+        },
+        "5d73c732a700aaa27e07ffd0f638ecc8": {
+            "text": "Nem lehet elt\u00e1vol\u00edtani az ideiglenes k\u00f6nyvt\u00e1rat"
+        }
+    }
+}

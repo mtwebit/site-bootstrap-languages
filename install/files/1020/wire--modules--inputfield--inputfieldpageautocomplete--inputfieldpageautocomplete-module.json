@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageAutocomplete\/InputfieldPageAutocomplete.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpageautocomplete--inputfieldpageautocomplete-module",
+    "translations": {
+        "0f6969d7052da9261e31ddb6e88c136e": {
+            "text": "elt\u00e1vol\u00edt\u00e1s"
+        },
+        "111ce57a33643818f896c8ef5b78f923": {
+            "text": "\u00daj elemk\u00e9nt val\u00f3 hozz\u00e1ad\u00e1shoz nyomja meg az enter gombot"
+        },
+        "a2324d16f834e2138b021bb90f1823dc": {
+            "text": "Automatikus kieg\u00e9sz\u00edt\u00e9s speci\u00e1lis be\u00e1ll\u00edt\u00e1sai"
+        },
+        "5bd9a3b9fd04ef31e99e96b10ce5ac5f": {
+            "text": "Automatikus kieg\u00e9sz\u00edt\u00e9s keres\u00e9si oper\u00e1tor"
+        },
+        "a711451766d79a07ee817f88cb63ca56": {
+            "text": "A keres\u00e9si oper\u00e1tor, mely automatikus kieg\u00e9sz\u00edt\u00e9si egyez\u00e9sek v\u00e9grehajt\u00e1sakor ker\u00fcl felhaszn\u00e1l\u00e1sra az API-ban."
+        },
+        "ddc1a98a2c8309eab3292b5fda7e0506": {
+            "text": "Ha nem biztos abban, hogy mit akar itt, akkor hagyja meg az alap\u00e9rtelmezett be\u00e1ll\u00edt\u00e1st: *="
+        },
+        "6774b148e1f242760726e4c88d08931a": {
+            "text": "Kifejez\u00e9st vagy sz\u00f3r\u00e9szt tartalmaz (teljes sz\u00f6veges index haszn\u00e1lat\u00e1val) - Aj\u00e1nlott"
+        },
+        "10723caf0a8012a762b741f821060ea9": {
+            "text": "Kifejez\u00e9st vagy sz\u00f3r\u00e9szt tartalmaz (LIKE haszn\u00e1lat\u00e1val)"
+        },
+        "5aebeca1891bcef0142167dda686b4a7": {
+            "text": "Az \u00f6sszes [teljes] sz\u00f3t tartalmazza, b\u00e1rmilyen sorrendben"
+        },
+        "0626526d691a7bf48a099a2330fde59f": {
+            "text": "Sz\u00f3val\/kifejez\u00e9ssel kezd\u0151dik"
+        },
+        "a606a68c3a2a799b75998b7be8d48aea": {
+            "text": "Sz\u00f3val\/kifejez\u00e9ssel v\u00e9gz\u0151dik"
+        },
+        "0a06fd6fea29497256d43910fde22cd3": {
+            "text": "Egyenl\u0151 [pontos]"
+        },
+        "b956d301c10771357a356a80d9f0d3a5": {
+            "text": "A lek\u00e9rdezend\u0151 mez\u0151k az automatikus kieg\u00e9sz\u00edt\u00e9shez"
+        },
+        "8fdfe6e949b4c07d26317e3e2f99a14d": {
+            "text": "Az indexelt sz\u00f6vegmez\u0151k tartalmazz\u00e1k:"
+        },
+        "0e942985459c2961ee2ddd03061475e4": {
+            "text": "Automatikus lapkieg\u00e9sz\u00edt\u00e9s"
+        },
+        "0c458f5b668cdb153d43ffa89c2f2393": {
+            "text": "Adja meg azoknak a mez\u0151knek a neveit, melyeknek automatikus kieg\u00e9sz\u00edt\u00e9s egyeztet\u00e9s c\u00e9lj\u00e1b\u00f3l le kell k\u00e9rdezni a sz\u00f6vegeiket. Ennek \u00e1ltal\u00e1ban a c\u00edm mez\u0151nek kellene lennie, viszont sz\u00f3k\u00f6zzel elv\u00e1lasztva m\u00e1sokat is hozz\u00e1adhat. Vegye figyelembe, hogy ez elt\u00e9r a (fenti) \"Felirat mez\u0151t\u0151l\". Itt azt adja meg, hogy melyik mez\u0151kben fog keresni, nem pedig azokat a mez\u0151ket, melyek l\u00e1that\u00f3k lesznek, "
+        },
+        "f2f3cd9d4e91a577333b66f5818b9d3b": {
+            "text": "T\u00f6bb lap kijel\u00f6l\u00e9se automatikus kieg\u00e9sz\u00edt\u00e9ssel \u00e9s rendez\u00e9si k\u00e9pess\u00e9ggel. Laphivatkoz\u00e1s mez\u0151k beviteli mez\u0151jek\u00e9nt val\u00f3 haszn\u00e1latra sz\u00e1nva."
+        }
+    }
+}

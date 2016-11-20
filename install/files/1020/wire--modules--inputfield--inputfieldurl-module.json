@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
+    "textdomain": "wire--modules--inputfield--inputfieldurl-module",
+    "translations": {
+        "961a0e7330169a0918a85c1086c4ff3a": {
+            "text": "Adjon meg egy \u00e9rv\u00e9nyes URL-c\u00edmet, pl. http:\/\/www.vallalat.hu\/dir\/"
+        },
+        "34b4cb36f08c1d976a2e58d37d81ce49": {
+            "text": "A helyi URL-c\u00edmek kezd\u00e9se \"\/\" jellel, \u00e9s a \"%s\" r\u00e9sz elhagy\u00e1sa."
+        },
+        "31d3da8cb2ee3f26243a6157ce0e5634": {
+            "text": "Hiba tal\u00e1lhat\u00f3 - ellen\u0151rizze, hogy \u00e9rv\u00e9nyes-e az URL-c\u00edm"
+        },
+        "db04dc8c39e8a426d723ba1c6f8a2cd4": {
+            "text": "Ne feledje, hogy a \"http:\/\/\" hozz\u00e1ad\u00e1sra ker\u00fclt"
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "URL-c\u00edm"
+        },
+        "1a30197ddff7dc9d65d91f285125cdc2": {
+            "text": "URL-c\u00edm \u00e9rv\u00e9nyes form\u00e1tumban"
+        }
+    }
+}

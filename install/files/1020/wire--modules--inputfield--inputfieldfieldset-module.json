@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFieldset.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfieldset-module",
+    "translations": {
+        "5b3a50aadfa94048d38820473b25ec57": {
+            "text": "Mez\u0151halmaz"
+        },
+        "80b64fcc30458532fff6446e92e98c54": {
+            "text": "Egy vagy t\u00f6bb mez\u0151t csoportos\u00edt \u00f6ssze egy t\u00e1rol\u00f3ban"
+        }
+    }
+}

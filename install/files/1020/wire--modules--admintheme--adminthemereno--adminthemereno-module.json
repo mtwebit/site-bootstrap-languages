@@ -1,0 +1,45 @@
+{
+    "file": "wire\\modules\\AdminTheme\\AdminThemeReno\\AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "eea889e927448a79d84da81851f9d9cb": {
+            "text": "\u00cdrja be a keresend\u0151 sz\u00f6veget"
+        },
+        "b3d00bda3ff5e34c61a7fa73267eb75c": {
+            "text": "Tom Reno (Renobird) adminisztr\u00e1ci\u00f3s t\u00e9m\u00e1ja ProcessWire 2.5-h\u00f6z"
+        },
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Sz\u00edns\u00e9ma"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Klasszikus"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "K\u00e9k"
+        },
+        "cf64a1df05b0b5640322820b1b705605": {
+            "text": "Felhaszn\u00e1l\u00f3i k\u00e9pmez\u0151"
+        },
+        "d076186eb326fac94ae60de5b71755d7": {
+            "text": "Ennek a funkci\u00f3nak a haszn\u00e1lat\u00e1hoz a \"user\" sablonban sz\u00fcks\u00e9g van egy k\u00e9pmez\u0151re. Ha nincs k\u00e9pmez\u0151 a felhaszn\u00e1l\u00f3i sablonban, akkor az avatar alap\u00e9rtelmez\u00e9s szerinti ikon lesz. K\u00e9pmez\u0151nek a felhaszn\u00e1l\u00f3i sablonhoz val\u00f3 hozz\u00e1ad\u00e1s\u00e1hoz nyissa meg a Be\u00e1ll\u00edt\u00e1s > Sablonok > Sz\u0171r\u0151k (A rendszersablonok megjelen\u00edt\u00e9se) k\u00e9perny\u0151t. A \"user\" sablon most meg fog jelenni a list\u00e1ban."
+        },
+        "32b92d181457ef3ee601718c6717d21f": {
+            "text": "Nincsenek a user sablonhoz hozz\u00e1rendelt k\u00e9pmez\u0151k"
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "A(z) \"%s\" mez\u0151 hozz\u00e1adva a felhaszn\u00e1l\u00f3 \u00e1ltal a profilj\u00e1ban szerkeszthet\u0151 mez\u0151kh\u00f6z."
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Ikonok"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Adja meg a navig\u00e1ci\u00f3s men\u00fcpontok ikonjait"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Fels\u0151 navig\u00e1ci\u00f3: F\u0151lap megtekint\u00e9se"
+        },
+        "13884a61afb0a46fc63ee2694d21d16e": {
+            "text": "Fels\u0151 navig\u00e1ci\u00f3: Kijelentkez\u00e9s"
+        }
+    }
+}

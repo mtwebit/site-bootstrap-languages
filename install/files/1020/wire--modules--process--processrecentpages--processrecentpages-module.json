@@ -1,0 +1,60 @@
+{
+    "file": "wire\\modules\\Process\\ProcessRecentPages\\ProcessRecentPages.module",
+    "textdomain": "wire--modules--process--processrecentpages--processrecentpages-module",
+    "translations": {
+        "fda27fd4e8f31d46c37d6ebb661d4975": {
+            "text": "Nincsenek (m\u00e9g) egyez\u0151 lapok"
+        },
+        "0f1af93a396987467471642622b4f372": {
+            "text": "Ehhez a funkci\u00f3hoz page-lister enged\u00e9ly sz\u00fcks\u00e9ges"
+        },
+        "e8ec3c5a66a1458617d385c211485937": {
+            "text": "%s \u00e1ltal mostan\u00e1ban l\u00e9trehozott lapok"
+        },
+        "6164ab6f0d40bf0dbb4d016d70f22451": {
+            "text": "Mostan\u00e1ban l\u00e9trehozott lapok"
+        },
+        "0fa9b1da7af6dc7c17300d2696d4e840": {
+            "text": "%s \u00e1ltal mostan\u00e1ban szerkesztett lapok"
+        },
+        "727d0685214d2e29837bf220bd336876": {
+            "text": "Mostan\u00e1ban szerkesztett lapok"
+        },
+        "854a4e1057837e016fa0fd26de810760": {
+            "text": "\u00dajabb hozz\u00e1ad\u00e1sa"
+        },
+        "587e304d5de9c56ac7833cb11fbbbcf9": {
+            "text": "Kattintson b\u00e1rmelyik elemre ugyanazon t\u00edpus m\u00e1sik\u00e1nak hozz\u00e1ad\u00e1s\u00e1hoz"
+        },
+        "67ed6ddb7d890b23166c1bef771e9451": {
+            "text": "Szerkesztve"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "L\u00e9trehozva"
+        },
+        "2ff3c4fe971c877ac58d0d2ae6d21a1f": {
+            "text": "\u00c1ltalam szerkesztve"
+        },
+        "1914dedd048465ec232e765349041af5": {
+            "text": "\u00c1ltalam l\u00e9trehozva"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Sablon"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Sz\u00fcl\u0151"
+        },
+        "7a194bb4dc7991f70455c1068bc10d94": {
+            "text": "Utolj\u00e1ra l\u00e9trehozva"
+        },
+        "47d881f2691b3fe7e1aa6ddd1d9362fa": {
+            "text": "Lap"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "L\u00e9trehozva"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "M\u00f3dos\u00edtva"
+        }
+    }
+}
