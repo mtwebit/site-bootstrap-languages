@@ -95,8 +95,6 @@
         $pa = $homepage->children;
         $pa = $pa->prepend($homepage);
         echo renderChildrenOf($pa);
-        // output an edit link if the content is editable by the current user
-        // TODO if($page->editable()) echo "<li class='edit'><a href='$page->editUrl'>" . __('Edit') . "</a></li>";
         ?>
 
         <!-- search form -->
@@ -107,14 +105,20 @@
       </div>
 
       <div class="col-xs-2">
-        <!-- language selector -->
-        <ul class="nav navbar-nav navbar-right navbar-dark pull-xs-right">
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-expanded="false"><?php echo _('Language');?><span class="caret"></span></a>
+        <ul class="nav navbar-nav navbar-dark pull-xs-right">
+	  <!-- language selector -->
+          <li class="dropdown nav-item">
+            <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-expanded="false"><i class='fa fa-2 fa-language'></i><span class="caret"></span></a>
             <ul class="dropdown-menu bg-inverse" role="menu"><?php
               echo renderLanguageSelector($languages);
             ?></ul>
           </li>
+	  <?php
+	  // output an edit link if the content is editable by the current user
+	  if ($page->editable()) {
+	    echo "<li class='nav-item'><a class='nav-link' href='{$page->editUrl}'><i class='fa fa-2 fa-edit'></i></a></li>";
+	  }
+	  ?>
         </ul>
       </div>
     </div>
